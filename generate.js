@@ -15,7 +15,7 @@ async function getRecentScamActivity(limit = 100) {
   let allSites = [];
   list.map((_) => {
     const list = _.address.split(",");
-    allAddressList = allAddressList.concat(list.filter((c) => c && c != ""));
+    allAddressList = allAddressList.concat(list.map(_ => _.toLowerCase()).filter((c) => c && c != ""));
     if (_.host) allSites.push(_.host);
   });
   return {
