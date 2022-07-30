@@ -3,8 +3,8 @@ const { API } = require("./config.json");
 const fetch = require("node-fetch");
 
 const allFile = __dirname + "/blacklist/all.json";
-const domainFile = __dirname + "/blacklist/address.json";
-const addressFile = __dirname + "/blacklist/domains.json";
+const domainFile = __dirname + "/blacklist/domains.json";
+const addressFile = __dirname + "/blacklist/address.json";
 
 async function getRecentScamActivity(limit = 100) {
   const req = await fetch(
