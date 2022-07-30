@@ -50,17 +50,18 @@ async function doGenerate(lastId = 1) {
       }
     });
 
-    allList.address = [].concat(allList.address, newAddress);
-    allList.domains = [].concat(allList.domains, newDomains);
+    if (newAddress.length) {
+      allList.address = [].concat(allList.address, newAddress);
+    }
+    if (newDomains.length) {
+      allList.domains = [].concat(allList.domains, newDomains);
+    }
   }
 
-  fs.writeFileSync(
-    allFile,
-    JSON.stringify(allList, null, 2)
-  );
+  fs.writeFileSync(allFile, JSON.stringify(allList, null, 2));
   fs.writeFileSync(addressFile, JSON.stringify(allList.address, null, 2));
   fs.writeFileSync(domainFile, JSON.stringify(allList.domains, null, 2));
-  console.log('found', newAddress.length, newAddress.length);
+  console.log("found", newAddress.length, newAddress.length);
 }
 
 doGenerate();
