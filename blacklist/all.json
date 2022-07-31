@@ -105,10 +105,10 @@
     "0xda8ad01f363169f97b8bf33c0a5998f2181af318",
     "0x8b631a5a6b4225fc48ef8bfa22cc2dd48ecda338",
     "0x07059e0161e21f9fa5d9040400c802b75625840f",
-    "0x1c83b73a52a29f31542c04a50d63df9d8950649a",
-    "0x59ad6ff7756e15c43c1a43a12b14f83e861b98bb"
+    "0x1c83b73a52a29f31542c04a50d63df9d8950649a"
   ],
   "domains": [
+    "netai.webflow.io",
     "prismadoodles.com",
     "moonbirds-madness.xyz",
     "premint-otherside.xyz",
@@ -278,6 +278,6 @@
     "othersideloadtest.xyz",
     "onyxnftbot.netlify.app",
     "saudisnfts.com",
-    "uniswaplp.com"
+    "netai.webflow.io"
   ]
 }
