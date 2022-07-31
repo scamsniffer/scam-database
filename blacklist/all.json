@@ -108,6 +108,7 @@
     "0xd28a956cffc85900a6f22dd7d38d77a68faa8d28"
   ],
   "domains": [
+    "apepunk.netlify.app",
     "grandpagoblinz.wtf",
     "phantasybabies.com",
     "thedoodles.xyz",
@@ -275,6 +276,7 @@
     "uniswaplp.com",
     "moonrunnerz.io",
     "doodles-legendary.com",
-    "goblintowngwtf.xyz"
+    "goblintowngwtf.xyz",
+    "apepunk.netlify.app"
   ]
 }
