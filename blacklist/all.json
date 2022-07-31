@@ -106,8 +106,7 @@
     "0x8b631a5a6b4225fc48ef8bfa22cc2dd48ecda338",
     "0x07059e0161e21f9fa5d9040400c802b75625840f",
     "0x1c83b73a52a29f31542c04a50d63df9d8950649a",
-    "0x59ad6ff7756e15c43c1a43a12b14f83e861b98bb",
-    "0xd6c2726efa2f71de1e27410992c5fc68526d9576"
+    "0x59ad6ff7756e15c43c1a43a12b14f83e861b98bb"
   ],
   "domains": [
     "moonbirds-madness.xyz",
@@ -279,7 +278,6 @@
     "onyxnftbot.netlify.app",
     "saudisnfts.com",
     "uniswaplp.com",
-    "moonrunnerz.io",
-    "moonbirds-madness.xyz"
+    "moonrunnerz.io"
   ]
 }
