@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xc092d93795ed6610ecfa9d454d534af3e029375b",
     "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a",
     "0x1147f916de9f153f5189bc1538421568ed23dab5",
     "0xd6c2726efa2f71de1e27410992c5fc68526d9576",
@@ -104,9 +105,10 @@
     "0xeab5fd5c3c781514c1264730fcfd8420e6df6e8e",
     "0x51d2bf67faaf714c248e5624e02ac74d75378f47",
     "0x66366e33b26965700b006f536ee618a6cd1dd158",
-    "0x5fca7cbce9d89ba2da086bcfae9b9223aeb7e6c1"
+    "0xc092d93795ed6610ecfa9d454d534af3e029375b"
   ],
   "domains": [
+    "weed-monkey-club.wtf",
     "thedoodles.org",
     "simeji.org",
     "doodles-mint.xyz",
@@ -279,6 +281,6 @@
     "uniswaplpv3.com",
     "uniswapv3lp.com",
     "otherside-freemint.xyz",
-    "the-othersidemeta.com"
+    "weed-monkey-club.wtf"
   ]
 }
