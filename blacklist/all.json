@@ -104,8 +104,7 @@
     "0x112893f553d48a3917475fec16867a063d15e89d",
     "0xeab5fd5c3c781514c1264730fcfd8420e6df6e8e",
     "0x51d2bf67faaf714c248e5624e02ac74d75378f47",
-    "0x66366e33b26965700b006f536ee618a6cd1dd158",
-    "0xc092d93795ed6610ecfa9d454d534af3e029375b"
+    "0x66366e33b26965700b006f536ee618a6cd1dd158"
   ],
   "domains": [
     "weed-monkey-club.wtf",
@@ -280,7 +279,6 @@
     "v3lpuniswap.com",
     "uniswaplpv3.com",
     "uniswapv3lp.com",
-    "otherside-freemint.xyz",
-    "weed-monkey-club.wtf"
+    "otherside-freemint.xyz"
   ]
 }
