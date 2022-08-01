@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xc0fdf4fa92f88b82ccbebfc80fbe4eb7e5a8e0ca",
     "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a",
     "0x4ad22b7bac2e152fa05e05166a57f98a96820d9b",
     "0x92627cc48a9cfe692e62cf6ddc30fcb11681e7c5",
@@ -63,9 +64,13 @@
     "0xc471df5418e2f07cf3c6dddda653bbb60508b192",
     "0xa23402f08825250eb977bfae4d9417375bcd2499",
     "0xc422fcf04edd6502cc41583c003a959210653807",
-    "0xb6ee99f40aba0454ff8b5e79bd4a7e0cf44529b6"
+    "0xc0fdf4fa92f88b82ccbebfc80fbe4eb7e5a8e0ca"
   ],
   "domains": [
+    "theshroomznft.com",
+    "www-discord.com",
+    "toyboogers.website",
+    "prismadoodles.com",
     "thedoodles.org",
     "nests-moonbirds.xyz",
     "2022binance.net",
@@ -76,11 +81,7 @@
     "okinonft.webflow.io",
     "netai.webflow.io",
     "phantasybabies.com",
-    "theshroomznft.com",
     "moonbirds2022.xyz",
-    "www-discord.com",
-    "toyboogers.website",
-    "prismadoodles.com",
     "littlefeelings.io",
     "apepunk.netlify.app",
     "roulette-stepn.com",
@@ -196,10 +197,6 @@
     "raffle-doodles.com",
     "420ape.netlify.app",
     "othersides.run",
-    "metaskippers.wtf",
-    "metacakes.wtf",
-    "brokenwizards.wtf",
-    "metacriminals.wtf",
-    "boredapeyachtclub-freemint.xyz"
+    "metaskippers.wtf"
   ]
 }
