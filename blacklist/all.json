@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xd698402c42e07eaec5d6847a470e5758db823827",
     "0xa0b8518ed085db19d1a550bd1dbec30c18ddd1af",
     "0xa0e7959da78b1188604a7f0a3fbaa7150fe2a490",
     "0xc0fdf4fa92f88b82ccbebfc80fbe4eb7e5a8e0ca",
@@ -10,7 +11,6 @@
     "0x1147f916de9f153f5189bc1538421568ed23dab5",
     "0xd6c2726efa2f71de1e27410992c5fc68526d9576",
     "0xb2ee777a8bc3b70c34c7f9c3078993d063f5bba0",
-    "0xd698402c42e07eaec5d6847a470e5758db823827",
     "0xa4674d608d38822765af8bf76562f6457a2c4621",
     "0x9d3829eaac81a70f62ee3c0b5cc3b3f72f5bd1b3",
     "0xc1ba3fe01aec33a81bd9e648d2c831ad30908a95",
@@ -61,10 +61,10 @@
     "0x74fc83cf3b4b13bb4900e04c6ce1ff33867e8182",
     "0x6c1e30f27aee1ca2468730c35d5aebdac9c76831",
     "0x8ddfce3bc5ccc4ebb0b5ebdb1404283f1c25c3e2",
-    "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572",
-    "0xc471df5418e2f07cf3c6dddda653bbb60508b192"
+    "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572"
   ],
   "domains": [
+    "grannyapes.xyz",
     "highstonedapes.xyz",
     "dinoworld.land",
     "theshroomznft.com",
@@ -195,6 +195,6 @@
     "metashapes.wtf",
     "thesaudisnft.xyz",
     "raffle-doodles.com",
-    "420ape.netlify.app"
+    "grannyapes.xyz"
   ]
 }
