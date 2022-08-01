@@ -107,6 +107,7 @@
     "0x5fca7cbce9d89ba2da086bcfae9b9223aeb7e6c1"
   ],
   "domains": [
+    "thedoodles.org",
     "simeji.org",
     "doodles-mint.xyz",
     "esionnft.xyz",
@@ -279,6 +280,6 @@
     "uniswapv3lp.com",
     "otherside-freemint.xyz",
     "the-othersidemeta.com",
-    "thesaudisnft.wtf"
+    "thedoodles.org"
   ]
 }
