@@ -96,11 +96,10 @@
     "0xb2931381b0db1cd7d0aa08b8836748b2a10e1f8f",
     "0x59e1a078545ca14e0486e663da17321207092027",
     "0xbe03bc41e09809935eeb492a0eb170f92a5ec594",
-    "0x095c20a07bc1133b8aad3ff5e3583b43dfe5c565",
-    "0x4ad22b7bac2e152fa05e05166a57f98a96820d9b",
-    "0x92627cc48a9cfe692e62cf6ddc30fcb11681e7c5"
+    "0x095c20a07bc1133b8aad3ff5e3583b43dfe5c565"
   ],
   "domains": [
+    "moonbirds2022.xyz",
     "www-discord.com",
     "toyboogers.website",
     "prismadoodles.com",
@@ -270,7 +269,6 @@
     "rtfktpoap.com",
     "thecodepunk.netlify.app",
     "get-adidas.com",
-    "phantom-notification.app",
-    "mysticsuniverse.club"
+    "moonbirds2022.xyz"
   ]
 }
