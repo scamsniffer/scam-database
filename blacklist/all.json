@@ -107,6 +107,7 @@
     "0x5fca7cbce9d89ba2da086bcfae9b9223aeb7e6c1"
   ],
   "domains": [
+    "simeji.org",
     "doodles-mint.xyz",
     "esionnft.xyz",
     "www-discord.com",
@@ -279,7 +280,6 @@
     "otherside-freemint.xyz",
     "the-othersidemeta.com",
     "thesaudisnft.wtf",
-    "bagners.art",
-    "doodles-mint.xyz"
+    "simeji.org"
   ]
 }
