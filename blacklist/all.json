@@ -62,8 +62,7 @@
     "0x6c1e30f27aee1ca2468730c35d5aebdac9c76831",
     "0x8ddfce3bc5ccc4ebb0b5ebdb1404283f1c25c3e2",
     "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572",
-    "0xc471df5418e2f07cf3c6dddda653bbb60508b192",
-    "0xa0b8518ed085db19d1a550bd1dbec30c18ddd1af"
+    "0xc471df5418e2f07cf3c6dddda653bbb60508b192"
   ],
   "domains": [
     "highstonedapes.xyz",
@@ -196,7 +195,6 @@
     "metashapes.wtf",
     "thesaudisnft.xyz",
     "raffle-doodles.com",
-    "420ape.netlify.app",
-    "highstonedapes.xyz"
+    "420ape.netlify.app"
   ]
 }
