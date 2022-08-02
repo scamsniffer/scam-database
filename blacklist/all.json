@@ -64,6 +64,7 @@
     "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572"
   ],
   "domains": [
+    "onemint.io",
     "grannyapes.xyz",
     "highstonedapes.xyz",
     "dinoworld.land",
@@ -194,6 +195,6 @@
     "dinosnft.netlify.app",
     "metashapes.wtf",
     "thesaudisnft.xyz",
-    "raffle-doodles.com"
+    "onemint.io"
   ]
 }
