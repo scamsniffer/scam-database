@@ -1,5 +1,7 @@
 {
   "address": [
+    "0x92627cc48a9cfe692e62cf6ddc30fcb11681e7c5",
+    "0x4ad22b7bac2e152fa05e05166a57f98a96820d9b",
     "0x10cd051bd70ce950fa7158db1607d90208e50ad9",
     "0xf6761f769344a377edac05f75d9dadb90c196c7e",
     "0x9d3829eaac81a70f62ee3c0b5cc3b3f72f5bd1b3",
@@ -8,8 +10,6 @@
     "0xa0b8518ed085db19d1a550bd1dbec30c18ddd1af",
     "0xc0fdf4fa92f88b82ccbebfc80fbe4eb7e5a8e0ca",
     "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a",
-    "0x4ad22b7bac2e152fa05e05166a57f98a96820d9b",
-    "0x92627cc48a9cfe692e62cf6ddc30fcb11681e7c5",
     "0xc092d93795ed6610ecfa9d454d534af3e029375b",
     "0x1147f916de9f153f5189bc1538421568ed23dab5",
     "0xd6c2726efa2f71de1e27410992c5fc68526d9576",
@@ -51,13 +51,11 @@
     "0x852acbe0cec6d570faad405f5a0b0fb070779f82",
     "0x15ad3b3ec1817e0dc9590cb776a8e9b30870fd11",
     "0x3245e504d75e4148a491baac5066b0f26965567d",
-    "0x5f22e85bea19f17a888886ef3b098b95c932cdec",
-    "0x17188397fac2a8488fff0fe93288a6bb3e7e8970",
-    "0x3da336601df9dccb0203f57922c919649a8981d8",
-    "0x05584179486314536837e181d725e56560044bc7",
-    "0xd23e368689ad3faba1817d220a56068e9527b600"
+    "0x5f22e85bea19f17a888886ef3b098b95c932cdec"
   ],
   "domains": [
+    "mysticsuniverse.club",
+    "nests-moonbirds.xyz",
     "thedoodles.net",
     "magicethen.com",
     "artisart.site",
@@ -77,10 +75,8 @@
     "toyboogers.website",
     "prismadoodles.com",
     "thedoodles.org",
-    "nests-moonbirds.xyz",
     "2022binance.net",
     "phantom-notification.app",
-    "mysticsuniverse.club",
     "memeland-potatoz.net",
     "simeji.org",
     "okinonft.webflow.io",
@@ -180,12 +176,6 @@
     "deadapeclub.netlify.app",
     "audi-meta.com",
     "ape-ciaim-stepn.com",
-    "uniswapv2lp.com",
-    "gmstudios.art",
-    "gmstudio.gallery",
-    "doodlesgenesisbox.com",
-    "airdrop-premint.xyz",
-    "crazycryptocats.netlify.app",
-    "angrydinos-nft.com"
+    "uniswapv2lp.com"
   ]
 }
