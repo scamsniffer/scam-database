@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x10cd051bd70ce950fa7158db1607d90208e50ad9",
     "0xf6761f769344a377edac05f75d9dadb90c196c7e",
     "0x9d3829eaac81a70f62ee3c0b5cc3b3f72f5bd1b3",
     "0xa0e7959da78b1188604a7f0a3fbaa7150fe2a490",
@@ -55,10 +56,10 @@
     "0x3da336601df9dccb0203f57922c919649a8981d8",
     "0x05584179486314536837e181d725e56560044bc7",
     "0xd23e368689ad3faba1817d220a56068e9527b600",
-    "0x149c47ad91a4f01719123a9971b21e112da68d71",
-    "0x8d095ea3a69511ade706ad6fc96044e5554a751d"
+    "0x10cd051bd70ce950fa7158db1607d90208e50ad9"
   ],
   "domains": [
+    "thedoodles.net",
     "magicethen.com",
     "artisart.site",
     "zadipass.pro",
@@ -187,8 +188,6 @@
     "airdrop-premint.xyz",
     "crazycryptocats.netlify.app",
     "angrydinos-nft.com",
-    "premintsnft.com",
-    "premints.info",
-    "premint.today"
+    "thedoodles.net"
   ]
 }
