@@ -50,10 +50,11 @@
     "0x7087c50aaf47dd3236ae138abaf21b299d7c9331",
     "0x8336200e11d5ac7c7448b299874ae9d64ffee55d",
     "0x852acbe0cec6d570faad405f5a0b0fb070779f82",
-    "0x15ad3b3ec1817e0dc9590cb776a8e9b30870fd11",
-    "0x3245e504d75e4148a491baac5066b0f26965567d"
+    "0x15ad3b3ec1817e0dc9590cb776a8e9b30870fd11"
   ],
   "domains": [
+    "www.prismadoodles.com",
+    "memeland-potatoz.net",
     "gochigang.com",
     "mysticsuniverse.club",
     "nests-moonbirds.xyz",
@@ -78,7 +79,6 @@
     "thedoodles.org",
     "2022binance.net",
     "phantom-notification.app",
-    "memeland-potatoz.net",
     "simeji.org",
     "okinonft.webflow.io",
     "netai.webflow.io",
@@ -175,7 +175,6 @@
     "cyberunicorn.netlify.app",
     "othersidemint.net",
     "deadapeclub.netlify.app",
-    "audi-meta.com",
-    "ape-ciaim-stepn.com"
+    "www.prismadoodles.com"
   ]
 }
