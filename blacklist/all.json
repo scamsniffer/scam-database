@@ -1,5 +1,7 @@
 {
   "address": [
+    "0x99d2d57b485f731b51f6c8ddcb325224d11b74f6",
+    "0xa4674d608d38822765af8bf76562f6457a2c4621",
     "0xc3205702a9e793d6a23d1bb19f5531632ef0b768",
     "0xd23e368689ad3faba1817d220a56068e9527b600",
     "0x4a57ae665ce8cc565eba852245da484695ed34ee",
@@ -27,7 +29,6 @@
     "0x1147f916de9f153f5189bc1538421568ed23dab5",
     "0xd6c2726efa2f71de1e27410992c5fc68526d9576",
     "0xb2ee777a8bc3b70c34c7f9c3078993d063f5bba0",
-    "0xa4674d608d38822765af8bf76562f6457a2c4621",
     "0xc1ba3fe01aec33a81bd9e648d2c831ad30908a95",
     "0xf919aa7b84c9e1fdbabe6dde66fee9d687697d66",
     "0xc9ca30b4b7dc3f2d9f3a618ba411c049d2f5fce6",
@@ -37,11 +38,13 @@
     "0xd9480d925e283ebfac31877c5ddbd978185dff72",
     "0x8a68a6e2ca2b3cf5f0c042025af790d983442ba3",
     "0xe555d621020f6aa2cc10d62fe28b41581b15efca",
-    "0xbeacbf07229385dcc064276d828abf3468d16de5",
-    "0x61c150ad33833f19a08a0552cf6726966f336bbd",
-    "0x7467a92e2a0e8f67d79721e3e3d6af9689f35a2e"
+    "0x99d2d57b485f731b51f6c8ddcb325224d11b74f6"
   ],
   "domains": [
+    "flufgoblintown.world",
+    "discord.fprotocol.io",
+    "phantom-notification.app",
+    "otherside-premint.xyz",
     "nickelodeonfts.xyz",
     "esionnft.live",
     "premint-otherside.xyz",
@@ -106,7 +109,6 @@
     "prismadoodles.com",
     "thedoodles.org",
     "2022binance.net",
-    "phantom-notification.app",
     "simeji.org",
     "okinonft.webflow.io",
     "netai.webflow.io",
@@ -163,12 +165,8 @@
     "futuristic-robots.com",
     "creepyboyz.xyz",
     "ens.limited",
-    "app-coinmarketcap.com",
-    "hertzcity.club",
-    "spaceape.wtf",
-    "nickelodeonfts.xyz",
-    "esionnft.live",
-    "nickelodeonnfts.app",
-    "x2y2.fi"
+    "flufgoblintown.world",
+    "discord.fprotocol.io",
+    "otherside-premint.xyz"
   ]
 }
