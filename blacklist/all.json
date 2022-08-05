@@ -1,5 +1,7 @@
 {
   "address": [
+    "0x7832128ce0d590e8f2c3edfcac5d3b99fe464ae4",
+    "0x149c47ad91a4f01719123a9971b21e112da68d71",
     "0x3245e504d75e4148a491baac5066b0f26965567d",
     "0xf9e56d2e507cba5d71a2dbec06a03d2700e09a12",
     "0x92627cc48a9cfe692e62cf6ddc30fcb11681e7c5",
@@ -43,9 +45,14 @@
     "0x27a2778c60efae6b4bc0d7521fbf05f724f8dc3d",
     "0xe3fea8f9c97424e5fad95c11a89baaffb157fc17",
     "0x20ef1664681413d9b0d705eaad72b8f2b43f8047",
-    "0x8ee2741f8325097634576f2eed5d95fb8fbcac2d"
+    "0x7832128ce0d590e8f2c3edfcac5d3b99fe464ae4",
+    "0x149c47ad91a4f01719123a9971b21e112da68d71"
   ],
   "domains": [
+    "www.beastsnft.xyz",
+    "premint.today",
+    "premints.info",
+    "beastsnft.xyz",
     "thesaudlsnft.com",
     "themagix.xyz",
     "zombieshiba3d.xyz",
@@ -164,9 +171,9 @@
     "nickelodeon-claim.net",
     "eternal-apes.netlify.app",
     "firefaces.netlify.app",
-    "degenghosts-gang.club",
-    "x2y2app.com",
-    "premint-xyz.com",
-    "cryptopunks-events.xyz"
+    "www.beastsnft.xyz",
+    "premint.today",
+    "premints.info",
+    "beastsnft.xyz"
   ]
 }
