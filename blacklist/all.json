@@ -1,9 +1,9 @@
 {
   "address": [
+    "0xc3205702a9e793d6a23d1bb19f5531632ef0b768",
     "0xa4674d608d38822765af8bf76562f6457a2c4621",
     "0xa0b8518ed085db19d1a550bd1dbec30c18ddd1af",
     "0xf6761f769344a377edac05f75d9dadb90c196c7e",
-    "0xc3205702a9e793d6a23d1bb19f5531632ef0b768",
     "0x99d2d57b485f731b51f6c8ddcb325224d11b74f6",
     "0xd23e368689ad3faba1817d220a56068e9527b600",
     "0x4a57ae665ce8cc565eba852245da484695ed34ee",
@@ -37,6 +37,8 @@
     "0xda7773726786caf41eb5343bf06fb66d2f9ce9f5"
   ],
   "domains": [
+    "the3dpepemfers.xyz",
+    "nftniickelodeon.com",
     "thepotatoz-premint.xyz",
     "highstonedapes.xyz",
     "2022binance.net",
@@ -157,7 +159,7 @@
     "cryptopunks-claim.xyz",
     "doodles-claim.app",
     "goblin-cyborg.wtf",
-    "thepotatoz-premint.xyz",
-    "niickelodeonnft.xyz"
+    "the3dpepemfers.xyz",
+    "nftniickelodeon.com"
   ]
 }
