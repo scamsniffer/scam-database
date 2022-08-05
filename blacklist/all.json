@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xc8e1c269d2c0754777c500a1af7235b55a570c34",
     "0x472e6b8d72cd220802809ce79c68d6c55a4b5947",
     "0xd23e368689ad3faba1817d220a56068e9527b600",
     "0x7832128ce0d590e8f2c3edfcac5d3b99fe464ae4",
@@ -46,9 +47,11 @@
     "0x8e133cbac54740f9c908d53bbc01b510fe180c7e",
     "0x27a2778c60efae6b4bc0d7521fbf05f724f8dc3d",
     "0xe3fea8f9c97424e5fad95c11a89baaffb157fc17",
-    "0x472e6b8d72cd220802809ce79c68d6c55a4b5947"
+    "0xc8e1c269d2c0754777c500a1af7235b55a570c34"
   ],
   "domains": [
+    "billionairebirdsclub.xyz",
+    "get-adidasnft.xyz",
     "cryptopunks.events",
     "memeland.sale",
     "rtfkt-nike.xyz",
@@ -172,9 +175,7 @@
     "army-ape.netlify.app",
     "theakira.netlify.app",
     "degenghost.com",
-    "nickelodeon-claim.net",
-    "eternal-apes.netlify.app",
-    "memeland.sale",
-    "rtfkt-nike.xyz"
+    "billionairebirdsclub.xyz",
+    "get-adidasnft.xyz"
   ]
 }
