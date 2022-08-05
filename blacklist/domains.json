@@ -1,4 +1,7 @@
 [
+  "cryptopunks.events",
+  "memeland.sale",
+  "rtfkt-nike.xyz",
   "gmstudio.claims",
   "tokyonftlab.claims",
   "www.beastsnft.xyz",
@@ -72,7 +75,6 @@
   "moonbirds22.org",
   "moonbirds2022.com",
   "stepnshoeboxes.com",
-  "cryptopunks.events",
   "tronemachine.netlify.app",
   "weed-monkey-club.wtf",
   "doodles-mint.xyz",
@@ -122,7 +124,6 @@
   "degenghost.com",
   "nickelodeon-claim.net",
   "eternal-apes.netlify.app",
-  "firefaces.netlify.app",
-  "gmstudio.claims",
-  "tokyonftlab.claims"
+  "memeland.sale",
+  "rtfkt-nike.xyz"
 ]
