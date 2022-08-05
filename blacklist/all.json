@@ -1,11 +1,11 @@
 {
   "address": [
+    "0xd23e368689ad3faba1817d220a56068e9527b600",
     "0xc3205702a9e793d6a23d1bb19f5531632ef0b768",
     "0xa4674d608d38822765af8bf76562f6457a2c4621",
     "0xa0b8518ed085db19d1a550bd1dbec30c18ddd1af",
     "0xf6761f769344a377edac05f75d9dadb90c196c7e",
     "0x99d2d57b485f731b51f6c8ddcb325224d11b74f6",
-    "0xd23e368689ad3faba1817d220a56068e9527b600",
     "0x4a57ae665ce8cc565eba852245da484695ed34ee",
     "0xa3a406da713a23106459712b45645ac27c84ff72",
     "0x1cbabbaef4fcac7a239bad0a2e92cddfe69dcf3e",
@@ -36,6 +36,7 @@
     "0x7d4dbfb56a6c8cb9a5d21c0d1d4a078fe0e61a02"
   ],
   "domains": [
+    "basedghouls.claims",
     "molly-nft.com",
     "the3dpepemfers.xyz",
     "nftniickelodeon.com",
@@ -157,6 +158,7 @@
     "azzzzuki-bear-market.wtf",
     "mad-dragons.io",
     "cryptopunks-claim.xyz",
-    "doodles-claim.app"
+    "doodles-claim.app",
+    "basedghouls.claims"
   ]
 }
