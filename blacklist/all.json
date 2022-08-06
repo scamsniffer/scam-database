@@ -36,6 +36,7 @@
     "0xc1ba3fe01aec33a81bd9e648d2c831ad30908a95"
   ],
   "domains": [
+    "nakeds.io",
     "nakebs.xyz",
     "metamaskcomm.com",
     "deskeleton.xyz",
@@ -159,6 +160,7 @@
     "grandpagoblinz.wtf",
     "thedoodles.xyz",
     "paraswap-io.com",
-    "theseasons.one"
+    "theseasons.one",
+    "nakeds.io"
   ]
 }
