@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x4db585f06a2cb9f055770dd49c08dc66a44f68f2",
     "0xf9e56d2e507cba5d71a2dbec06a03d2700e09a12",
     "0x144115e7175fd05fc67ce89f2634e961c9ddf7f8",
     "0x37a51fd428bc37d5a3be6c43b32446c602c1983b",
@@ -32,9 +33,11 @@
     "0xd6c2726efa2f71de1e27410992c5fc68526d9576",
     "0xb2ee777a8bc3b70c34c7f9c3078993d063f5bba0",
     "0xc1ba3fe01aec33a81bd9e648d2c831ad30908a95",
-    "0xf919aa7b84c9e1fdbabe6dde66fee9d687697d66"
+    "0xf919aa7b84c9e1fdbabe6dde66fee9d687697d66",
+    "0x4db585f06a2cb9f055770dd49c08dc66a44f68f2"
   ],
   "domains": [
+    "deskeleton.xyz",
     "dinosgang.com",
     "www.warriorsofthegalaxy.xyz",
     "nft.tiflfany.com",
@@ -158,6 +161,6 @@
     "paraswap-io.com",
     "theseasons.one",
     "fuckthissummer.xyz",
-    "moonscape.pro"
+    "deskeleton.xyz"
   ]
 }
