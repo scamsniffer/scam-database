@@ -1,8 +1,8 @@
 {
   "address": [
+    "0xf9e56d2e507cba5d71a2dbec06a03d2700e09a12",
     "0xfde52c481a11f06c1ed36c3e88e75de1176770b7",
     "0x4db585f06a2cb9f055770dd49c08dc66a44f68f2",
-    "0xf9e56d2e507cba5d71a2dbec06a03d2700e09a12",
     "0x144115e7175fd05fc67ce89f2634e961c9ddf7f8",
     "0x37a51fd428bc37d5a3be6c43b32446c602c1983b",
     "0xd23e368689ad3faba1817d220a56068e9527b600",
@@ -36,6 +36,7 @@
     "0xc1ba3fe01aec33a81bd9e648d2c831ad30908a95"
   ],
   "domains": [
+    "holykitten.xyz",
     "nakeds.io",
     "nakebs.xyz",
     "metamaskcomm.com",
@@ -160,6 +161,6 @@
     "grandpagoblinz.wtf",
     "thedoodles.xyz",
     "paraswap-io.com",
-    "theseasons.one"
+    "holykitten.xyz"
   ]
 }
