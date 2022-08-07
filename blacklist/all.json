@@ -38,6 +38,7 @@
     "0xb2ee777a8bc3b70c34c7f9c3078993d063f5bba0"
   ],
   "domains": [
+    "otherside-premint.xyz",
     "thepotatoz-premint.xyz",
     "test-otherside.com",
     "flufgoblintown.world",
@@ -70,7 +71,6 @@
     "niickelodeonnft.xyz",
     "discord.fprotocol.io",
     "phantom-notification.app",
-    "otherside-premint.xyz",
     "nickelodeonfts.xyz",
     "esionnft.live",
     "premint-otherside.xyz",
@@ -165,7 +165,6 @@
     "doodles-mint.xyz",
     "esionnft.xyz",
     "sneakerheadsup.xyz",
-    "apesart.xyz",
-    "eternalwitches.xyz"
+    "apesart.xyz"
   ]
 }
