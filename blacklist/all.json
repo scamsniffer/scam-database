@@ -34,10 +34,10 @@
     "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a",
     "0xc092d93795ed6610ecfa9d454d534af3e029375b",
     "0x1147f916de9f153f5189bc1538421568ed23dab5",
-    "0xd6c2726efa2f71de1e27410992c5fc68526d9576",
-    "0xb2ee777a8bc3b70c34c7f9c3078993d063f5bba0"
+    "0xd6c2726efa2f71de1e27410992c5fc68526d9576"
   ],
   "domains": [
+    "tiles-of-ethereum.typedream.app",
     "otherside-premint.xyz",
     "thepotatoz-premint.xyz",
     "test-otherside.com",
@@ -165,6 +165,6 @@
     "doodles-mint.xyz",
     "esionnft.xyz",
     "sneakerheadsup.xyz",
-    "apesart.xyz"
+    "tiles-of-ethereum.typedream.app"
   ]
 }
