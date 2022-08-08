@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x76cb3cf8ee2b2dd67832e6c78406ab953faba812",
     "0xc4b0e6cf56e76e831e13d197705b4ce05c472ddc",
     "0xf979f5d9126e4fccdbd447c8bb3ef109bc5e525a",
     "0x3f72b979dc53bede7fe26e2d70260d4af3b673a0",
@@ -34,9 +35,11 @@
     "0xa0e7959da78b1188604a7f0a3fbaa7150fe2a490",
     "0xd698402c42e07eaec5d6847a470e5758db823827",
     "0xc0fdf4fa92f88b82ccbebfc80fbe4eb7e5a8e0ca",
-    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
+    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a",
+    "0x76cb3cf8ee2b2dd67832e6c78406ab953faba812"
   ],
   "domains": [
+    "exodia.io",
     "cryptobickdutts.com",
     "othersideyc.com",
     "wildwestnft.io",
@@ -172,6 +175,7 @@
     "moonbirds22.org",
     "moonbirds2022.com",
     "stepnshoeboxes.com",
-    "tronemachine.netlify.app"
+    "tronemachine.netlify.app",
+    "exodia.io"
   ]
 }
