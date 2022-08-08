@@ -35,8 +35,7 @@
     "0xc0fdf4fa92f88b82ccbebfc80fbe4eb7e5a8e0ca",
     "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a",
     "0xc092d93795ed6610ecfa9d454d534af3e029375b",
-    "0x1147f916de9f153f5189bc1538421568ed23dab5",
-    "0x3f72b979dc53bede7fe26e2d70260d4af3b673a0"
+    "0x1147f916de9f153f5189bc1538421568ed23dab5"
   ],
   "domains": [
     "theapien.xyz",
@@ -170,7 +169,6 @@
     "tronemachine.netlify.app",
     "weed-monkey-club.wtf",
     "doodles-mint.xyz",
-    "esionnft.xyz",
-    "theapien.xyz"
+    "esionnft.xyz"
   ]
 }
