@@ -34,11 +34,10 @@
     "0xa0e7959da78b1188604a7f0a3fbaa7150fe2a490",
     "0xd698402c42e07eaec5d6847a470e5758db823827",
     "0xc0fdf4fa92f88b82ccbebfc80fbe4eb7e5a8e0ca",
-    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a",
-    "0xc092d93795ed6610ecfa9d454d534af3e029375b",
-    "0xf979f5d9126e4fccdbd447c8bb3ef109bc5e525a"
+    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
   ],
   "domains": [
+    "yugalabs.club",
     "magicalbeings.io",
     "theazukigarden.com",
     "exodia.pro",
@@ -171,7 +170,6 @@
     "moonbirds2022.com",
     "stepnshoeboxes.com",
     "tronemachine.netlify.app",
-    "weed-monkey-club.wtf",
-    "theazukigarden.com"
+    "yugalabs.club"
   ]
 }
