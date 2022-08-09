@@ -1,9 +1,9 @@
 {
   "address": [
+    "0xc4b0e6cf56e76e831e13d197705b4ce05c472ddc",
     "0xf5fcd49311cfe6c86f576b55c6f89c74af34d7fb",
     "0x39e8554bc14b4709827b117eba728e6fc0f4121e",
     "0x9d3829eaac81a70f62ee3c0b5cc3b3f72f5bd1b3",
-    "0xc4b0e6cf56e76e831e13d197705b4ce05c472ddc",
     "0xf979f5d9126e4fccdbd447c8bb3ef109bc5e525a",
     "0x3f72b979dc53bede7fe26e2d70260d4af3b673a0",
     "0xa4674d608d38822765af8bf76562f6457a2c4621",
@@ -38,6 +38,7 @@
     "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
   ],
   "domains": [
+    "underwaterclub.xyz",
     "batmoooonbirds.xyz",
     "doodlesmint.info",
     "cryptosdickbutts.com",
@@ -178,6 +179,7 @@
     "moonbirds22.org",
     "moonbirds2022.com",
     "stepnshoeboxes.com",
-    "tronemachine.netlify.app"
+    "tronemachine.netlify.app",
+    "underwaterclub.xyz"
   ]
 }
