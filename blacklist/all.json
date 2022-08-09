@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x39e8554bc14b4709827b117eba728e6fc0f4121e",
     "0x9d3829eaac81a70f62ee3c0b5cc3b3f72f5bd1b3",
     "0x76cb3cf8ee2b2dd67832e6c78406ab953faba812",
     "0xc4b0e6cf56e76e831e13d197705b4ce05c472ddc",
@@ -8,7 +9,6 @@
     "0xa4674d608d38822765af8bf76562f6457a2c4621",
     "0xf3b87938cc132833670dc3463fac19656f3c7425",
     "0x1902d018d5b380437be190e253758d08fb880023",
-    "0x39e8554bc14b4709827b117eba728e6fc0f4121e",
     "0xf9e56d2e507cba5d71a2dbec06a03d2700e09a12",
     "0xfde52c481a11f06c1ed36c3e88e75de1176770b7",
     "0x4db585f06a2cb9f055770dd49c08dc66a44f68f2",
@@ -38,6 +38,7 @@
     "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
   ],
   "domains": [
+    "cryptosdickbutts.com",
     "batmoooonbirds.xyz",
     "moonbirds2022.xyz",
     "uglyduck.wtf",
@@ -177,6 +178,7 @@
     "moonbirds22.org",
     "moonbirds2022.com",
     "stepnshoeboxes.com",
-    "tronemachine.netlify.app"
+    "tronemachine.netlify.app",
+    "cryptosdickbutts.com"
   ]
 }
