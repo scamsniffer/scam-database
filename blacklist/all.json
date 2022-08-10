@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x20f3a94c940ed0f25fb9b7a6b468affce18006e7",
     "0xa4674d608d38822765af8bf76562f6457a2c4621",
     "0x9d3829eaac81a70f62ee3c0b5cc3b3f72f5bd1b3",
     "0xc4b0e6cf56e76e831e13d197705b4ce05c472ddc",
@@ -35,9 +36,11 @@
     "0xa0e7959da78b1188604a7f0a3fbaa7150fe2a490",
     "0xd698402c42e07eaec5d6847a470e5758db823827",
     "0xc0fdf4fa92f88b82ccbebfc80fbe4eb7e5a8e0ca",
-    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
+    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a",
+    "0x20f3a94c940ed0f25fb9b7a6b468affce18006e7"
   ],
   "domains": [
+    "mydobermann.org",
     "deardorgs.com",
     "premint-thepotatoz.xyz",
     "yogalabz.com",
@@ -182,6 +185,6 @@
     "angels-downfall.webflow.io",
     "nft-uniswap.store",
     "nft-uniswap.org",
-    "simplemonkeysgirl.com"
+    "mydobermann.org"
   ]
 }
