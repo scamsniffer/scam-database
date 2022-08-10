@@ -37,10 +37,13 @@
     "0xa0e7959da78b1188604a7f0a3fbaa7150fe2a490",
     "0xd698402c42e07eaec5d6847a470e5758db823827",
     "0xc0fdf4fa92f88b82ccbebfc80fbe4eb7e5a8e0ca",
-    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a",
-    "0xa7a30830b1df1347de54773b6150f89be5284ddf"
+    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
   ],
   "domains": [
+    "meepsofficial.io",
+    "roulette-stepn.com",
+    "8liens.co",
+    "banditsinthemetaverse.xyz",
     "pass.premintbot.xyz",
     "cryptomaid.xyz",
     "nickelodeonsnfts.com",
@@ -175,7 +178,6 @@
     "phantasybabies.com",
     "littlefeelings.io",
     "apepunk.netlify.app",
-    "roulette-stepn.com",
     "nakeds.live",
     "www.arachnida.xyz",
     "ugha-bugha.com",
@@ -185,13 +187,8 @@
     "phantom-error.app",
     "phantom-refund.app",
     "phantom-detected.app",
-    "ragstorichie-mint.xyz",
-    "flipitlikeitshot.xyz",
-    "thecarrotz.com",
-    "pass.premintbot.xyz",
-    "cryptomaid.xyz",
-    "nickelodeonsnfts.com",
-    "moonbird-xyz.com",
-    "cosmicclones.xyz"
+    "meepsofficial.io",
+    "8liens.co",
+    "banditsinthemetaverse.xyz"
   ]
 }
