@@ -39,6 +39,7 @@
     "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
   ],
   "domains": [
+    "sunbirds.lol",
     "mydobermann.org",
     "deardorgs.com",
     "premint-thepotatoz.xyz",
@@ -183,6 +184,7 @@
     "animalsouls.netlify.app",
     "angels-downfall.webflow.io",
     "nft-uniswap.store",
-    "nft-uniswap.org"
+    "nft-uniswap.org",
+    "sunbirds.lol"
   ]
 }
