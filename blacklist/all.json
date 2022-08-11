@@ -40,6 +40,7 @@
     "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
   ],
   "domains": [
+    "cryptobuds.site",
     "meepsofficial.io",
     "roulette-stepn.com",
     "8liens.co",
@@ -186,6 +187,6 @@
     "ironpaw-gang.com",
     "phantom-error.app",
     "phantom-refund.app",
-    "phantom-detected.app"
+    "cryptobuds.site"
   ]
 }
