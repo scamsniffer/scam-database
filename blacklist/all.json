@@ -42,6 +42,7 @@
     "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
   ],
   "domains": [
+    "mutantmorphans.io",
     "hypnoduckz.xyz",
     "zombiecats.netlify.app",
     "defiiswap.com",
@@ -189,6 +190,7 @@
     "netai.webflow.io",
     "phantasybabies.com",
     "littlefeelings.io",
-    "apepunk.netlify.app"
+    "apepunk.netlify.app",
+    "mutantmorphans.io"
   ]
 }
