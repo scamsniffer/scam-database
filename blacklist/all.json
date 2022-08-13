@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xe5e5a2926b282a9b19015b212cf2974bdf5bba08",
     "0x5b791a69b40416358229166f8c576ed71ec10647",
     "0xd38e66d4176ece009fb767bc705e9d91fc1e7641",
     "0x5758cfa411fdeadd8d294342409432b99e699c27",
@@ -41,9 +42,11 @@
     "0xa0e7959da78b1188604a7f0a3fbaa7150fe2a490",
     "0xd698402c42e07eaec5d6847a470e5758db823827",
     "0xc0fdf4fa92f88b82ccbebfc80fbe4eb7e5a8e0ca",
-    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
+    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a",
+    "0xe5e5a2926b282a9b19015b212cf2974bdf5bba08"
   ],
   "domains": [
+    "growmemeland.com",
     "cryptosimeji.live",
     "ethereum-v2s.com",
     "defiiswap.com",
@@ -197,6 +200,7 @@
     "okinonft.webflow.io",
     "netai.webflow.io",
     "phantasybabies.com",
-    "littlefeelings.io"
+    "littlefeelings.io",
+    "growmemeland.com"
   ]
 }
