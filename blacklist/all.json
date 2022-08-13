@@ -1,5 +1,7 @@
 {
   "address": [
+    "0x5b791a69b40416358229166f8c576ed71ec10647",
+    "0xd38e66d4176ece009fb767bc705e9d91fc1e7641",
     "0x5758cfa411fdeadd8d294342409432b99e699c27",
     "0x8c12aeaf62da2fa8778f7a6e77526cf98ad76f3b",
     "0xc4b0e6cf56e76e831e13d197705b4ce05c472ddc",
@@ -39,9 +41,13 @@
     "0xa0e7959da78b1188604a7f0a3fbaa7150fe2a490",
     "0xd698402c42e07eaec5d6847a470e5758db823827",
     "0xc0fdf4fa92f88b82ccbebfc80fbe4eb7e5a8e0ca",
-    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
+    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a",
+    "0x5b791a69b40416358229166f8c576ed71ec10647",
+    "0xd38e66d4176ece009fb767bc705e9d91fc1e7641"
   ],
   "domains": [
+    "ethereum-v2s.com",
+    "defiiswap.com",
     "the-piligrims.webflow.io",
     "mysticdegens.com",
     "animate-moonbirds.xyz",
@@ -50,7 +56,6 @@
     "mutantmorphans.io",
     "hypnoduckz.xyz",
     "zombiecats.netlify.app",
-    "defiiswap.com",
     "8liensnft-free.netlify.app",
     "apes-for-change.webflow.io",
     "doodsangels.xyz",
@@ -194,6 +199,6 @@
     "netai.webflow.io",
     "phantasybabies.com",
     "littlefeelings.io",
-    "the-piligrims.webflow.io"
+    "ethereum-v2s.com"
   ]
 }
