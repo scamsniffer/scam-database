@@ -42,6 +42,7 @@
     "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
   ],
   "domains": [
+    "the-piligrims.webflow.io",
     "mysticdegens.com",
     "animate-moonbirds.xyz",
     "goblintown.farm",
@@ -192,6 +193,7 @@
     "okinonft.webflow.io",
     "netai.webflow.io",
     "phantasybabies.com",
-    "littlefeelings.io"
+    "littlefeelings.io",
+    "the-piligrims.webflow.io"
   ]
 }
