@@ -45,6 +45,7 @@
     "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
   ],
   "domains": [
+    "doodles-nft.xyz",
     "growmemeland.com",
     "cryptosimeji.live",
     "ethereum-v2s.com",
@@ -199,6 +200,7 @@
     "okinonft.webflow.io",
     "netai.webflow.io",
     "phantasybabies.com",
-    "littlefeelings.io"
+    "littlefeelings.io",
+    "doodles-nft.xyz"
   ]
 }
