@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xd23e368689ad3faba1817d220a56068e9527b600",
     "0x35ceb2fd6a76a8cac525f2267e5d8b84891fcf9e",
     "0xe5e5a2926b282a9b19015b212cf2974bdf5bba08",
     "0x5b791a69b40416358229166f8c576ed71ec10647",
@@ -23,7 +24,6 @@
     "0x4db585f06a2cb9f055770dd49c08dc66a44f68f2",
     "0x144115e7175fd05fc67ce89f2634e961c9ddf7f8",
     "0x37a51fd428bc37d5a3be6c43b32446c602c1983b",
-    "0xd23e368689ad3faba1817d220a56068e9527b600",
     "0xa0b8518ed085db19d1a550bd1dbec30c18ddd1af",
     "0xf6761f769344a377edac05f75d9dadb90c196c7e",
     "0x99d2d57b485f731b51f6c8ddcb325224d11b74f6",
@@ -46,6 +46,7 @@
     "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
   ],
   "domains": [
+    "digidaigaku.claims",
     "warrlorsofankh.xyz",
     "topgnft.io",
     "ghost-iab.xyz",
@@ -204,6 +205,7 @@
     "okinonft.webflow.io",
     "netai.webflow.io",
     "phantasybabies.com",
-    "littlefeelings.io"
+    "littlefeelings.io",
+    "digidaigaku.claims"
   ]
 }
