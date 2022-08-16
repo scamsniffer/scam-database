@@ -46,6 +46,7 @@
     "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
   ],
   "domains": [
+    "cryptomanga.io",
     "otherside-alpha.com",
     "azukiz.com",
     "vintageskulls.xyz",
@@ -209,6 +210,7 @@
     "simeji.org",
     "okinonft.webflow.io",
     "netai.webflow.io",
-    "phantasybabies.com"
+    "phantasybabies.com",
+    "cryptomanga.io"
   ]
 }
