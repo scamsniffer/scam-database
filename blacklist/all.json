@@ -46,6 +46,7 @@
     "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
   ],
   "domains": [
+    "azukiz.com",
     "vintageskulls.xyz",
     "revoke.space",
     "dream3nft.io",
@@ -207,6 +208,7 @@
     "simeji.org",
     "okinonft.webflow.io",
     "netai.webflow.io",
-    "phantasybabies.com"
+    "phantasybabies.com",
+    "azukiz.com"
   ]
 }
