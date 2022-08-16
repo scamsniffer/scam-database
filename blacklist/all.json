@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xb531c9fd5cd3119f9e33c4a9ee4844798e0de87a",
     "0xd23e368689ad3faba1817d220a56068e9527b600",
     "0x35ceb2fd6a76a8cac525f2267e5d8b84891fcf9e",
     "0xe5e5a2926b282a9b19015b212cf2974bdf5bba08",
@@ -43,9 +44,11 @@
     "0xa0e7959da78b1188604a7f0a3fbaa7150fe2a490",
     "0xd698402c42e07eaec5d6847a470e5758db823827",
     "0xc0fdf4fa92f88b82ccbebfc80fbe4eb7e5a8e0ca",
-    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
+    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a",
+    "0xb531c9fd5cd3119f9e33c4a9ee4844798e0de87a"
   ],
   "domains": [
+    "gmstudio.io",
     "cryptomanga.io",
     "otherside-alpha.com",
     "azukiz.com",
@@ -210,6 +213,7 @@
     "simeji.org",
     "okinonft.webflow.io",
     "netai.webflow.io",
-    "phantasybabies.com"
+    "phantasybabies.com",
+    "gmstudio.io"
   ]
 }
