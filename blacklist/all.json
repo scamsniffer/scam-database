@@ -47,8 +47,7 @@
     "0xa0e7959da78b1188604a7f0a3fbaa7150fe2a490",
     "0xd698402c42e07eaec5d6847a470e5758db823827",
     "0xc0fdf4fa92f88b82ccbebfc80fbe4eb7e5a8e0ca",
-    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a",
-    "0xf0bfd2bacfe0c2897c9d78918b8e6766e6eb0ccc"
+    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
   ],
   "domains": [
     "astroapesbbabys.netlify.app",
@@ -218,7 +217,6 @@
     "prismadoodles.com",
     "thedoodles.org",
     "simeji.org",
-    "okinonft.webflow.io",
-    "astroapesbbabys.netlify.app"
+    "okinonft.webflow.io"
   ]
 }
