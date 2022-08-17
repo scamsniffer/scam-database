@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xf0bfd2bacfe0c2897c9d78918b8e6766e6eb0ccc",
     "0x7b7a7f26db00692ed0bf7cc5aa842f1a9706e296",
     "0xde2c31c9728ac89ec53f744e2f6e87afbb4545d7",
     "0xb531c9fd5cd3119f9e33c4a9ee4844798e0de87a",
@@ -46,9 +47,11 @@
     "0xa0e7959da78b1188604a7f0a3fbaa7150fe2a490",
     "0xd698402c42e07eaec5d6847a470e5758db823827",
     "0xc0fdf4fa92f88b82ccbebfc80fbe4eb7e5a8e0ca",
-    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a"
+    "0xa342a1904b6fc4d659b7dae30fca2e87ef2f154a",
+    "0xf0bfd2bacfe0c2897c9d78918b8e6766e6eb0ccc"
   ],
   "domains": [
+    "astroapesbbabys.netlify.app",
     "honeyshot.xyz",
     "opensea.profilesetting.in",
     "serpentanft.com",
@@ -216,6 +219,6 @@
     "thedoodles.org",
     "simeji.org",
     "okinonft.webflow.io",
-    "netai.webflow.io"
+    "astroapesbbabys.netlify.app"
   ]
 }
