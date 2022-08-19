@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xac8f8a4f693c6bef022d31936fb75e12172efaa3",
     "0x9d3829eaac81a70f62ee3c0b5cc3b3f72f5bd1b3",
     "0xe5e5a2926b282a9b19015b212cf2974bdf5bba08",
     "0xde2c31c9728ac89ec53f744e2f6e87afbb4545d7",
@@ -45,9 +46,10 @@
     "0x4ad22b7bac2e152fa05e05166a57f98a96820d9b",
     "0x10cd051bd70ce950fa7158db1607d90208e50ad9",
     "0xa0e7959da78b1188604a7f0a3fbaa7150fe2a490",
-    "0xd698402c42e07eaec5d6847a470e5758db823827"
+    "0xac8f8a4f693c6bef022d31936fb75e12172efaa3"
   ],
   "domains": [
+    "stonesquad.club",
     "kryptoria.net",
     "gossapegirl.xyz",
     "theasianmint.com",
@@ -218,6 +220,6 @@
     "bunznft.webflow.io",
     "soul-watchers.com",
     "onemint.io",
-    "grannyapes.xyz"
+    "stonesquad.club"
   ]
 }
