@@ -45,8 +45,7 @@
     "0x92627cc48a9cfe692e62cf6ddc30fcb11681e7c5",
     "0x4ad22b7bac2e152fa05e05166a57f98a96820d9b",
     "0x10cd051bd70ce950fa7158db1607d90208e50ad9",
-    "0xa0e7959da78b1188604a7f0a3fbaa7150fe2a490",
-    "0xac8f8a4f693c6bef022d31936fb75e12172efaa3"
+    "0xa0e7959da78b1188604a7f0a3fbaa7150fe2a490"
   ],
   "domains": [
     "stonesquad.club",
@@ -219,7 +218,6 @@
     "burger-goblin.wtf",
     "bunznft.webflow.io",
     "soul-watchers.com",
-    "onemint.io",
-    "stonesquad.club"
+    "onemint.io"
   ]
 }
