@@ -46,8 +46,7 @@
     "0x3245e504d75e4148a491baac5066b0f26965567d",
     "0x92627cc48a9cfe692e62cf6ddc30fcb11681e7c5",
     "0x4ad22b7bac2e152fa05e05166a57f98a96820d9b",
-    "0x10cd051bd70ce950fa7158db1607d90208e50ad9",
-    "0x81cdfb123f25ab1bc00aacce106ac84e7fc84d5b"
+    "0x10cd051bd70ce950fa7158db1607d90208e50ad9"
   ],
   "domains": [
     "diamondhandsdao.netlify.app",
@@ -220,7 +219,6 @@
     "artisart.site",
     "zadipass.pro",
     "runblocks.webflow.io",
-    "mysteris.webflow.io",
-    "diamondhandsdao.netlify.app"
+    "mysteris.webflow.io"
   ]
 }
