@@ -51,6 +51,7 @@
     "0x4ad22b7bac2e152fa05e05166a57f98a96820d9b"
   ],
   "domains": [
+    "llamaai.com",
     "uniswap-token.org",
     "otherside-nfts.com",
     "giveawaymint.com",
@@ -226,6 +227,7 @@
     "memeland-potatoz.net",
     "gochigang.com",
     "mysticsuniverse.club",
-    "nests-moonbirds.xyz"
+    "nests-moonbirds.xyz",
+    "llamaai.com"
   ]
 }
