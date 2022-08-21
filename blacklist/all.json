@@ -48,10 +48,10 @@
     "0x149c47ad91a4f01719123a9971b21e112da68d71",
     "0x3245e504d75e4148a491baac5066b0f26965567d",
     "0x92627cc48a9cfe692e62cf6ddc30fcb11681e7c5",
-    "0x4ad22b7bac2e152fa05e05166a57f98a96820d9b",
-    "0x10cd051bd70ce950fa7158db1607d90208e50ad9"
+    "0x4ad22b7bac2e152fa05e05166a57f98a96820d9b"
   ],
   "domains": [
+    "otherside-nfts.com",
     "giveawaymint.com",
     "giveawayspain.com",
     "thesandboxland.org",
@@ -226,6 +226,6 @@
     "gochigang.com",
     "mysticsuniverse.club",
     "nests-moonbirds.xyz",
-    "thedoodles.net"
+    "otherside-nfts.com"
   ]
 }
