@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xac8f8a4f693c6bef022d31936fb75e12172efaa3",
     "0x67e16ea3aa6e606d604893063b6934542ca44d27",
     "0x194c9781f9337ea65a1b8dfff12dc32bed7b5ca3",
     "0xef52a1f78571d3cd4be7865626733275b3d715ac",
@@ -7,7 +8,6 @@
     "0x70c17443b506f7484d7223520889565d65fa0e95",
     "0x81cdfb123f25ab1bc00aacce106ac84e7fc84d5b",
     "0x61c150ad33833f19a08a0552cf6726966f336bbd",
-    "0xac8f8a4f693c6bef022d31936fb75e12172efaa3",
     "0x9d3829eaac81a70f62ee3c0b5cc3b3f72f5bd1b3",
     "0xe5e5a2926b282a9b19015b212cf2974bdf5bba08",
     "0xde2c31c9728ac89ec53f744e2f6e87afbb4545d7",
@@ -47,6 +47,7 @@
     "0xc8e1c269d2c0754777c500a1af7235b55a570c34"
   ],
   "domains": [
+    "mylastnft.io",
     "rayc.mintnewuniverse.com",
     "otterverse-mint.xyz",
     "sushifrens-allowlist.com",
@@ -220,6 +221,6 @@
     "grayboysnft.world",
     "billionairebirdsclub.xyz",
     "get-adidasnft.xyz",
-    "cryptopunks.events"
+    "mylastnft.io"
   ]
 }
