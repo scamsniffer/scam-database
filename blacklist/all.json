@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x67e16ea3aa6e606d604893063b6934542ca44d27",
     "0x194c9781f9337ea65a1b8dfff12dc32bed7b5ca3",
     "0xef52a1f78571d3cd4be7865626733275b3d715ac",
     "0x177bb575b45d059510616a05d301f898dadde294",
@@ -43,13 +44,14 @@
     "0x1cbabbaef4fcac7a239bad0a2e92cddfe69dcf3e",
     "0x09851ce72e703fbd2b009ed26db2847cb2ff482b",
     "0x3da336601df9dccb0203f57922c919649a8981d8",
-    "0xc8e1c269d2c0754777c500a1af7235b55a570c34"
+    "0xc8e1c269d2c0754777c500a1af7235b55a570c34",
+    "0x67e16ea3aa6e606d604893063b6934542ca44d27"
   ],
   "domains": [
+    "rayc.mintnewuniverse.com",
     "otterverse-mint.xyz",
     "sushifrens-allowlist.com",
     "potatoz-memesland.life",
-    "rayc.mintnewuniverse.com",
     "moonbiirdsmyths.com",
     "official-mint.store",
     "stepnshoeboxes.com",
@@ -219,7 +221,6 @@
     "grayboysnft.world",
     "billionairebirdsclub.xyz",
     "get-adidasnft.xyz",
-    "cryptopunks.events",
-    "memeland.sale"
+    "cryptopunks.events"
   ]
 }
