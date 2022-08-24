@@ -45,10 +45,10 @@
     "0xc8e1c269d2c0754777c500a1af7235b55a570c34",
     "0x472e6b8d72cd220802809ce79c68d6c55a4b5947",
     "0x7832128ce0d590e8f2c3edfcac5d3b99fe464ae4",
-    "0x149c47ad91a4f01719123a9971b21e112da68d71",
-    "0x3245e504d75e4148a491baac5066b0f26965567d"
+    "0x149c47ad91a4f01719123a9971b21e112da68d71"
   ],
   "domains": [
+    "official-mint.store",
     "stepnshoeboxes.com",
     "degenladyapes.netlify.app",
     "xn--gobintown-sub.wtf",
@@ -225,6 +225,6 @@
     "premint.today",
     "premints.info",
     "beastsnft.xyz",
-    "thesaudlsnft.com"
+    "official-mint.store"
   ]
 }
