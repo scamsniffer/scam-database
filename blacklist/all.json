@@ -41,10 +41,11 @@
     "0x99d2d57b485f731b51f6c8ddcb325224d11b74f6",
     "0x4a57ae665ce8cc565eba852245da484695ed34ee",
     "0xa3a406da713a23106459712b45645ac27c84ff72",
-    "0x1cbabbaef4fcac7a239bad0a2e92cddfe69dcf3e"
+    "0x1cbabbaef4fcac7a239bad0a2e92cddfe69dcf3e",
+    "0x09851ce72e703fbd2b009ed26db2847cb2ff482b",
+    "0x09851ce72e703fbd2b009ed26db2847cb2ff482b"
   ],
   "domains": [
-    "www.commandz.xyz",
     "9liens.xyz",
     "restlessnft.xyz",
     "worldbalatroon.xyz",
@@ -217,6 +218,8 @@
     "emanueleferrari.claims",
     "murakamiflowers-tshirts.com",
     "jiraversemint.infinit3studios.net",
-    "nftnickelodeon.xyz"
+    "nftnickelodeon.xyz",
+    "ledgermarketpass.com",
+    "ledgermarketpass.com"
   ]
 }
