@@ -40,10 +40,10 @@
     "0xf6761f769344a377edac05f75d9dadb90c196c7e",
     "0x99d2d57b485f731b51f6c8ddcb325224d11b74f6",
     "0x4a57ae665ce8cc565eba852245da484695ed34ee",
-    "0xa3a406da713a23106459712b45645ac27c84ff72",
-    "0x1cbabbaef4fcac7a239bad0a2e92cddfe69dcf3e"
+    "0xa3a406da713a23106459712b45645ac27c84ff72"
   ],
   "domains": [
+    "scrappypenguin.com",
     "x2-eth.pro",
     "wasdnfts.com",
     "genopets-mint.site",
@@ -217,6 +217,6 @@
     "t-shirt-murakami-flowers.com",
     "nftsnickelodeon.xyz",
     "emanueleferrari.claims",
-    "murakamiflowers-tshirts.com"
+    "scrappypenguin.com"
   ]
 }
