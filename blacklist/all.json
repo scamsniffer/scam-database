@@ -35,10 +35,13 @@
     "0x39e8554bc14b4709827b117eba728e6fc0f4121e",
     "0xf979f5d9126e4fccdbd447c8bb3ef109bc5e525a",
     "0x3f72b979dc53bede7fe26e2d70260d4af3b673a0",
-    "0xf3b87938cc132833670dc3463fac19656f3c7425",
-    "0x1902d018d5b380437be190e253758d08fb880023"
+    "0xf3b87938cc132833670dc3463fac19656f3c7425"
   ],
   "domains": [
+    "connecti-collab.land",
+    "connect-3-collab.land",
+    "connect-2-collab.land",
+    "connect-1-collab.land",
     "battlemancers.net",
     "kaitunft.com",
     "mirofspace.xyz",
@@ -215,9 +218,9 @@
     "thepotatoz-premint.xyz",
     "test-otherside.com",
     "flufgoblintown.world",
-    "thesaudisnfts.wtf",
-    "heroape.io",
-    "tinybearsnft.com",
-    "bagholders.io"
+    "connecti-collab.land",
+    "connect-3-collab.land",
+    "connect-2-collab.land",
+    "connect-1-collab.land"
   ]
 }
