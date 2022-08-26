@@ -38,6 +38,7 @@
     "0x3f72b979dc53bede7fe26e2d70260d4af3b673a0"
   ],
   "domains": [
+    "www.metaheropass.xyz",
     "token-collab.com",
     "deficonnect-collab.land",
     "connect1-collab.land",
@@ -217,6 +218,6 @@
     "nftiff-ap.site",
     "feedingfrenzy.xyz",
     "tiles-of-ethereum.typedream.app",
-    "otherside-premint.xyz"
+    "www.metaheropass.xyz"
   ]
 }
