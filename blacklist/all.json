@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xc186426082b8460b6d08da0ac98f9f87b3499263",
     "0xe5e5a2926b282a9b19015b212cf2974bdf5bba08",
     "0x064a1e3ce94cd44d81949cff3170e5b4d3476df4",
     "0xf61ac9508de7786bd78d327e7c2d17c3d1ebc893",
@@ -34,9 +35,11 @@
     "0xf5fcd49311cfe6c86f576b55c6f89c74af34d7fb",
     "0x39e8554bc14b4709827b117eba728e6fc0f4121e",
     "0xf979f5d9126e4fccdbd447c8bb3ef109bc5e525a",
-    "0x3f72b979dc53bede7fe26e2d70260d4af3b673a0"
+    "0x3f72b979dc53bede7fe26e2d70260d4af3b673a0",
+    "0xc186426082b8460b6d08da0ac98f9f87b3499263"
   ],
   "domains": [
+    "token-collab.com",
     "deficonnect-collab.land",
     "connect1-collab.land",
     "connecti-collab.land",
@@ -216,6 +219,6 @@
     "feedingfrenzy.xyz",
     "tiles-of-ethereum.typedream.app",
     "otherside-premint.xyz",
-    "thepotatoz-premint.xyz"
+    "token-collab.com"
   ]
 }
