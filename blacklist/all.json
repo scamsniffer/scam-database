@@ -34,6 +34,7 @@
     "0x5758cfa411fdeadd8d294342409432b99e699c27"
   ],
   "domains": [
+    "coinbaseswap.com",
     "facesofrekt.netlify.app",
     "sandboxalpha.org",
     "othersidebayc.club",
@@ -219,6 +220,7 @@
     "mutantmorphans.io",
     "hypnoduckz.xyz",
     "zombiecats.netlify.app",
-    "8liensnft-free.netlify.app"
+    "8liensnft-free.netlify.app",
+    "coinbaseswap.com"
   ]
 }
