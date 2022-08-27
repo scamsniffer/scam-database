@@ -30,10 +30,12 @@
     "0xd23e368689ad3faba1817d220a56068e9527b600",
     "0x35ceb2fd6a76a8cac525f2267e5d8b84891fcf9e",
     "0x5b791a69b40416358229166f8c576ed71ec10647",
-    "0xd38e66d4176ece009fb767bc705e9d91fc1e7641",
-    "0x5758cfa411fdeadd8d294342409432b99e699c27"
+    "0xd38e66d4176ece009fb767bc705e9d91fc1e7641"
   ],
   "domains": [
+    "ethereum2022.ltd",
+    "doodles-2.club",
+    "sidekast.netlify.app",
     "coinbaseswap.com",
     "facesofrekt.netlify.app",
     "sandboxalpha.org",
@@ -220,6 +222,8 @@
     "mutantmorphans.io",
     "hypnoduckz.xyz",
     "zombiecats.netlify.app",
-    "8liensnft-free.netlify.app"
+    "ethereum2022.ltd",
+    "doodles-2.club",
+    "sidekast.netlify.app"
   ]
 }
