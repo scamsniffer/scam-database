@@ -36,6 +36,7 @@
     "0x39e8554bc14b4709827b117eba728e6fc0f4121e"
   ],
   "domains": [
+    "bakery-mxc.com",
     "bakery-iotx.com",
     "bakery-hex.com",
     "daydreamersnft.io",
@@ -216,8 +217,6 @@
     "goldiggerz.xyz",
     "cryptobickdutts.com",
     "othersideyc.com",
-    "wildwestnft.io",
-    "bakery-iotx.com",
-    "bakery-hex.com"
+    "bakery-mxc.com"
   ]
 }
