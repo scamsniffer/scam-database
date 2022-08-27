@@ -30,10 +30,10 @@
     "0xd38e66d4176ece009fb767bc705e9d91fc1e7641",
     "0x5758cfa411fdeadd8d294342409432b99e699c27",
     "0x8c12aeaf62da2fa8778f7a6e77526cf98ad76f3b",
-    "0xc4b0e6cf56e76e831e13d197705b4ce05c472ddc",
-    "0xc3205702a9e793d6a23d1bb19f5531632ef0b768"
+    "0xc4b0e6cf56e76e831e13d197705b4ce05c472ddc"
   ],
   "domains": [
+    "kadenamining.pro",
     "www.worshipers.site",
     "ethmainnets.com",
     "ethmainnet99.com",
@@ -218,6 +218,6 @@
     "banditsinthemetaverse.xyz",
     "pass.premintbot.xyz",
     "cryptomaid.xyz",
-    "nickelodeonsnfts.com"
+    "kadenamining.pro"
   ]
 }
