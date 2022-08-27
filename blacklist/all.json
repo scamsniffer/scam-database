@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x969adf6f99eb2756513bbc5d45605f6fcfbb4bdd",
     "0x4c0ce7248e8a18d54009b8d2ba982d1b0ca4ea49",
     "0x787450d78225fb16300cb9a10a1af648c2abd115",
     "0x2252096d66c72985e66639c344695b17bbed4192",
@@ -30,9 +31,11 @@
     "0xd38e66d4176ece009fb767bc705e9d91fc1e7641",
     "0x5758cfa411fdeadd8d294342409432b99e699c27",
     "0x8c12aeaf62da2fa8778f7a6e77526cf98ad76f3b",
-    "0xc4b0e6cf56e76e831e13d197705b4ce05c472ddc"
+    "0xc4b0e6cf56e76e831e13d197705b4ce05c472ddc",
+    "0x969adf6f99eb2756513bbc5d45605f6fcfbb4bdd"
   ],
   "domains": [
+    "somethingishapening.xyz",
     "netherlyagency.com",
     "kadenamining.pro",
     "www.worshipers.site",
@@ -217,6 +220,6 @@
     "roulette-stepn.com",
     "8liens.co",
     "banditsinthemetaverse.xyz",
-    "pass.premintbot.xyz"
+    "somethingishapening.xyz"
   ]
 }
