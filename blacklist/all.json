@@ -31,10 +31,10 @@
     "0x35ceb2fd6a76a8cac525f2267e5d8b84891fcf9e",
     "0x5b791a69b40416358229166f8c576ed71ec10647",
     "0xd38e66d4176ece009fb767bc705e9d91fc1e7641",
-    "0x5758cfa411fdeadd8d294342409432b99e699c27",
-    "0x64480d380da9abbc9c95f8ca44bfcf1682bb4788"
+    "0x5758cfa411fdeadd8d294342409432b99e699c27"
   ],
   "domains": [
+    "facesofrekt.netlify.app",
     "sandboxalpha.org",
     "othersidebayc.club",
     "app-evmos.org",
@@ -220,8 +220,6 @@
     "hypnoduckz.xyz",
     "zombiecats.netlify.app",
     "8liensnft-free.netlify.app",
-    "apes-for-change.webflow.io",
-    "sandboxalpha.org",
-    "othersidebayc.club"
+    "facesofrekt.netlify.app"
   ]
 }
