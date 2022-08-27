@@ -31,10 +31,10 @@
     "0x5b791a69b40416358229166f8c576ed71ec10647",
     "0xd38e66d4176ece009fb767bc705e9d91fc1e7641",
     "0x5758cfa411fdeadd8d294342409432b99e699c27",
-    "0x8c12aeaf62da2fa8778f7a6e77526cf98ad76f3b",
-    "0x35fc29574ce5aa3170b55414bb0b815708962c58"
+    "0x8c12aeaf62da2fa8778f7a6e77526cf98ad76f3b"
   ],
   "domains": [
+    "app-evmos.org",
     "x2y2.team",
     "azitonft.xyz",
     "airdrop-bscpad.org",
@@ -220,8 +220,6 @@
     "apes-for-change.webflow.io",
     "doodsangels.xyz",
     "transylvaniecastle.xyz",
-    "punked.lol",
-    "x2y2.team",
-    "azitonft.xyz"
+    "app-evmos.org"
   ]
 }
