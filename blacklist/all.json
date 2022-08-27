@@ -31,10 +31,10 @@
     "0x5758cfa411fdeadd8d294342409432b99e699c27",
     "0x8c12aeaf62da2fa8778f7a6e77526cf98ad76f3b",
     "0xc4b0e6cf56e76e831e13d197705b4ce05c472ddc",
-    "0xc3205702a9e793d6a23d1bb19f5531632ef0b768",
-    "0xa7a30830b1df1347de54773b6150f89be5284ddf"
+    "0xc3205702a9e793d6a23d1bb19f5531632ef0b768"
   ],
   "domains": [
+    "www.worshipers.site",
     "ethmainnets.com",
     "ethmainnet99.com",
     "ethmainnet9.com",
@@ -219,6 +219,6 @@
     "pass.premintbot.xyz",
     "cryptomaid.xyz",
     "nickelodeonsnfts.com",
-    "moonbird-xyz.com"
+    "www.worshipers.site"
   ]
 }
