@@ -35,10 +35,10 @@
     "0x20f3a94c940ed0f25fb9b7a6b468affce18006e7",
     "0xa4674d608d38822765af8bf76562f6457a2c4621",
     "0xf5fcd49311cfe6c86f576b55c6f89c74af34d7fb",
-    "0x39e8554bc14b4709827b117eba728e6fc0f4121e",
-    "0x787450d78225fb16300cb9a10a1af648c2abd115"
+    "0x39e8554bc14b4709827b117eba728e6fc0f4121e"
   ],
   "domains": [
+    "ethereum2022.com",
     "wasdnft.claims",
     "etedapp.xyz",
     "ensclaims.net",
@@ -220,6 +220,6 @@
     "cryptosdickbutts.com",
     "moonbirds2022.xyz",
     "uglyduck.wtf",
-    "wasdnft.claims"
+    "ethereum2022.com"
   ]
 }
