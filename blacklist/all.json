@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xac8f8a4f693c6bef022d31936fb75e12172efaa3",
     "0x787450d78225fb16300cb9a10a1af648c2abd115",
     "0x4c0ce7248e8a18d54009b8d2ba982d1b0ca4ea49",
     "0x40c8590f2d2f543689b42f9a1f1872cb7461aa0d",
@@ -13,7 +14,6 @@
     "0x35fc29574ce5aa3170b55414bb0b815708962c58",
     "0x969adf6f99eb2756513bbc5d45605f6fcfbb4bdd",
     "0x2252096d66c72985e66639c344695b17bbed4192",
-    "0xac8f8a4f693c6bef022d31936fb75e12172efaa3",
     "0x727b6866bdba3921bda2757c42956a02c71f8d7e",
     "0xc186426082b8460b6d08da0ac98f9f87b3499263",
     "0x064a1e3ce94cd44d81949cff3170e5b4d3476df4",
@@ -31,10 +31,11 @@
     "0x9d3829eaac81a70f62ee3c0b5cc3b3f72f5bd1b3",
     "0xde2c31c9728ac89ec53f744e2f6e87afbb4545d7",
     "0xf0bfd2bacfe0c2897c9d78918b8e6766e6eb0ccc",
-    "0xb531c9fd5cd3119f9e33c4a9ee4844798e0de87a",
-    "0xd23e368689ad3faba1817d220a56068e9527b600"
+    "0xb531c9fd5cd3119f9e33c4a9ee4844798e0de87a"
   ],
   "domains": [
+    "bearfrenz.xyz",
+    "otherssides.info",
     "outsad.claims",
     "monsterra-launchpad.com",
     "ethmainnet55.com",
@@ -221,8 +222,7 @@
     "otherside-alpha.com",
     "azukiz.com",
     "vintageskulls.xyz",
-    "revoke.space",
-    "dream3nft.io",
-    "digidaigaku.claims"
+    "bearfrenz.xyz",
+    "otherssides.info"
   ]
 }
