@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x903b83827ca11bfa92a3f623bc22015a6292999e",
     "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572",
     "0xac8f8a4f693c6bef022d31936fb75e12172efaa3",
     "0x787450d78225fb16300cb9a10a1af648c2abd115",
@@ -32,9 +33,11 @@
     "0x9d3829eaac81a70f62ee3c0b5cc3b3f72f5bd1b3",
     "0xde2c31c9728ac89ec53f744e2f6e87afbb4545d7",
     "0xf0bfd2bacfe0c2897c9d78918b8e6766e6eb0ccc",
-    "0xb531c9fd5cd3119f9e33c4a9ee4844798e0de87a"
+    "0xb531c9fd5cd3119f9e33c4a9ee4844798e0de87a",
+    "0x903b83827ca11bfa92a3f623bc22015a6292999e"
   ],
   "domains": [
+    "aieth.net",
     "yinyanggang-claim.com",
     "bearfrenz.xyz",
     "otherssides.info",
@@ -222,6 +225,6 @@
     "gmstudio.io",
     "cryptomanga.io",
     "otherside-alpha.com",
-    "azukiz.com"
+    "aieth.net"
   ]
 }
