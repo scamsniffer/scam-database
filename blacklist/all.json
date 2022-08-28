@@ -35,6 +35,7 @@
     "0xf0bfd2bacfe0c2897c9d78918b8e6766e6eb0ccc"
   ],
   "domains": [
+    "blackstation.puma.com",
     "bethestrong.com",
     "godhatesnftes.org",
     "projectadvent.xyz",
@@ -221,8 +222,6 @@
     "turtleandthehare.xyz",
     "astroapesbbabys.netlify.app",
     "honeyshot.xyz",
-    "opensea.profilesetting.in",
-    "bethestrong.com",
-    "godhatesnftes.org"
+    "blackstation.puma.com"
   ]
 }
