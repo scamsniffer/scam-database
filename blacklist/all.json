@@ -32,8 +32,7 @@
     "0xf0bfd2bacfe0c2897c9d78918b8e6766e6eb0ccc",
     "0xb531c9fd5cd3119f9e33c4a9ee4844798e0de87a",
     "0xd23e368689ad3faba1817d220a56068e9527b600",
-    "0x35ceb2fd6a76a8cac525f2267e5d8b84891fcf9e",
-    "0x67965987847e97771bdb39aee2a5c1469f719791"
+    "0x35ceb2fd6a76a8cac525f2267e5d8b84891fcf9e"
   ],
   "domains": [
     "ethair.pro",
@@ -225,8 +224,6 @@
     "topgnft.io",
     "ghost-iab.xyz",
     "doodles-nft.xyz",
-    "growmemeland.com",
-    "ethair.pro",
-    "eth2fork.com"
+    "growmemeland.com"
   ]
 }
