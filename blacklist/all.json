@@ -27,10 +27,10 @@
     "0x194c9781f9337ea65a1b8dfff12dc32bed7b5ca3",
     "0xef52a1f78571d3cd4be7865626733275b3d715ac",
     "0x177bb575b45d059510616a05d301f898dadde294",
-    "0x70c17443b506f7484d7223520889565d65fa0e95",
-    "0x81cdfb123f25ab1bc00aacce106ac84e7fc84d5b"
+    "0x70c17443b506f7484d7223520889565d65fa0e95"
   ],
   "domains": [
+    "memelandofficial.com",
     "launchpad-mmf.com",
     "launchpad-hecta.com",
     "launchpad-drac.com",
@@ -195,7 +195,6 @@
     "xn--pudgypenguns-ofb.com",
     "xn--azuk-ypa.com",
     "genuineundead.xyz",
-    "memelandofficial.com",
     "maddragonsnft.netlify.app",
     "kokoronft.netlify.app",
     "genuineundead.wtf",
@@ -212,7 +211,6 @@
     "cryptopunksgiveaway.com",
     "ethmining.pro",
     "yogapet.xyz",
-    "www.americangoblins.com",
-    "diamondhandsdao.netlify.app"
+    "www.americangoblins.com"
   ]
 }
