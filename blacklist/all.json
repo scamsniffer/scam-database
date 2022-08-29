@@ -25,10 +25,10 @@
     "0x2977630140ca9885ab8d721d6f1d8dcb95c77e46",
     "0x3a156d5f158d77c0df74ee6be8fe423a59e92997",
     "0xec73a20b2670edba471615fe9c4b0cb2590dc644",
-    "0x67e16ea3aa6e606d604893063b6934542ca44d27",
-    "0x194c9781f9337ea65a1b8dfff12dc32bed7b5ca3"
+    "0x67e16ea3aa6e606d604893063b6934542ca44d27"
   ],
   "domains": [
+    "xor-launchpad.com",
     "sesshosekieth.com",
     "renga.freemintclaim.com",
     "safuu-launchpad.com",
@@ -207,6 +207,6 @@
     "mylastnft.io",
     "rayc.mintnewuniverse.com",
     "otterverse-mint.xyz",
-    "sushifrens-allowlist.com"
+    "xor-launchpad.com"
   ]
 }
