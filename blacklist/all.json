@@ -29,6 +29,7 @@
     "0x194c9781f9337ea65a1b8dfff12dc32bed7b5ca3"
   ],
   "domains": [
+    "oax-launchpad.com",
     "litentry-launchpad.com",
     "launchpad-shi.com",
     "digidaigaku-stake.freemintclaim.com",
@@ -206,6 +207,6 @@
     "moonbiirdsmyths.com",
     "official-mint.store",
     "stepnshoeboxes.com",
-    "degenladyapes.netlify.app"
+    "oax-launchpad.com"
   ]
 }
