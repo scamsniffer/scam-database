@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x727b6866bdba3921bda2757c42956a02c71f8d7e",
     "0xe01a28cefde7cd3510c103fd67f9c91bf6fccef9",
     "0xac8f8a4f693c6bef022d31936fb75e12172efaa3",
     "0x064a1e3ce94cd44d81949cff3170e5b4d3476df4",
@@ -18,7 +19,6 @@
     "0x35fc29574ce5aa3170b55414bb0b815708962c58",
     "0x969adf6f99eb2756513bbc5d45605f6fcfbb4bdd",
     "0x2252096d66c72985e66639c344695b17bbed4192",
-    "0x727b6866bdba3921bda2757c42956a02c71f8d7e",
     "0xc186426082b8460b6d08da0ac98f9f87b3499263",
     "0xf61ac9508de7786bd78d327e7c2d17c3d1ebc893",
     "0x2977630140ca9885ab8d721d6f1d8dcb95c77e46",
@@ -28,6 +28,8 @@
     "0x194c9781f9337ea65a1b8dfff12dc32bed7b5ca3"
   ],
   "domains": [
+    "degendojo.online",
+    "deeper-launchpad.com",
     "mintyogapetz.com",
     "boredapeyoga.com",
     "legendarydoodles.app",
@@ -206,7 +208,7 @@
     "digidaigaku.xyz",
     "llamaai.com",
     "uniswap-token.org",
-    "otherside-nfts.com",
-    "giveawaymint.com"
+    "degendojo.online",
+    "deeper-launchpad.com"
   ]
 }
