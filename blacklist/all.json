@@ -28,6 +28,7 @@
     "0x194c9781f9337ea65a1b8dfff12dc32bed7b5ca3"
   ],
   "domains": [
+    "mintyogapetz.com",
     "boredapeyoga.com",
     "legendarydoodles.app",
     "xn--y00t-o5a.com",
@@ -66,7 +67,6 @@
     "bethlehemanniversary.com",
     "bestcoin-pad.org",
     "aave-v3bnb.com",
-    "mintyogapetz.com",
     "rectification-dapp.com",
     "lightexchanger.com",
     "royalgossamer.com",
@@ -207,7 +207,6 @@
     "llamaai.com",
     "uniswap-token.org",
     "otherside-nfts.com",
-    "giveawaymint.com",
-    "giveawayspain.com"
+    "giveawaymint.com"
   ]
 }
