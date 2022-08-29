@@ -28,6 +28,8 @@
     "0x194c9781f9337ea65a1b8dfff12dc32bed7b5ca3"
   ],
   "domains": [
+    "guild.claims",
+    "guild-gifts.claims",
     "elefrens.xyz",
     "flux-launchpad.com",
     "beta.xn--thesaudsnft-5zb.com",
@@ -205,8 +207,7 @@
     "genuineundead.xyz",
     "maddragonsnft.netlify.app",
     "kokoronft.netlify.app",
-    "genuineundead.wtf",
-    "sarahssecretnft.com",
-    "elefrens.xyz"
+    "guild.claims",
+    "guild-gifts.claims"
   ]
 }
