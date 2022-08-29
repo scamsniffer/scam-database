@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xe01a28cefde7cd3510c103fd67f9c91bf6fccef9",
     "0xac8f8a4f693c6bef022d31936fb75e12172efaa3",
     "0x064a1e3ce94cd44d81949cff3170e5b4d3476df4",
     "0xe5e5a2926b282a9b19015b212cf2974bdf5bba08",
@@ -26,9 +27,10 @@
     "0x67e16ea3aa6e606d604893063b6934542ca44d27",
     "0x194c9781f9337ea65a1b8dfff12dc32bed7b5ca3",
     "0xef52a1f78571d3cd4be7865626733275b3d715ac",
-    "0x177bb575b45d059510616a05d301f898dadde294"
+    "0xe01a28cefde7cd3510c103fd67f9c91bf6fccef9"
   ],
   "domains": [
+    "legendarydoodles.app",
     "xn--y00t-o5a.com",
     "polk-launchpad.com",
     "hellokittyfriend.com",
@@ -210,6 +212,6 @@
     "giveawayspain.com",
     "thesandboxland.org",
     "rareapepeyachtclub.wtf",
-    "cryptopunksgiveaway.com"
+    "legendarydoodles.app"
   ]
 }
