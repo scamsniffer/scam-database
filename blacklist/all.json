@@ -29,6 +29,7 @@
     "0x194c9781f9337ea65a1b8dfff12dc32bed7b5ca3"
   ],
   "domains": [
+    "rlc-launchpad.com",
     "reef-launchpad.com",
     "oax-launchpad.com",
     "litentry-launchpad.com",
@@ -206,7 +207,6 @@
     "sushifrens-allowlist.com",
     "potatoz-memesland.life",
     "moonbiirdsmyths.com",
-    "official-mint.store",
-    "reef-launchpad.com"
+    "rlc-launchpad.com"
   ]
 }
