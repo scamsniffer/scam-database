@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x67965987847e97771bdb39aee2a5c1469f719791",
     "0x5bd0f7d5e5a011671475599d21364575b3fddaca",
     "0x689b378f9c1ab4c37d25112ca6b8da787eca72ba",
     "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572",
@@ -12,7 +13,6 @@
     "0x787450d78225fb16300cb9a10a1af648c2abd115",
     "0x4c0ce7248e8a18d54009b8d2ba982d1b0ca4ea49",
     "0x40c8590f2d2f543689b42f9a1f1872cb7461aa0d",
-    "0x67965987847e97771bdb39aee2a5c1469f719791",
     "0x7b7a7f26db00692ed0bf7cc5aa842f1a9706e296",
     "0x55c3f34c992cbac8d966609773fbc441dddd9c45",
     "0x463224c0af60e2e47f9c6320f337ba94e809ddb3",
@@ -27,6 +27,7 @@
     "0x3a156d5f158d77c0df74ee6be8fe423a59e92997"
   ],
   "domains": [
+    "aireth.pro",
     "aboriginall-mint.net",
     "moonbbirds.info",
     "itsfreemint.xyz",
@@ -194,6 +195,6 @@
     "mint-claim.xyz",
     "merge-ether.org",
     "allowlist-premint.xyz",
-    "10ktf-premint.xyz"
+    "aireth.pro"
   ]
 }
