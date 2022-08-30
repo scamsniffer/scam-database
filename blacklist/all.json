@@ -23,10 +23,10 @@
     "0x2252096d66c72985e66639c344695b17bbed4192",
     "0xc186426082b8460b6d08da0ac98f9f87b3499263",
     "0xf61ac9508de7786bd78d327e7c2d17c3d1ebc893",
-    "0x2977630140ca9885ab8d721d6f1d8dcb95c77e46",
-    "0x3a156d5f158d77c0df74ee6be8fe423a59e92997"
+    "0x2977630140ca9885ab8d721d6f1d8dcb95c77e46"
   ],
   "domains": [
+    "apc-launchpad.com",
     "aireth.pro",
     "aboriginall-mint.net",
     "moonbbirds.info",
@@ -194,6 +194,6 @@
     "moonbirds-animate.xyz",
     "mint-claim.xyz",
     "merge-ether.org",
-    "allowlist-premint.xyz"
+    "apc-launchpad.com"
   ]
 }
