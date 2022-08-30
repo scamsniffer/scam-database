@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x41a21fab6cfa2272df0ad121d4b610f93988434a",
     "0x787450d78225fb16300cb9a10a1af648c2abd115",
     "0x67965987847e97771bdb39aee2a5c1469f719791",
     "0x5bd0f7d5e5a011671475599d21364575b3fddaca",
@@ -22,9 +23,11 @@
     "0x969adf6f99eb2756513bbc5d45605f6fcfbb4bdd",
     "0x2252096d66c72985e66639c344695b17bbed4192",
     "0xc186426082b8460b6d08da0ac98f9f87b3499263",
-    "0xf61ac9508de7786bd78d327e7c2d17c3d1ebc893"
+    "0xf61ac9508de7786bd78d327e7c2d17c3d1ebc893",
+    "0x41a21fab6cfa2272df0ad121d4b610f93988434a"
   ],
   "domains": [
+    "ethtonx.club",
     "etholdier.xyz",
     "airdroppancakeswap.info",
     "airdrop-pancakeswap.org",
@@ -192,6 +195,6 @@
     "pancake-kishu.com",
     "pancake-hex.com",
     "pancake-dome.com",
-    "pancake-ceek.com"
+    "ethtonx.club"
   ]
 }
