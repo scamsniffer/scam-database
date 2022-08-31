@@ -27,8 +27,7 @@
     "0x64480d380da9abbc9c95f8ca44bfcf1682bb4788",
     "0x35fc29574ce5aa3170b55414bb0b815708962c58",
     "0x969adf6f99eb2756513bbc5d45605f6fcfbb4bdd",
-    "0x2252096d66c72985e66639c344695b17bbed4192",
-    "0x6fe2ee963643ac7e480aacafefddb3683e38fcf9"
+    "0x2252096d66c72985e66639c344695b17bbed4192"
   ],
   "domains": [
     "thetrollsnft.live",
@@ -195,7 +194,6 @@
     "etedapp.xyz",
     "ensclaims.net",
     "bakery-mxc.com",
-    "bakery-iotx.com",
-    "thetrollsnft.live"
+    "bakery-iotx.com"
   ]
 }
