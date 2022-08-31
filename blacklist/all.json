@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x7b92fb979ae44b646121e5ec07abf82a7022883d",
     "0xeee495d9fa356175623e227546cbe46dffdaf6f2",
     "0x7b7a7f26db00692ed0bf7cc5aa842f1a9706e296",
     "0xc8b27cc7d20b15acdeaf6002f30af358f741fefc",
@@ -25,9 +26,12 @@
     "0x35fc29574ce5aa3170b55414bb0b815708962c58",
     "0x969adf6f99eb2756513bbc5d45605f6fcfbb4bdd",
     "0x2252096d66c72985e66639c344695b17bbed4192",
-    "0xc186426082b8460b6d08da0ac98f9f87b3499263"
+    "0x7b92fb979ae44b646121e5ec07abf82a7022883d"
   ],
   "domains": [
+    "ethereum-shping.com",
+    "industrial.freemintclaim.com",
+    "ethereum-rubic.com",
     "rtfktclonexforging.com",
     "connecton-collab.land",
     "connectme-collab.land",
@@ -192,8 +196,8 @@
     "huobi-launchpad.com",
     "kaitunft.xyz",
     "dawndragonz.com",
-    "www.metaheropass.xyz",
-    "token-collab.com",
-    "deficonnect-collab.land"
+    "ethereum-shping.com",
+    "industrial.freemintclaim.com",
+    "ethereum-rubic.com"
   ]
 }
