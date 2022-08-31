@@ -28,6 +28,7 @@
     "0x2252096d66c72985e66639c344695b17bbed4192"
   ],
   "domains": [
+    "io-mint.site",
     "ai.digidaigakus.com",
     "pixeldigidaigaku.xyz",
     "digidaigakus.xyz",
@@ -193,8 +194,6 @@
     "degentool.xyz",
     "launchpad-high.com",
     "launchpad-defy.com",
-    "launchpad-chiliz.com",
-    "gangsterallstar-nft.com",
-    "ai.digidaigakus.com"
+    "io-mint.site"
   ]
 }
