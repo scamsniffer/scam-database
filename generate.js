@@ -51,10 +51,10 @@ async function doGenerate(lastId = 1) {
     });
 
     if (newAddress.length) {
-      allList.address = [].concat(allList.address, newAddress);
+      allList.address = [].concat(newAddress, cacheData.address);
     }
     if (newDomains.length) {
-      allList.domains = [].concat(allList.domains, newDomains);
+      allList.domains = [].concat(newDomains, cacheData.domains);
     }
   }
 
