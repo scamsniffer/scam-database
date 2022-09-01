@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x5f42269e5f625c85d376a13b76692f1a81b38d8a",
     "0x697b7891c41ffb2259d4c5588342d6c24315722b",
     "0x6fe2ee963643ac7e480aacafefddb3683e38fcf9",
     "0xc3205702a9e793d6a23d1bb19f5531632ef0b768",
@@ -27,9 +28,11 @@
     "0xb330665203ffbaf0286e60b82af3fbb4f944e579",
     "0x64480d380da9abbc9c95f8ca44bfcf1682bb4788",
     "0x35fc29574ce5aa3170b55414bb0b815708962c58",
-    "0x969adf6f99eb2756513bbc5d45605f6fcfbb4bdd"
+    "0x969adf6f99eb2756513bbc5d45605f6fcfbb4bdd",
+    "0x5f42269e5f625c85d376a13b76692f1a81b38d8a"
   ],
   "domains": [
+    "recur-mint.com",
     "digidaigaku.live",
     "msi.claims",
     "memelaand.xyz",
@@ -190,6 +193,7 @@
     "ethmainnet7.com",
     "ethmainnet68.com",
     "ethmainnet66.com",
-    "ethmainnet6.com"
+    "ethmainnet6.com",
+    "recur-mint.com"
   ]
 }
