@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x9b2754a30545d0f66ae90c1b44e686bf98595963",
     "0x5f42269e5f625c85d376a13b76692f1a81b38d8a",
     "0x697b7891c41ffb2259d4c5588342d6c24315722b",
     "0x6fe2ee963643ac7e480aacafefddb3683e38fcf9",
@@ -31,6 +32,8 @@
     "0x969adf6f99eb2756513bbc5d45605f6fcfbb4bdd"
   ],
   "domains": [
+    "1inameelionwatch.space",
+    "1inameelionwatch.org",
     "othersidenft-premint.xyz",
     "otherside.supply",
     "mayc-otherside.xyz",
