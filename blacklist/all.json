@@ -27,8 +27,7 @@
     "0xb330665203ffbaf0286e60b82af3fbb4f944e579",
     "0x64480d380da9abbc9c95f8ca44bfcf1682bb4788",
     "0x35fc29574ce5aa3170b55414bb0b815708962c58",
-    "0x969adf6f99eb2756513bbc5d45605f6fcfbb4bdd",
-    "0x697b7891c41ffb2259d4c5588342d6c24315722b"
+    "0x969adf6f99eb2756513bbc5d45605f6fcfbb4bdd"
   ],
   "domains": [
     "coinbasefund.pro",
@@ -191,7 +190,6 @@
     "ethmainnet5.com",
     "ethmainnet33.com",
     "ethmainnet3.com",
-    "ethmainnet22.com",
-    "coinbasefund.pro"
+    "ethmainnet22.com"
   ]
 }
