@@ -57,7 +57,7 @@ async function doGenerate(lastId = 1) {
     if (newDomains.length) {
       allList.domains = [].concat(newDomains, cacheData.domains);
     }
-    Console.log('save new')
+    console.log('save new')
     fs.writeFileSync(allFile, JSON.stringify(allList, null, 2));
     fs.writeFileSync(addressFile, JSON.stringify(allList.address, null, 2));
     fs.writeFileSync(domainFile, JSON.stringify(allList.domains, null, 2));
