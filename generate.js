@@ -30,6 +30,10 @@ async function doGenerate(lastId = 1) {
   if (fs.existsSync(allFile)) {
     cacheData = JSON.parse(fs.readFileSync(allFile, "utf-8"));
   } else {
+    cacheData = {
+      address: [],
+      domains: []
+    }
     firstRun = true;
   }
 
@@ -55,7 +59,6 @@ async function doGenerate(lastId = 1) {
     allList.address = [].concat(newAddress, cacheData.address);
     allList.domains = [].concat(newDomains, cacheData.domains);
  
-
     if (newAddress.length || newDomains.length || firstRun) {
       console.log('save new')
       fs.writeFileSync(allFile, JSON.stringify(allList, null, 2));
