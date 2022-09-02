@@ -33,10 +33,13 @@ async function doGenerate(lastId = 1) {
     address: []
   };
   if (fs.existsSync(allFile)) {
+    console.log('load')
     cacheData = JSON.parse(fs.readFileSync(allFile, "utf-8"));
   } else {
     firstRun = true;
   }
+
+  console.log('cacheData', cacheData)
 
   const limit = firstRun ? 2000 : 200;
   const allList = await getRecentScamActivity(limit);
@@ -44,18 +47,16 @@ async function doGenerate(lastId = 1) {
   const newDomains = [];
   const newAddress = [];
   console.log("firstRun", firstRun, allFile);
-  if (!firstRun) {
-    allList.domains.forEach((domain) => {
-      if (cacheData.domains.indexOf(domain) === -1) {
-        newDomains.push(domain);
-      }
-    });
-    allList.address.forEach((address) => {
-      if (cacheData.address.indexOf(address) === -1) {
-        newAddress.push(address);
-      }
-    });
-  }
+  allList.domains.forEach((domain) => {
+    if (cacheData.domains.indexOf(domain) === -1) {
+      newDomains.push(domain);
+    }
+  });
+  allList.address.forEach((address) => {
+    if (cacheData.address.indexOf(address) === -1) {
+      newAddress.push(address);
+    }
+  });
 
   allList.address = [].concat(newAddress, cacheData.address);
   allList.domains = [].concat(newDomains, cacheData.domains);
