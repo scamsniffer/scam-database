@@ -38,7 +38,7 @@ async function doGenerate(lastId = 1) {
 
   const newDomains = [];
   const newAddress = [];
-  console.log('firstRun', allFile)
+  console.log('firstRun', firstRun, allFile)
   if (!firstRun) {
     allList.domains.forEach((domain) => {
       if (cacheData.domains.indexOf(domain) === -1) {
@@ -57,11 +57,18 @@ async function doGenerate(lastId = 1) {
     if (newDomains.length) {
       allList.domains = [].concat(newDomains, cacheData.domains);
     }
+    Console.log('save new')
+    fs.writeFileSync(allFile, JSON.stringify(allList, null, 2));
+    fs.writeFileSync(addressFile, JSON.stringify(allList.address, null, 2));
+    fs.writeFileSync(domainFile, JSON.stringify(allList.domains, null, 2));
+  } else {
+    console.log('save all')
+    fs.writeFileSync(allFile, JSON.stringify(allList, null, 2));
+    fs.writeFileSync(addressFile, JSON.stringify(allList.address, null, 2));
+    fs.writeFileSync(domainFile, JSON.stringify(allList.domains, null, 2));
   }
 
-  fs.writeFileSync(allFile, JSON.stringify(allList, null, 2));
-  fs.writeFileSync(addressFile, JSON.stringify(allList.address, null, 2));
-  fs.writeFileSync(domainFile, JSON.stringify(allList.domains, null, 2));
+ 
   console.log("found", newAddress.length, newAddress.length);
 }
 
