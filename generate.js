@@ -15,7 +15,9 @@ async function getRecentScamActivity(limit = 100) {
   let allSites = [];
   list.map((_) => {
     const list = _.address.split(",");
-    allAddressList = allAddressList.concat(list.map(_ => _.toLowerCase()).filter((c) => c && c != ""));
+    allAddressList = allAddressList.concat(
+      list.map((_) => _.toLowerCase()).filter((c) => c && c != "")
+    );
     if (_.host) allSites.push(_.host);
   });
   return {
@@ -26,14 +28,13 @@ async function getRecentScamActivity(limit = 100) {
 
 async function doGenerate(lastId = 1) {
   let firstRun = false;
-  let cacheData = null;
+  let cacheData = {
+    domains: [],
+    address: []
+  };
   if (fs.existsSync(allFile)) {
     cacheData = JSON.parse(fs.readFileSync(allFile, "utf-8"));
   } else {
-    cacheData = {
-      address: [],
-      domains: []
-    }
     firstRun = true;
   }
 
@@ -42,7 +43,7 @@ async function doGenerate(lastId = 1) {
 
   const newDomains = [];
   const newAddress = [];
-  console.log('firstRun', firstRun, allFile)
+  console.log("firstRun", firstRun, allFile);
   if (!firstRun) {
     allList.domains.forEach((domain) => {
       if (cacheData.domains.indexOf(domain) === -1) {
@@ -56,16 +57,12 @@ async function doGenerate(lastId = 1) {
     });
   }
 
-    allList.address = [].concat(newAddress, cacheData.address);
-    allList.domains = [].concat(newDomains, cacheData.domains);
- 
-    if (newAddress.length || newDomains.length || firstRun) {
-      console.log('save new')
-      fs.writeFileSync(allFile, JSON.stringify(allList, null, 2));
-      fs.writeFileSync(addressFile, JSON.stringify(allList.address, null, 2));
-      fs.writeFileSync(domainFile, JSON.stringify(allList.domains, null, 2));
-    }
- 
+  allList.address = [].concat(newAddress, cacheData.address);
+  allList.domains = [].concat(newDomains, cacheData.domains);
+
+  fs.writeFileSync(allFile, JSON.stringify(allList, null, 2));
+  fs.writeFileSync(addressFile, JSON.stringify(allList.address, null, 2));
+  fs.writeFileSync(domainFile, JSON.stringify(allList.domains, null, 2));
   console.log("found", newAddress.length, newAddress.length);
 }
 
