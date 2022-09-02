@@ -50,24 +50,18 @@ async function doGenerate(lastId = 1) {
         newAddress.push(address);
       }
     });
-
-    if (newAddress.length) {
-      allList.address = [].concat(newAddress, cacheData.address);
-    }
-    if (newDomains.length) {
-      allList.domains = [].concat(newDomains, cacheData.domains);
-    }
-    console.log('save new')
-    fs.writeFileSync(allFile, JSON.stringify(allList, null, 2));
-    fs.writeFileSync(addressFile, JSON.stringify(allList.address, null, 2));
-    fs.writeFileSync(domainFile, JSON.stringify(allList.domains, null, 2));
-  } else {
-    console.log('save all')
-    fs.writeFileSync(allFile, JSON.stringify(allList, null, 2));
-    fs.writeFileSync(addressFile, JSON.stringify(allList.address, null, 2));
-    fs.writeFileSync(domainFile, JSON.stringify(allList.domains, null, 2));
   }
 
+    allList.address = [].concat(newAddress, cacheData.address);
+    allList.domains = [].concat(newDomains, cacheData.domains);
+ 
+
+    if (newAddress.length || newDomains.length || firstRun) {
+      console.log('save new')
+      fs.writeFileSync(allFile, JSON.stringify(allList, null, 2));
+      fs.writeFileSync(addressFile, JSON.stringify(allList.address, null, 2));
+      fs.writeFileSync(domainFile, JSON.stringify(allList.domains, null, 2));
+    }
  
   console.log("found", newAddress.length, newAddress.length);
 }
