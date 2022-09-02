@@ -38,6 +38,7 @@ async function doGenerate(lastId = 1) {
 
   const newDomains = [];
   const newAddress = [];
+  console.log('firstRun', allFile)
   if (!firstRun) {
     allList.domains.forEach((domain) => {
       if (cacheData.domains.indexOf(domain) === -1) {
