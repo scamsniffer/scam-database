@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x0f4807e6a014fd218fb56a78f293f211c466c118",
     "0x38313c0668c897b6d591a69e0a9fdc9305e67b55",
     "0x9c5c4ce1454a9e93842cee9ae23563f07419008c",
     "0x6fe2ee963643ac7e480aacafefddb3683e38fcf9",
@@ -239,6 +240,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "doodlesme.xyz",
     "airdrop-looksrare.com",
     "cryptosimeii.xyz",
     "cryptogmz.online",
