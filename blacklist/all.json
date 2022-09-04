@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xe77766393a06bcda53e88958dbbb9795d20e5083",
     "0x2ad0875e63116e96eec7c4d38a726457b628dd68",
     "0x0f4807e6a014fd218fb56a78f293f211c466c118",
     "0x38313c0668c897b6d591a69e0a9fdc9305e67b55",
@@ -241,6 +242,9 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "rtfktl.com",
+    "rtfkt-drops.com",
+    "proofpre.xyz",
     "mintfreedoodles.com",
     "ethereum-uniswap.com",
     "byopillls.xyz",
