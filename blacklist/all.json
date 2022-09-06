@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x3b37e90a131d8c531903bf16d005254345677d04",
     "0x4dbc6e86be8d10c8d8d6188114cbb79ae4b09e7c",
     "0xe77766393a06bcda53e88958dbbb9795d20e5083",
     "0x2ad0875e63116e96eec7c4d38a726457b628dd68",
@@ -243,6 +244,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "deepbluio.com",
     "crypticsnft.xyz",
     "app.0xab.io",
     "mmm3nft.xyz",
