@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xcbb9a1d126043ef84b66d94fedec31568f60cc1a",
     "0xbd3a3a511583506a2ccf31086fe0a9154ac78ca2",
     "0xbc1a7736c12dc64632fd51f16a5271a0bc202acd",
     "0x7cffedb2f4fc0cd7c29af95488fd34554539589d",
@@ -247,6 +248,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "exchangesy.com",
+    "erc20.biz",
     "cryptosimmeji.xyz",
     "sportswar.xyz",
     "bybx.exchange",
