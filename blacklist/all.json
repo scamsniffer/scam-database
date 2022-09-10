@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x1efb1df5bd17b2b9eafa9d7cb80e54239bb4174d",
     "0x1dd4a75bf0bd60d9c6da22da9b04eed7729c7788",
     "0x2931ba7494123213a1eab3bc9298ea07730ab41b",
     "0xb7a21bd92ef7cbedc9753902141fc0c45b90ce70",
@@ -259,6 +260,10 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "officialbscminer.com",
+    "deficolab.land",
+    "artblocks-chromies.io",
+    "publicdefinetwork.com",
     "secure-web.cisco.com",
     "play-moonbirds.online",
     "cryptodickbutts.net",
