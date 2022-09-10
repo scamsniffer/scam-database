@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x1f07134ec1885031ee9f7efc000f7be58531a4f5",
     "0x99d8982f2ec40ea56ab622d1e97a451cd210f50e",
     "0x818af6a967fb329c04abc9d9e2301483cc268636",
     "0xf37aeab06f1e3651cc57c758c3f02154fb572e13",
@@ -251,6 +252,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "premint.skin",
     "cryptopayeer.net",
     "mutantmussk.info",
     "axieinfinity-truspad.com",
