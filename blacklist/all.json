@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xb7a21bd92ef7cbedc9753902141fc0c45b90ce70",
     "0x003f13d95ccbd7b8778ca66be31adf71add79ee6",
     "0x3209512d3177a145447184f137a73755673f8340",
     "0x1099ac30cdc4159b7a8c4acca27aa14628d5a93f",
@@ -256,6 +257,11 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "cupcats.wl-limit.com",
+    "sarugami.wl-web.co",
+    "madmeerrkatnft.xyz",
+    "tgoagenesis.xyz",
+    "voxieesnft.xyz",
     "cryptoadznft.xyz",
     "rafagraassetti.xyz",
     "osff-nft.xyz",
