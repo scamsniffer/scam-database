@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xe9e6049d4a1eeb306690bb6ec18bab3215c25751",
     "0xec407b5ea5f486a3a80a1108a31b3eb37b6bc94f",
     "0x9ad9b61a2af06ab64543839fd2bc980c6b7768bd",
     "0x656f840a06c769f44b7d39a1df04897af052795e",
@@ -268,6 +269,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "amazon.wl-official.com",
     "hoa-plestial.vercel.app",
     "spacewarlock.special-mint.com",
     "thepossessed.pro",
