@@ -1,5 +1,8 @@
 {
   "address": [
+    "0x17b2d6c1242bc450565da15cb99c71a40fb2e3a5",
+    "0x7a9ff1691fe38d6320b7fc574c89f1beab8a8ede",
+    "0xc9e39017d5f659b090bf58be1288a4ba0889db4b",
     "0xcfe3b948e8bd94d4f22b900a88825fc1e6695956",
     "0x1efb1df5bd17b2b9eafa9d7cb80e54239bb4174d",
     "0x1dd4a75bf0bd60d9c6da22da9b04eed7729c7788",
@@ -261,6 +264,10 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "ronaldobinance.com",
+    "earn2binance.com",
+    "discollbo.com",
+    "ethgetbinance.com",
     "moonbirds.game",
     "8liens.start-premint.com",
     "server-connect-collab.land",
