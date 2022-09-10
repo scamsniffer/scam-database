@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x9ad9b61a2af06ab64543839fd2bc980c6b7768bd",
     "0x656f840a06c769f44b7d39a1df04897af052795e",
     "0xe7613bbb3bb70912635be122773f5ba4695efa69",
     "0x17b2d6c1242bc450565da15cb99c71a40fb2e3a5",
@@ -266,6 +267,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "dapp.qatar2022.work",
     "disneyprincessnft.com",
     "aweth.io",
     "hempnt.com",
