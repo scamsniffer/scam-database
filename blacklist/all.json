@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xec407b5ea5f486a3a80a1108a31b3eb37b6bc94f",
     "0x9ad9b61a2af06ab64543839fd2bc980c6b7768bd",
     "0x656f840a06c769f44b7d39a1df04897af052795e",
     "0xe7613bbb3bb70912635be122773f5ba4695efa69",
@@ -267,6 +268,9 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "spacewarlock.special-mint.com",
+    "thepossessed.pro",
+    "mint-theprimates.xyz",
     "killabears.world",
     "airdrop-bscpad.site",
     "dapp.qatar2022.work",
