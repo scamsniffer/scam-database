@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x2931ba7494123213a1eab3bc9298ea07730ab41b",
     "0xb7a21bd92ef7cbedc9753902141fc0c45b90ce70",
     "0x003f13d95ccbd7b8778ca66be31adf71add79ee6",
     "0x3209512d3177a145447184f137a73755673f8340",
@@ -257,6 +258,13 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "lucid-garden-nft.com",
+    "unilaunch-nft.com",
+    "darbotz-official-nft.com",
+    "krapopolisnft.mints-now.com",
+    "zuku-nft.net",
+    "sovereign-mint.net",
+    "islandparty.xyz",
     "ezu-nft.com",
     "futurismnft.netlify.app",
     "mutantcats.wl-limit.com",
