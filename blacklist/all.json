@@ -1,5 +1,7 @@
 {
   "address": [
+    "0x059050dc76620f27ea41d79d4e49f5570ee86d2b",
+    "0x7b732e6eb24dc885db7ff417478dea2c1d4d64b2",
     "0xec6e6043bdc7a2af5c73e599f11dca4b6412dcfb",
     "0xf02ee89bcea4b38ce71b10b1f1e7c30b11005791",
     "0x8a8a2436fc920e6c73c3a9e9a00b8d937812ee0d",
@@ -278,6 +280,9 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "crazy-bangla.com",
+    "immutable.com.msbuniversal.com",
+    "pacmannft.xyz",
     "connect-collabland.live",
     "collabland-9.cc",
     "connectit-collab.land",
