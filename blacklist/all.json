@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x857d06e3a3c9b789b32d72f149075e4c15205f10",
     "0xc40a8a6763969e88c8bf58a6e7a5adc61b8ebe11",
     "0xce064d7145a30c5aea11e64b77723bccf12b779e",
     "0x4ddda7f0eaa5203ab369a8807e77c89788aca6fd",
@@ -273,6 +274,9 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "bosotokyo.free-mintnow.com",
+    "etheruko.mints-livenow.com",
+    "coin-trustpad.com",
     "leverjdefi-web.com",
     "usdtethereum.com",
     "ezekclub.xyz",
