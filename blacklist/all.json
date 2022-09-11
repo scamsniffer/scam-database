@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xb2da7748f16dbddef7c1963000c35b49297a7d06",
     "0x857d06e3a3c9b789b32d72f149075e4c15205f10",
     "0xc40a8a6763969e88c8bf58a6e7a5adc61b8ebe11",
     "0xce064d7145a30c5aea11e64b77723bccf12b779e",
@@ -274,6 +275,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "dwiss.mints-livenow.com",
+    "claim-tron.info",
     "x2y2-airdrop.com",
     "bosotokyo.free-mintnow.com",
     "etheruko.mints-livenow.com",
