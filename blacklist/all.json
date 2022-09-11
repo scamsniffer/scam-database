@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xce064d7145a30c5aea11e64b77723bccf12b779e",
     "0x4ddda7f0eaa5203ab369a8807e77c89788aca6fd",
     "0x088251d92971fe4dec9a949fd02a5d75cbdfa24d",
     "0xe9e6049d4a1eeb306690bb6ec18bab3215c25751",
@@ -271,6 +272,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "usdtethereum.com",
     "ezekclub.xyz",
     "freemint-onchainmonkey.xyz",
     "moon-defi.com",
