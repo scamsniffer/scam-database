@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xf02ee89bcea4b38ce71b10b1f1e7c30b11005791",
     "0x8a8a2436fc920e6c73c3a9e9a00b8d937812ee0d",
     "0xb2da7748f16dbddef7c1963000c35b49297a7d06",
     "0x857d06e3a3c9b789b32d72f149075e4c15205f10",
@@ -276,6 +277,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "reimexchange.com",
+    "pancaketicket.finance",
     "xcopy-freemint.xyz",
     "degensweepers.top",
     "sandboxs-game.tech",
