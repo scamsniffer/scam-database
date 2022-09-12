@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x09f38e3a8ab2fad04848aa862b07ada1de2880e8",
     "0xd075bf8193196c68cec8e5ee487c938b2ceeb401",
     "0x059050dc76620f27ea41d79d4e49f5570ee86d2b",
     "0x7b732e6eb24dc885db7ff417478dea2c1d4d64b2",
@@ -281,6 +282,9 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "theunclaimedlegacy.com",
+    "parallel.wl-minting.cc",
+    "gmstudio.netlify.app",
     "yoots-mint.com",
     "fork-eth.com",
     "justinavversano.xyz",
