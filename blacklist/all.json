@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xd075bf8193196c68cec8e5ee487c938b2ceeb401",
     "0x059050dc76620f27ea41d79d4e49f5570ee86d2b",
     "0x7b732e6eb24dc885db7ff417478dea2c1d4d64b2",
     "0xec6e6043bdc7a2af5c73e599f11dca4b6412dcfb",
@@ -280,6 +281,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "nickelodeon.mint-instantly.io",
     "mypethooligan-freemint.xyz",
     "lazy-things.com",
     "crazy-bangla.com",
