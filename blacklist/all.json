@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x17ece9c860a3b1c8daa0888cdee352e71f2d88fb",
     "0xad445ca90e15d587b1b6182dd47334a5990026b4",
     "0x09f38e3a8ab2fad04848aa862b07ada1de2880e8",
     "0xd075bf8193196c68cec8e5ee487c938b2ceeb401",
@@ -283,6 +284,10 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "globalmacit.lt.acemlna.com",
+    "msbuniversal.com",
+    "tradeoffer.net",
+    "defiai.site",
     "rareapepeyc.top",
     "lonelypoopnft.xyz",
     "metabnttyhntrs.xyz",
