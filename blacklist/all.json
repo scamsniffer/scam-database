@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x00372f8489197207dc892b87ec44e12f76b0cb04",
     "0x65821b06d16832cd8d00a1bfc326565cc00bf48c",
     "0x7d8904598e5ec80ffb241349767a1840bd35d51d",
     "0x17ece9c860a3b1c8daa0888cdee352e71f2d88fb",
@@ -286,6 +287,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "eventbycook.com",
     "ethereumairdrop.com",
     "msgiveaway2022.com",
     "multi-coin.org",
