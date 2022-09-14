@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x5bcf729e1815879878dbbcb5af17978a36ddbf10",
     "0x41b8922c41fd87940b6184dde6785b4a16b9e16c",
     "0x00372f8489197207dc892b87ec44e12f76b0cb04",
     "0x65821b06d16832cd8d00a1bfc326565cc00bf48c",
@@ -288,6 +289,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "mintcastaways.com",
     "airdrop-pancakeswap.pro",
     "garbagefriendnft.xyz",
     "coinbasedefi.click",
