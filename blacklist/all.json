@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x41b8922c41fd87940b6184dde6785b4a16b9e16c",
     "0x00372f8489197207dc892b87ec44e12f76b0cb04",
     "0x65821b06d16832cd8d00a1bfc326565cc00bf48c",
     "0x7d8904598e5ec80ffb241349767a1840bd35d51d",
@@ -287,6 +288,13 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "coinbasedefi.click",
+    "coinbase-mining.com",
+    "server-7-collab.land",
+    "server-8-collab.land",
+    "forgotenrunes.xyz",
+    "moonbirds-freemint.xyz",
+    "galagames-freemint.xyz",
     "gmersnft.com",
     "eventbycook.com",
     "ethereumairdrop.com",
