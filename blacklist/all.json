@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x1047a7528252586edaad066f3ca2b21f66677125",
     "0xa169c1b120625d86dfecdfa1d50fdccfbb4e5b47",
     "0x5bcf729e1815879878dbbcb5af17978a36ddbf10",
     "0x41b8922c41fd87940b6184dde6785b4a16b9e16c",
@@ -290,6 +291,10 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "trillionairethugs.icu",
+    "app-sandbox.homes",
+    "airdrops-titano.finance",
+    "ascendex-sol.com",
     "defi-best.com",
     "degentonz.com",
     "evereth-truspad.com",
