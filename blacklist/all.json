@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x41e8a9188136cf26bda9bd33acbfd0bc808a025b",
     "0xb5590ce74a6efaef0a9080dd2c5e66ce3e143103",
     "0xc28d5d922eb85c51b114f35242216ae792f29f16",
     "0x1a3e47bb63a57cc19d3c312eb3e675eefe8ab52c",
@@ -295,6 +296,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "mdai.io",
+    "towerresearch.io",
     "webaversenft.xyz",
     "brawlerbearz.club",
     "bedans.io",
