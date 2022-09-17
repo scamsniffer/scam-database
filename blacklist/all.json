@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x825b7f43510cdc6113c9c9eb148f2a08a1ed19a5",
     "0xaf0a2ac65599e8a9826f969260d0b3f677bdfd08",
     "0x4d1f50728023882ae62bed3cc5adc9e5da418ccd",
     "0x1224be5ab3be2489834e75cdc50267a8b150ab80",
@@ -305,6 +306,13 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "pixely00ts.com",
+    "regna.app",
+    "moneyshark.minting-tool.com",
+    "proof.minting-tool.com",
+    "therattrap.minting-tool.com",
+    "www.metamaskcommunity.me",
+    "www.metamaskcommunity.net",
     "www.publicdefinetwork.com",
     "www.degentonz.com",
     "mail.digidaigku.com",
