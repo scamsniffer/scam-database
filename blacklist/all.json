@@ -1,5 +1,8 @@
 {
   "address": [
+    "0xcb861d4538cd4cc37f0b66c6d2ea1c5f983f4870",
+    "0x19f05e6ddb5f83f7c4152dacb2fd4a617ae6fd43",
+    "0xd8080d82aab00b5273e3c9b39e059e82d6c5142f",
     "0xef239c44ac981fc343f51e35687ad889f57a7c37",
     "0xcbc3bcaf1340870d5b40df4bd468509939c8ec67",
     "0x41e8a9188136cf26bda9bd33acbfd0bc808a025b",
@@ -298,6 +301,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "juiceguttercatgangcom.xyz",
     "oncybernft.xyz",
     "meta-app.me",
     "www.merge-update.org",
