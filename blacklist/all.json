@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x4d1f50728023882ae62bed3cc5adc9e5da418ccd",
     "0x1224be5ab3be2489834e75cdc50267a8b150ab80",
     "0x484e3584a0d38d45ccef0220f8f5bb68dd61aaff",
     "0xcb861d4538cd4cc37f0b66c6d2ea1c5f983f4870",
@@ -303,6 +304,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "app.pethub.network",
     "www.yieldfarmingmaxpro.com",
     "twitterscan.your-mint.live",
     "bossbeaautiesnft.free300mints.com",
