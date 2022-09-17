@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xaf0a2ac65599e8a9826f969260d0b3f677bdfd08",
     "0x4d1f50728023882ae62bed3cc5adc9e5da418ccd",
     "0x1224be5ab3be2489834e75cdc50267a8b150ab80",
     "0x484e3584a0d38d45ccef0220f8f5bb68dd61aaff",
@@ -304,6 +305,9 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "www.memelandnft.top",
+    "y00tsyachtclub.art",
+    "gobliintown.xyz",
     "www.xn--psychosushclan-fgc.com",
     "xn--stonerapecub-e9b.org",
     "renga.tv",
