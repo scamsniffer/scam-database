@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xac2c69377fb2f202768a638d4fce71c7880fec59",
     "0x0dde54724dada3269ba914107c15ccfdb76fe56e",
     "0xe17722256bb1106801d6ebe286f93986cca14ab7",
     "0x8a25cf46d8170d4b3edf31b78ecd12d43994caab",
@@ -316,6 +317,11 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "www.sarabi.freeclaim.live",
+    "premint-clickchicken.xyz",
+    "doodles.whitlist-minting.com",
+    "angryapearmynft.xyz",
+    "cryptoskulls-freemint.xyz",
     "vinniehagernft.xyz",
     "mutanttgobz.xyz",
     "linksdaonfts.xyz",
