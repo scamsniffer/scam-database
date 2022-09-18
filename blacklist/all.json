@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x00a50d7e9b6d3e6ad4849d939c7857b3d50a5958",
     "0x54c3bdccf63c29f725dd2d9804c5655c863587ab",
     "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
     "0x80b750e36eca41f0d5b96aefa875de133725044e",
@@ -309,6 +310,11 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "www.mint.xn--womenapyachtclub-gn1i.com",
+    "xn--pxels-n4a.xyz",
+    "probably-not-a-project-nft.com",
+    "t00b.app",
+    "scoobs-mint.nftverse.sbs",
     "bedans-nft.com",
     "dios-nft.com",
     "vivity-nft.com",
