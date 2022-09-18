@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
     "0x80b750e36eca41f0d5b96aefa875de133725044e",
     "0x825b7f43510cdc6113c9c9eb148f2a08a1ed19a5",
     "0xaf0a2ac65599e8a9826f969260d0b3f677bdfd08",
@@ -307,6 +308,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "onchainmonkeynfts.xyz",
     "connectswallet.com",
     "usedtoilet.com",
     "wizardjump.online",
