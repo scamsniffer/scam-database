@@ -1,5 +1,8 @@
 {
   "address": [
+    "0x536daba80647ddb85cfeaa08f921c2276d3ac179",
+    "0x5654e88e4d33f32aaed787aaae910b8711364748",
+    "0x41d4c8894b529d50eb82a1c183019e883c77d1db",
     "0xac2c69377fb2f202768a638d4fce71c7880fec59",
     "0x0dde54724dada3269ba914107c15ccfdb76fe56e",
     "0xe17722256bb1106801d6ebe286f93986cca14ab7",
@@ -317,6 +320,11 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "mana.ethanmana.cc",
+    "ethmana.ethanmana.top",
+    "staking-eth.net",
+    "www.staking-eth.net",
+    "tron.uniswap.team",
     "www.sarabi.freeclaim.live",
     "premint-clickchicken.xyz",
     "doodles.whitlist-minting.com",
