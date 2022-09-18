@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x8a25cf46d8170d4b3edf31b78ecd12d43994caab",
     "0x2f71039339f18d2f16cccc1292ae6279568d1b68",
     "0x205670c5aba92402d1a0932b2ae31e05e85ff2c3",
     "0x0598e4f1c5c5ad349adbde57bbf58a36267a72e2",
@@ -313,6 +314,9 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "pixelgenii.xyz",
+    "www.pixelgenii.xyz",
+    "www.littleponies.xyz",
     "memelandnft.io",
     "nftmemeland.io",
     "www.memelandsnfts.com",
