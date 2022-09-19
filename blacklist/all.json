@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x1c55d59c1fffafe52e1df092509fd203bd18595b",
     "0xbf3790474b0c2aad0f4783c68323a1c9011de414",
     "0x0be95d1b7ad7e76456b67f379248d11823b3548a",
     "0x536daba80647ddb85cfeaa08f921c2276d3ac179",
@@ -322,6 +323,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "www.wombat.freeclaim.live",
     "superrrare.xyz",
     "server-13-collab.land",
     "jenkinthevaiets.com",
