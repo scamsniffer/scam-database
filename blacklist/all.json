@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x0be95d1b7ad7e76456b67f379248d11823b3548a",
     "0x536daba80647ddb85cfeaa08f921c2276d3ac179",
     "0x5654e88e4d33f32aaed787aaae910b8711364748",
     "0x41d4c8894b529d50eb82a1c183019e883c77d1db",
@@ -320,6 +321,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "pandude-mint.com",
+    "airdrop-bloom.com",
     "premint-thebubblewrld.xyz",
     "ethbattleroyale.com",
     "crypto-trustepad.com",
