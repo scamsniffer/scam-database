@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xbf3790474b0c2aad0f4783c68323a1c9011de414",
     "0x0be95d1b7ad7e76456b67f379248d11823b3548a",
     "0x536daba80647ddb85cfeaa08f921c2276d3ac179",
     "0x5654e88e4d33f32aaed787aaae910b8711364748",
@@ -321,6 +322,10 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "tronix2u.cc",
+    "claim-metaplex.us",
+    "operationmitsubishis.com",
+    "arcadeland.xyz",
     "byopillsi.xyz",
     "poocoin-appzs.us",
     "poocoin-appis.us",
