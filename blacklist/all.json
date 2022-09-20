@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x36dcb078457b8a5cf71e628cf82c4a10ac85992a",
     "0x1c55d59c1fffafe52e1df092509fd203bd18595b",
     "0xbf3790474b0c2aad0f4783c68323a1c9011de414",
     "0x0be95d1b7ad7e76456b67f379248d11823b3548a",
@@ -323,6 +324,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "authentification-collab.land",
     "linkssdao.xyz",
     "server-14-collab.land",
     "truspad-cbank.com",
