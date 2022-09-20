@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x0cec7843b9c2b125d837d87f0c9197724a94bf42",
     "0x36dcb078457b8a5cf71e628cf82c4a10ac85992a",
     "0x1c55d59c1fffafe52e1df092509fd203bd18595b",
     "0xbf3790474b0c2aad0f4783c68323a1c9011de414",
@@ -324,6 +325,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "nft-uniswap.info",
     "treeverse.cyou",
     "tbdkitchen.xyz",
     "crypto-bybit.com",
