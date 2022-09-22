@@ -1,5 +1,7 @@
 {
   "address": [
+    "0xa542e87a4d905b9a7a9300ed4a627f4cf5684f41",
+    "0x825a82aa4324d9c271bd232e61a17123541e2293",
     "0xc33d8f9b4859b7ce8267c5f6eb1526b16ecf0863",
     "0x7d60695116f5608626e8f95d6de923a7db4bf634",
     "0xb576859a3b150bae6a748d8fc9a82ebfc1389386",
@@ -330,6 +332,10 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "memelandl.com",
+    "sdether.com",
+    "goblinchest.wtf",
+    "eth2.team",
     "webaverse-freemint.xyz",
     "ardai.xyz",
     "asdai.xyz",
