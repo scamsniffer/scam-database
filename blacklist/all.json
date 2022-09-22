@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x7d60695116f5608626e8f95d6de923a7db4bf634",
     "0xb576859a3b150bae6a748d8fc9a82ebfc1389386",
     "0x864004adb83b4af504bc421a9848b7508b353a5c",
     "0x584743009ab27544f8dac1a97172f0100f613897",
@@ -328,6 +329,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "usdt-eth-serve.com",
+    "usdt-eth-top.com",
     "ethereum-space.com",
     "ethereum-concept.com",
     "ethereum-kar.com",
