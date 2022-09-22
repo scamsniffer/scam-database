@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xc33d8f9b4859b7ce8267c5f6eb1526b16ecf0863",
     "0x7d60695116f5608626e8f95d6de923a7db4bf634",
     "0xb576859a3b150bae6a748d8fc9a82ebfc1389386",
     "0x864004adb83b4af504bc421a9848b7508b353a5c",
@@ -329,6 +330,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "difimining-concept.com",
     "leverjdefi-concept.com",
     "pancake-lottery.com",
     "pancake-truspad.com",
