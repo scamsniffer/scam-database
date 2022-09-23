@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x2380fd8b951b6d53c014bb12e8108fee36c18fdf",
     "0xa1fc0d24fad0a34bc5c6697256035bad833eeec2",
     "0x31c7baefa42953916e433143f0e56fb43a699c7e",
     "0xa542e87a4d905b9a7a9300ed4a627f4cf5684f41",
@@ -334,6 +335,9 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "qqlmintpass.com",
+    "birdsearn.cloud",
+    "binance-usdt.vip",
     "bppo.site",
     "freemint-coolcats.xyz",
     "zkmoney.org",
