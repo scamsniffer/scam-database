@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x40f576a94e3d1cdabe66426835e33191f859ae82",
     "0x2380fd8b951b6d53c014bb12e8108fee36c18fdf",
     "0xa1fc0d24fad0a34bc5c6697256035bad833eeec2",
     "0x31c7baefa42953916e433143f0e56fb43a699c7e",
@@ -335,6 +336,9 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "adserver.twitter-eventt22.com",
+    "adserver.twitter-events22.com",
+    "ethereumbuterin.com",
     "www.digidaigaku.link",
     "www.teslavein.org",
     "rengamint.xyz",
