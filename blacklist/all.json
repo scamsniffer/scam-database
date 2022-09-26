@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xc36c22dd0dbd1882743f78374d93f5cf192da033",
     "0x88584b51431e265f3d162af863110259a23ac279",
     "0xc6ad36bc270ececd4a2f6af43c9b7b15c3037e5d",
     "0x38d6301a3aff6d618acb74e4b9a90f4b3ac8b1c8",
@@ -341,6 +342,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "crypto-usdt.top",
     "main-collab.land",
     "premints.fun",
     "rebelbots.cyou",
