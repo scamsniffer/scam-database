@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x80a28ed130cd5ab74e89dc24df904f7ce271aa0e",
     "0xd2089ff4e050a29e85fb5a447f83628e2a697555",
     "0x40f576a94e3d1cdabe66426835e33191f859ae82",
     "0x2380fd8b951b6d53c014bb12e8108fee36c18fdf",
@@ -337,6 +338,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "ether2x-bonus.org",
     "goonsnft.xyz",
     "robotos-freemint.xyz",
     "ethuse.pro",
