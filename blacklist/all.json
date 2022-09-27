@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x05eb198b38bbb89c22247010672341572479cb16",
     "0x6eea12aff02bd371483b1bac7d8e9cb2cfad5ced",
     "0x149915f1fd17fe5899adac2542be90690ed8a526",
     "0x9b3bd80bae762a59d6998ee060671a992456d14c",
@@ -346,6 +347,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "kofnft.com",
+    "www.invlsiblefriends.io",
     "ogreworldnft.com",
     "www.meekicks.com",
     "homemeta.io",
