@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xdacea04a43eaf3c5a6f171cdfbd9ae7447faf325",
     "0xe344dbaa709c52982ecd3bbdd9b690631d127b9a",
     "0x8dd465df3d1d4e0a4ae978fa7fb30eb558ab8714",
     "0x2ece57279d8a7e46fbc17506b1814a7d063df6ca",
@@ -353,6 +354,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "v3punks.io",
+    "warrantrocks.com",
     "gamium.world",
     "firebot.gg",
     "hokago.fun",
