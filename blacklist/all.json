@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xffb94a68c23d245e084ea28b58cde5dc58f6da7e",
     "0xc36c22dd0dbd1882743f78374d93f5cf192da033",
     "0x88584b51431e265f3d162af863110259a23ac279",
     "0xc6ad36bc270ececd4a2f6af43c9b7b15c3037e5d",
@@ -342,6 +343,14 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "connect-collabland.xyz",
+    "capsulehousenft.xyz",
+    "cryptocoven-freemint.xyz",
+    "premint-rengawbox.xyz",
+    "bearsdeluxenft.xyz",
+    "uwucrew.xyz",
+    "freemint-lazylions.xyz",
+    "freemint-electricsheep.xyz",
     "cryptolegends.store",
     "rift-lord-mint.net",
     "metakong-mint.live",
