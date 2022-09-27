@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x8fcf2416e7914760f5fee398bad6d091b31723de",
     "0x05eb198b38bbb89c22247010672341572479cb16",
     "0x6eea12aff02bd371483b1bac7d8e9cb2cfad5ced",
     "0x149915f1fd17fe5899adac2542be90690ed8a526",
@@ -347,6 +348,18 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "whisbe-freemint.xyz",
+    "wellyfriends.xyz",
+    "claimreward.fun",
+    "achef.xyz",
+    "alpacadabraz-freemint.xyz",
+    "zenacademy-freemint.xyz",
+    "zinu-freemint.xyz",
+    "atsnft-freemint.xyz",
+    "ausd.shop",
+    "alphakongsclub-freemint.xyz",
+    "apehateirclub.xyz",
+    "multibeasts-mints.netlify.app",
     "themta.website",
     "seveneve.online",
     "myartcontract.online",
