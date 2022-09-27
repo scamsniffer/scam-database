@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x3f115b7d4311795a4dbc62bd3532e0bbc6f81d3d",
     "0x8fcf2416e7914760f5fee398bad6d091b31723de",
     "0x05eb198b38bbb89c22247010672341572479cb16",
     "0x6eea12aff02bd371483b1bac7d8e9cb2cfad5ced",
@@ -348,6 +349,9 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "thepotatoz.io",
+    "lionkingatjob.xyz",
+    "vandalcitycorps.com",
     "www.beautifymyphone.com",
     "go-staking-hex.com",
     "walken.io",
