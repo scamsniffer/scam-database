@@ -1,5 +1,8 @@
 {
   "address": [
+    "0x6eea12aff02bd371483b1bac7d8e9cb2cfad5ced",
+    "0x149915f1fd17fe5899adac2542be90690ed8a526",
+    "0x9b3bd80bae762a59d6998ee060671a992456d14c",
     "0xffb94a68c23d245e084ea28b58cde5dc58f6da7e",
     "0xc36c22dd0dbd1882743f78374d93f5cf192da033",
     "0x88584b51431e265f3d162af863110259a23ac279",
@@ -343,6 +346,9 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "thebirdhouse.app",
+    "chubbiverse.xyz",
+    "digidaigaku.mintyournfts.live",
     "lotterynft.fun",
     "soulmate.fun",
     "bullsonblock.online",
