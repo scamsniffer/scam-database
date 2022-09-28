@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xa833ca45dee1a14d2582db2a14e68e309de2dfbc",
     "0x39aa7cd4b942a79d8dee5240bee3a935046815e0",
     "0xed5afe2de60281d5247bec81e727c2af0b7d9c71",
     "0x1890314ac916fc0ddb8d5f38d9ddc6d6eb51d12e",
@@ -358,6 +359,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "www.invisiblefriends.gg",
     "200keys.com",
     "www.doofusthefish.org",
     "invisiblefriends.host",
