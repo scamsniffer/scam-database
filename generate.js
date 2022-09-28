@@ -8,12 +8,17 @@ const addressFile = __dirname + "/blacklist/address.json";
 
 async function getRecentScamActivity(limit = 100) {
   const req = await fetch(
-    `${API}/scamActivity?sort=-id&limit=${limit}&fields=address,host`
+    `${API}/scamActivity?sort=-id&limit=${limit}&fields=address,host,action`
   );
   const list = await req.json();
   let allAddressList = [];
   let allSites = [];
   list.map((_) => {
+    const actions = _.action.split(',');
+    if (actions.indexOf('maliciousCodeFeature') > -1 && actions.length === 1) {
+      console.log('skip')
+      return;
+    }
     const list = _.address.split(",");
     allAddressList = allAddressList.concat(
       list.map((_) => _.toLowerCase()).filter((c) => c && c != "")
