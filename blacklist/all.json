@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x769ffcbf7cd348476309b08473b5ac76d3eaded8",
     "0x9d06c6da524bd27996460ae781b06d586a17e1ca",
     "0xa833ca45dee1a14d2582db2a14e68e309de2dfbc",
     "0x39aa7cd4b942a79d8dee5240bee3a935046815e0",
@@ -360,6 +361,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "www.hpos10i.com",
     "boredapeycnft.xyz",
     "cryptopunks.web-mints.com",
     "cubex.about-presales.com",
