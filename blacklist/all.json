@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x5ea744f61feb1f253c671a79f494e43634f70c3d",
     "0xdacea04a43eaf3c5a6f171cdfbd9ae7447faf325",
     "0xe344dbaa709c52982ecd3bbdd9b690631d127b9a",
     "0x8dd465df3d1d4e0a4ae978fa7fb30eb558ab8714",
@@ -354,6 +355,12 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "botshypenft.com",
+    "plugdnft.com",
+    "dlart.site",
+    "nuwton.io",
+    "doodlin.town",
+    "wcac9.com",
     "www.troublemaker.fun",
     "candyrobber.xyz",
     "www.dinoverse.fun",
