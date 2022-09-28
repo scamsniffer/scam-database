@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x5fa8a107ba6b2a6375762621a9c100fc1ea92ff9",
     "0x5ba9c407e6ffdd566b666b231fd3c0cf62687043",
     "0x769ffcbf7cd348476309b08473b5ac76d3eaded8",
     "0x9d06c6da524bd27996460ae781b06d586a17e1ca",
@@ -362,6 +363,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "nftpages.net",
+    "www.kristineaugustyn.com",
     "www.austyntaylor.com",
     "www.collectiblecrypto.com",
     "www.fitnessblenders.com",
