@@ -1,5 +1,7 @@
 {
   "address": [
+    "0xa11c13fce4fd7ffd899d05d0cfaefdb869408888",
+    "0x56ef70c45810dabaa79a3f8323f0c9cc0f42b2a3",
     "0x34f3f4ba979e177a517970e014250cab61a80529",
     "0x339da6f230080d9653a4005b7952736b949d9081",
     "0xb94f9a31fa7f86fecd7cc88e2aff26b965958e17",
@@ -369,6 +371,16 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "jenkinsithevalet.xyz",
+    "smilesssnft.xyz",
+    "samuraisaganft.xyz",
+    "mirrorpass-premint.xyz",
+    "moonbirds-livemint.xyz",
+    "premint-gmtool.xyz",
+    "premint-pluses.xyz",
+    "othersidewild.xyz",
+    "kiwaminft.xyz",
+    "flooznft.xyz",
     "foxfamnft.xyz",
     "starexchange.space",
     "fastexchange.online",
