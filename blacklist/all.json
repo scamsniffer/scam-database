@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x7d7c8ac4a0340dd1452a88dcf20dd94f2544cb75",
     "0xda3ffd3fbaa65e04eab0511dc8064effe86f1f85",
     "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b",
     "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1",
@@ -375,6 +376,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "coolbones.netlify.app",
+    "chimper-mint.xyz",
     "superrare-freemint.xyz",
     "bapetaverse.whitelist-spots.com",
     "preminttheflowershop.xyz",
