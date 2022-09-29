@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529",
     "0x339da6f230080d9653a4005b7952736b949d9081",
     "0xb94f9a31fa7f86fecd7cc88e2aff26b965958e17",
     "0x86544f7e7a90d05048469d209d6c3d1009e8c3e0",
@@ -368,6 +369,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "foxfamnft.xyz",
     "starexchange.space",
     "fastexchange.online",
     "iloveminting-mint.live",
