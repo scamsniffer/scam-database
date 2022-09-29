@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x61018bdce873eb4a325b35471443bf4805f0da81",
     "0xa11c13fce4fd7ffd899d05d0cfaefdb869408888",
     "0x56ef70c45810dabaa79a3f8323f0c9cc0f42b2a3",
     "0x34f3f4ba979e177a517970e014250cab61a80529",
@@ -371,6 +372,10 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "azuki-new.xyz",
+    "thealienboynft.xyz",
+    "doodless.xyz",
+    "xn--gblintown-56a.com",
     "jenkinsithevalet.xyz",
     "smilesssnft.xyz",
     "samuraisaganft.xyz",
