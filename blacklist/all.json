@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x86544f7e7a90d05048469d209d6c3d1009e8c3e0",
     "0x769633a7a69e50e2bbfbbf806ad6642ff0197f7e",
     "0x3a4e46aa64ae9159e12ec5d42cafb24cbcd73bfe",
     "0x5fa8a107ba6b2a6375762621a9c100fc1ea92ff9",
@@ -365,6 +366,9 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "mint-seaside.club",
+    "blocktones.claims",
+    "royalfools.claims",
     "azrathehopeful.net",
     "truspad-safepal.com",
     "mgxs.xyz",
