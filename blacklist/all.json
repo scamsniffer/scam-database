@@ -1,5 +1,7 @@
 {
   "address": [
+    "0xdbdd8d8340f59e30e05b3cb3fb96a0b79f4a597c",
+    "0x5fc7c85c6b7cbc0b7afb791edfdd5348ae580bdb",
     "0x36d5dc95503db75e8c014d2f0706f6aa1041fb40",
     "0x2ef08e5a38d8bcdac2aeccfa6b8c1a37d064d255",
     "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
@@ -384,6 +386,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "ancientcatsclub.io",
     "www.meekicks.app",
     "wanderversenft.xyz",
     "relistazuki.com",
