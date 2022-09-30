@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x2603274dd8d851d0015427fbca30cdee77171c05",
     "0xf43e1ec7fbd4bb41236a221b344bab843e3d94ae",
     "0xfe3179f5e373f266ed0e438b8c79769697436bad",
     "0x364ce4e74a1ddd42e6f96a5ee69280e7596b0aaf",
@@ -389,6 +390,11 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "habbosnft.xyz",
+    "lostpoetsnft.xyz",
+    "babyghosts-premint.xyz",
+    "people0fcrypto.xyz",
+    "niftyleaguenft.xyz",
     "crypto-usdt.world",
     "airdropeth.site",
     "moffprotectors.xyz",
