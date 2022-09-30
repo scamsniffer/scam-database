@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
     "0x601d55d810e80b6be82dea7c48f596257e594b56",
     "0xae199365a05fbfb16fa63aef80e4c32e51d383dd",
     "0x082666f545ec0c9aa60f2f02d175da4955b954ae",
@@ -381,6 +382,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "akuworld.cyou",
+    "0xmons.art",
     "clonexpets.com",
     "sophonft.com",
     "travala.art",
