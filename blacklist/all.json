@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x3804d8a14b6a2bdcf3ecace58d713dc783a8f2de",
     "0xf78bf349211877e3b186f284e05a3b54d1daf764",
     "0x7d7c8ac4a0340dd1452a88dcf20dd94f2544cb75",
     "0xda3ffd3fbaa65e04eab0511dc8064effe86f1f85",
@@ -377,6 +378,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "rockybot.app",
     "apegangnft.xyz",
     "punkscomiic.xyz",
     "cnp-land.com",
