@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x36d5dc95503db75e8c014d2f0706f6aa1041fb40",
     "0x2ef08e5a38d8bcdac2aeccfa6b8c1a37d064d255",
     "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
     "0x601d55d810e80b6be82dea7c48f596257e594b56",
@@ -383,6 +384,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "relistazuki.com",
     "driftershootsnft.xyz",
     "www.shibabets.pro",
     "ghxstsofficial.art",
