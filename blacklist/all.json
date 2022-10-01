@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xfb707e8113d2d4a2820e71ecddcf7da6bad66afd",
     "0x290841ba121462f90ea527849bd5302c50b6afb5",
     "0x23ab73dafee550e56cc6ec0fb521ffd303d09409",
     "0x2603274dd8d851d0015427fbca30cdee77171c05",
@@ -392,6 +393,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "farm2earn-dapp.com",
     "slothfriends.netlify.app",
     "osfnfts.xyz",
     "tubbycatsnfft.xyz",
