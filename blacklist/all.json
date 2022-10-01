@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x290841ba121462f90ea527849bd5302c50b6afb5",
     "0x23ab73dafee550e56cc6ec0fb521ffd303d09409",
     "0x2603274dd8d851d0015427fbca30cdee77171c05",
     "0xf43e1ec7fbd4bb41236a221b344bab843e3d94ae",
@@ -391,6 +392,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "orbitsnft.art",
     "www.thebirdhouse.app",
     "cyberpandaclub.com",
     "girls.digidaigakus.com",
