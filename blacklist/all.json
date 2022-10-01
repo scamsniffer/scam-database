@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xfa510abde79c3e10b0dfe1b071726a2dede3a536",
     "0xfa77ac5d034171eb43dead543b9db5f3e4ee6aeb",
     "0xd1b3882c1d9abc78c5fb9b9ea3bafeaa7bba3265",
     "0xfb98172ae8431830fbcb9fe7380cf88985c824a4",
@@ -404,6 +405,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "metalionkingdom.io",
     "nudiecommunity.com",
     "xn--kungz-n51b.com",
     "www.gayc-claim.com",
