@@ -1,5 +1,7 @@
 {
   "address": [
+    "0x403ad631954bb71f4d5476cd61f395f631bc8824",
+    "0xc33e89982b55d5cbdc3c651786ed243ab2e635b6",
     "0x41d2c6e78f53cad7dc630c53d7f7204af1aae322",
     "0x7b12810001e183744d03d789fdaab12071981a0b",
     "0x08bc4c07a72fd3bf26565516b5d6de1fee715885",
@@ -399,6 +401,14 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "mail.onpodx.net",
+    "www.unlimiteedd.com",
+    "unlimiteedd.com",
+    "www.cryptosimeij.com",
+    "rfktt.com",
+    "www.rfktt.com",
+    "www.auzki.com",
+    "auzki.com",
     "www.mint-seaside.club",
     "www.othersidewild.xyz",
     "www.goblins.whitelist-spots.com",
