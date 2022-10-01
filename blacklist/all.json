@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x49b6dc86e3ef1e0af6e562fea082298ed295024c",
     "0x91843287afecb1e0c92d765672ceeb1da856d6d9",
     "0x75c30212163c0344c3d9130472e4a69c59ec84fe",
     "0xfa510abde79c3e10b0dfe1b071726a2dede3a536",
@@ -407,6 +408,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "nft.lifestylefever.com",
     "achlpelago.art",
     "motozuki.com",
     "elonhype.app",
