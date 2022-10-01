@@ -1,5 +1,7 @@
 {
   "address": [
+    "0x91843287afecb1e0c92d765672ceeb1da856d6d9",
+    "0x75c30212163c0344c3d9130472e4a69c59ec84fe",
     "0xfa510abde79c3e10b0dfe1b071726a2dede3a536",
     "0xfa77ac5d034171eb43dead543b9db5f3e4ee6aeb",
     "0xd1b3882c1d9abc78c5fb9b9ea3bafeaa7bba3265",
@@ -405,6 +407,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "motozuki.com",
     "elonhype.app",
     "freemintbot.com",
     "metadrain.space",
