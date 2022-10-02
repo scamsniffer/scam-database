@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x4b3e2fbf00944f3902f70e56eaa710ad11089c63",
     "0xe9b01a715c17080a4fd8182cfc2e77595f7c62ce",
     "0x691ff47ec401e32341a38917335a6abfd08bf79f",
     "0x76c4bf187f40cfb56ee0a5e5f26fa1f804827929",
@@ -416,6 +417,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "www.boredbunnysmint.com",
     "quantumnfft.xyz",
     "bapesclan-freemint.xyz",
     "ghettoapes.pro",
