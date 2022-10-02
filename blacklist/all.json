@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x386a4a362954a3962768ed9726a0ce3a403d1d32",
     "0xde5e6a6c63ac5d8ea38752034cdad8c919d78670",
     "0x28f3da79570b7a1520bf22bd95bff3677464e4a3",
     "0x3da02e1f29bcbed185eca0d3299efd46e6e7e155",
@@ -420,6 +421,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "boredapeyachtclubs.xyz",
+    "hexgo.vip",
     "othersoil.xyz",
     "supercuteworld.art",
     "poetslosst.xyz",
