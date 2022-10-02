@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x833326b482a38c37f24f4f271298936ce8aed3bc",
     "0x41833dc56eda6e81f70db9b3931da2c97cd63287",
     "0x0aa7f992dfb485cf9c4fbe9688f1ecdf9e0a15f9",
     "0x28c8d8709a341713bddb3f555de4ef4448e064dd",
@@ -424,6 +425,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "tfantasy.site",
+    "www.tokenmax.xyz",
     "thespacebuls.com",
     "mooncatsi.xyz",
     "qubice.site",
