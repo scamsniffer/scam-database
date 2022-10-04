@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x913f9b4d7ffeec32d885932007711ab0c8710ae7",
     "0x10fd497e61b1aa7055ece54b3f06eeec511caa47",
     "0xe97a60f5d34da4f68bc1f1b9ce2c19ec1a33e928",
     "0x7c09194d33686e9b4dda51a5221340f484919446",
@@ -439,6 +440,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "revoke.bar",
     "www.cryptaodz.com",
     "cryptaodz.com",
     "www.noetokyo.com",
