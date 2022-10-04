@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xa58461d76680d7fc0c06142a4ded1a68e7a7a1d2",
     "0xc715b0f45a01fd9e2ef570bb3680e5d405e412a7",
     "0x71ef0488d78ed490c8ffa3112fb3d7b4614f76b5",
     "0x913f9b4d7ffeec32d885932007711ab0c8710ae7",
@@ -442,6 +443,9 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "bunnybunnynft.netlify.app",
+    "apecoinclaim.io",
+    "doodles.freemints.live",
     "robertmondavi.xyz",
     "moondens.xyz",
     "thehashmassks.xyz",
