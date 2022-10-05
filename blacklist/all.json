@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x4afe18cbf1f12bbad712fea55af296a8d54b6c27",
     "0x398e98b7c19db2f5df086eb4f83624146aa1ab53",
     "0x6f777797d9c60ae334fc4561b0c931fa9f442395",
     "0xd7cf8f30c1f26a392cfee289ac4a2f114ee8ca2b",
@@ -449,6 +450,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "www.yu-gi-ym.xyz",
+    "yu-gi-ym.xyz",
     "bevviesnft.xyz",
     "girlguardsnft.netlify.app",
     "ghostgangnft.netlify.app",
