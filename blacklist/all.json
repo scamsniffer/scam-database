@@ -1,5 +1,6 @@
 {
   "address": [
+    "0x398e98b7c19db2f5df086eb4f83624146aa1ab53",
     "0x6f777797d9c60ae334fc4561b0c931fa9f442395",
     "0xd7cf8f30c1f26a392cfee289ac4a2f114ee8ca2b",
     "0x919f08ee29b8a6b681e44b785f3626ec3c249d19",
@@ -448,6 +449,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "degenalgo.art",
     "goblintownhorror.wtf",
     "nft-claim.world",
     "prochaindapps.tech",
