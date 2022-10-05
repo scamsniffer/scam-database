@@ -1,5 +1,7 @@
 {
   "address": [
+    "0x6f777797d9c60ae334fc4561b0c931fa9f442395",
+    "0xd7cf8f30c1f26a392cfee289ac4a2f114ee8ca2b",
     "0x919f08ee29b8a6b681e44b785f3626ec3c249d19",
     "0xa10df3f212e8480db5fff956d46945b25c762045",
     "0x865acd696c73d2a26ef4ff1a974c1fad6df3fb8d",
@@ -446,6 +448,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "centralizedweb3exchange.pro",
+    "defi-chains.org",
     "cryptoinvesttradeltd.online",
     "mainnetorbit.online",
     "binarycryptoinvest.online",
