@@ -1,5 +1,7 @@
 {
   "newCombined": {
+    "tamadoge.run": [],
+    "www.tamadoge.run": [],
     "www.llamavesre.com": [
       "0xdf0de6986b60bbd4226ecf456c681929d6dac98d"
     ],
@@ -646,6 +648,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "tamadoge.run",
+    "www.tamadoge.run",
     "www.llamavesre.com",
     "decenfralnd.com",
     "www.decenfralnd.com",
