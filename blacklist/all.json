@@ -1,5 +1,8 @@
 {
   "newCombined": {
+    "icy-toools.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
     "forexrobot.trade": [],
     "www.forexrobot.trade": [],
     "www.polarbearsnnft.xyz": [
@@ -723,6 +726,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "icy-toools.xyz",
     "forexrobot.trade",
     "www.forexrobot.trade",
     "www.polarbearsnnft.xyz",
@@ -9175,6 +9179,9 @@
     ],
     "www.polarbearsnnft.xyz": [
       "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
+    ],
+    "icy-toools.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   }
 }
