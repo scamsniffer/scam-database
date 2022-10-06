@@ -1,5 +1,8 @@
 {
   "newCombined": {
+    "jrnyclub.art": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
     "artblocks-october.io": [
       "0xcea0f1fad75e62dcf89ab18d6566482916baa65c"
     ],
@@ -146,10 +149,6 @@
     "www.thematrixworlld.xyz": [],
     "www.moonapelaab.xyz": [],
     "monsterbudsnfft.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "moodrollerrs.xyz": [],
-    "sad-girls-baar.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   },
@@ -604,6 +603,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "jrnyclub.art",
     "www.tractoquip.com",
     "onlyfansdao.fun",
     "degenalgo.art",
@@ -8656,6 +8656,9 @@
     ],
     "adidas-metaverse.io": [
       "0x9ce67dc9856c9f887ef5a80ae2178d5903864155"
+    ],
+    "jrnyclub.art": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   }
 }
