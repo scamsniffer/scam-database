@@ -1,5 +1,9 @@
 {
   "newCombined": {
+    "birdezgaang.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "mail.trustpadx.com": [],
     "nickydiamonnds.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b",
       "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
@@ -266,13 +270,7 @@
     "www.decenrtalands.com": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
-    "decenrtalands.com": [],
-    "probabylalabel.com": [],
-    "www.ghxts.com": [],
-    "ghxts.com": [],
-    "www.probabylalabel.com": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ]
+    "decenrtalands.com": []
   },
   "address": [
     "0x17ce37bef93d8a0faf0c832ff68914a8038f083d",
@@ -732,6 +730,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "birdezgaang.xyz",
+    "mail.trustpadx.com",
     "nickydiamonnds.xyz",
     "www.nylacollectiion.xyz",
     "www.totemearrth.xyz",
@@ -9198,6 +9198,9 @@
       "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
     ],
     "www.nylacollectiion.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "birdezgaang.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   }
