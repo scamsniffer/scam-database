@@ -1,5 +1,8 @@
 {
   "newCombined": {
+    "free-invsblefriends.xyz": [
+      "0x61018bdce873eb4a325b35471443bf4805f0da81"
+    ],
     "guneyguven.github.io": [],
     "foxdeportesnft.com": [],
     "donsnft.com": [
@@ -680,6 +683,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "free-invsblefriends.xyz",
     "guneyguven.github.io",
     "donsnft.com",
     "underwaternft.live",
@@ -8918,6 +8922,9 @@
     ],
     "donsnft.com": [
       "0x3256e931236a9cde00901755477d7ba554b5d472"
+    ],
+    "free-invsblefriends.xyz": [
+      "0x61018bdce873eb4a325b35471443bf4805f0da81"
     ]
   }
 }
