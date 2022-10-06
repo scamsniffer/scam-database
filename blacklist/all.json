@@ -1,5 +1,21 @@
 {
   "newCombined": {
+    "theirsverse.live": [
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae",
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "equinoxen.com": [],
+    "www.equinoxen.com": [],
+    "www.bitrenix.com": [],
+    "bitrenix.com": [],
+    "bmibk.com": [],
+    "www.bmibk.com": [],
+    "www.trade.fp-asset.com": [],
+    "trade.fp-asset.com": [],
+    "www.metascan-mint.pro": [
+      "0xd075bf8193196c68cec8e5ee487c938b2ceeb401"
+    ],
+    "www.cryptoadzgiveaway.xyz": [],
     "premint-therattrap.com": [],
     "moonbirdsraffle.com": [
       "0x17ce37bef93d8a0faf0c832ff68914a8038f083d"
@@ -243,27 +259,6 @@
     ],
     "pybear.art": [
       "0x082666f545ec0c9aa60f2f02d175da4955b954ae",
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "hedgies.live": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "mutantcartel.live": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "phantabear.live": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "alveychain.live": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "rektguy.live": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "sneakyninja.live": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "lilheroesnft.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ]
   },
@@ -725,6 +720,17 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "theirsverse.live",
+    "equinoxen.com",
+    "www.equinoxen.com",
+    "www.bitrenix.com",
+    "bitrenix.com",
+    "bmibk.com",
+    "www.bmibk.com",
+    "www.trade.fp-asset.com",
+    "trade.fp-asset.com",
+    "www.metascan-mint.pro",
+    "www.cryptoadzgiveaway.xyz",
     "premint-therattrap.com",
     "moonbirdsraffle.com",
     "worldofumans.ink",
@@ -9143,6 +9149,13 @@
     ],
     "www.thealienboynnft.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "theirsverse.live": [
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae",
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "www.metascan-mint.pro": [
+      "0xd075bf8193196c68cec8e5ee487c938b2ceeb401"
     ]
   }
 }
