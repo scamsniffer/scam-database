@@ -1,6 +1,12 @@
 {
   "newCombined": {
+    "forexrobot.trade": [],
+    "www.forexrobot.trade": [],
+    "www.polarbearsnnft.xyz": [
+      "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
+    ],
     "www.nifty-islaand.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b",
       "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
     ],
     "koalaagencynfft.free300mints.com": [],
@@ -257,10 +263,7 @@
     ],
     "cyberkongz.fun": [],
     "mail.skyfallsland.xyz": [],
-    "skyfallsland.xyz": [],
-    "azragames.drops-free.com": [],
-    "neotokyo.drops-free.com": [],
-    "ssp.drops-free.com": []
+    "skyfallsland.xyz": []
   },
   "address": [
     "0x17ce37bef93d8a0faf0c832ff68914a8038f083d",
@@ -720,6 +723,9 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "forexrobot.trade",
+    "www.forexrobot.trade",
+    "www.polarbearsnnft.xyz",
     "www.nifty-islaand.xyz",
     "koalaagencynfft.free300mints.com",
     "www.obeygiaant.xyz",
@@ -9164,6 +9170,10 @@
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
     "www.nifty-islaand.xyz": [
+      "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1",
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.polarbearsnnft.xyz": [
       "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
     ]
   }
