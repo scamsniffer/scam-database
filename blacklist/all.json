@@ -1,5 +1,30 @@
 {
   "newCombined": {
+    "premint-kitaronft.xyz": [],
+    "www.kataboliicz.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "prguitarmman.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.chumbivalleey.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "gangstamice.live": [
+      "0x865acd696c73d2a26ef4ff1a974c1fad6df3fb8d"
+    ],
+    "www.luckylionclub.io": [
+      "0x4d55846b105551251410d68739461852adc13d5d"
+    ],
+    "cryptocannacllub.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.birdezgaang.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "chumbivalleey.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
     "elitecoinassets.com": [],
     "tsukimi-mint.xyz": [
       "0xd2089ff4e050a29e85fb5a447f83628e2a697555",
@@ -12,7 +37,6 @@
     "metaghost.hey-mint.xyz": [
       "0x4afe18cbf1f12bbad712fea55af296a8d54b6c27"
     ],
-    "gangstamice.live": [],
     "www.metaghost.hey-mint.xyz": [
       "0x80b750e36eca41f0d5b96aefa875de133725044e"
     ],
@@ -224,18 +248,10 @@
     ],
     "www.skyfallsland.xyz": [],
     "premint-probablyalabel.com": [],
-    "beeplecrap.net": [],
-    "www.cyberkongz.fun": [],
-    "soulz.link": [],
-    "xxpp.org": [
-      "0x7e92b316d18459e859f33d345d41db6c6d90f615"
-    ],
-    "www.brooklinewestfnc.com": [],
-    "www.principaltrade-mining.com": [],
-    "www.silocryptotrade.com": [],
-    "mail.silocryptotrade.com": []
+    "beeplecrap.net": []
   },
   "address": [
+    "0x4d55846b105551251410d68739461852adc13d5d",
     "0xbac0ffc1e838555504215c83f497627c921886a8",
     "0x3256e931236a9cde00901755477d7ba554b5d472",
     "0xfd8de29594220a6b44ed080f7e5a04047da03248",
@@ -691,6 +707,14 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "premint-kitaronft.xyz",
+    "www.kataboliicz.xyz",
+    "prguitarmman.xyz",
+    "www.chumbivalleey.xyz",
+    "www.luckylionclub.io",
+    "cryptocannacllub.xyz",
+    "www.birdezgaang.xyz",
+    "chumbivalleey.xyz",
     "elitecoinassets.com",
     "tsukimi-mint.xyz",
     "www.tsukimi-mint.xyz",
@@ -8974,6 +8998,30 @@
     ],
     "www.metaghost.hey-mint.xyz": [
       "0x80b750e36eca41f0d5b96aefa875de133725044e"
+    ],
+    "www.kataboliicz.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "prguitarmman.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.chumbivalleey.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "gangstamice.live": [
+      "0x865acd696c73d2a26ef4ff1a974c1fad6df3fb8d"
+    ],
+    "www.luckylionclub.io": [
+      "0x4d55846b105551251410d68739461852adc13d5d"
+    ],
+    "cryptocannacllub.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.birdezgaang.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "chumbivalleey.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   }
 }
