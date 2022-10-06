@@ -1,5 +1,9 @@
 {
   "newCombined": {
+    "ccrewnnft.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b",
+      "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
+    ],
     "cryptodadsnfft.xyz": [
       "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
     ],
@@ -263,9 +267,6 @@
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
     "metakongz.live": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "richfoxclub.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ]
   },
@@ -726,6 +727,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "ccrewnnft.xyz",
     "cryptodadsnfft.xyz",
     "metab-nnft.xyz",
     "www.0xmoons.xyz",
@@ -9121,6 +9123,10 @@
     ],
     "www.huxleysaaga.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "ccrewnnft.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b",
+      "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
     ]
   }
 }
