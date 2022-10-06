@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xd307e99b79c4cb290a9d4583ac3b31df39e06ffb",
     "0xcea0f1fad75e62dcf89ab18d6566482916baa65c",
     "0x7e92b316d18459e859f33d345d41db6c6d90f615",
     "0x4afe18cbf1f12bbad712fea55af296a8d54b6c27",
@@ -452,6 +453,16 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "www.raffle-chimpers.xyz",
+    "mail.raffle-chimpers.xyz",
+    "mail.undeadraffle.io",
+    "www.undeadraffle.io",
+    "undeadraffle.io",
+    "www.gangstamicecity.life",
+    "mail.gangstamicecity.life",
+    "raffle-chimpers.xyz",
+    "gangstamicecity.life",
+    "mingopack.org",
     "www.skyfallsland.xyz",
     "beeplecrap.net",
     "www.cyberkongz.fun",
