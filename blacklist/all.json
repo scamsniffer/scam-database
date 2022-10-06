@@ -1,5 +1,8 @@
 {
   "newCombined": {
+    "kateyfx.me": [
+      "0x61c150ad33833f19a08a0552cf6726966f336bbd"
+    ],
     "xn--othersde-z2a.xyz": [
       "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572"
     ],
@@ -679,6 +682,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "kateyfx.me",
     "xn--othersde-z2a.xyz",
     "velhalla.io",
     "yokailab.netlify.app",
@@ -8935,6 +8939,9 @@
     "azuki-nft.bond": [
       "0xbac0ffc1e838555504215c83f497627c921886a8",
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "kateyfx.me": [
+      "0x61c150ad33833f19a08a0552cf6726966f336bbd"
     ]
   }
 }
