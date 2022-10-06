@@ -1,5 +1,15 @@
 {
   "newCombined": {
+    "fitbearsnft.netlify.app": [],
+    "www.ezekcllub.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "crypto-swaarm.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.prguitarmman.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
     "www.budweiseruusa.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
@@ -709,6 +719,10 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "fitbearsnft.netlify.app",
+    "www.ezekcllub.xyz",
+    "crypto-swaarm.xyz",
+    "www.prguitarmman.xyz",
     "www.budweiseruusa.xyz",
     "playboynffts.xyz",
     "www.wallstmemmes.xyz",
@@ -9035,6 +9049,15 @@
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
     "www.wallstmemmes.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.ezekcllub.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "crypto-swaarm.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.prguitarmman.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   }
