@@ -1,5 +1,9 @@
 {
   "newCombined": {
+    "gdrake.claims": [],
+    "ibutsu.claims": [
+      "0x86544f7e7a90d05048469d209d6c3d1009e8c3e0"
+    ],
     "tastybones.io": [],
     "metaclubsociety.live": [],
     "maticmike.club": [
@@ -200,10 +204,7 @@
     "goblintownhorror.wtf": [],
     "nft-claim.world": [],
     "prochaindapps.tech": [],
-    "airdropbscpad.site": [],
-    "centralizedweb3exchange.pro": [
-      "0x6f777797d9c60ae334fc4561b0c931fa9f442395"
-    ]
+    "airdropbscpad.site": []
   },
   "address": [
     "0xdf0de6986b60bbd4226ecf456c681929d6dac98d",
@@ -657,6 +658,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "gdrake.claims",
+    "ibutsu.claims",
     "tastybones.io",
     "metaclubsociety.live",
     "www.premint-probablyalabel.com",
@@ -8846,6 +8849,9 @@
     ],
     "qql.xyz": [
       "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572"
+    ],
+    "ibutsu.claims": [
+      "0x86544f7e7a90d05048469d209d6c3d1009e8c3e0"
     ]
   }
 }
