@@ -18,7 +18,7 @@ async function getRecentScamActivity(limit = 100) {
   list.map((_) => {
     const actions = _.action.split(',');
     if (actions.indexOf('maliciousCodeFeature') > -1 && actions.length === 1) {
-      console.log('skip')
+      // console.log('skip')
       return;
     }
     const list = _.address.split(",").map((_) => _.toLowerCase()).filter((c) => c && c != "");
@@ -36,7 +36,7 @@ async function getRecentScamActivity(limit = 100) {
     })
   });
   return {
-    combined,
+    newCombined: combined,
     address: Array.from(new Set(allAddressList)),
     domains: Array.from(new Set(allSites)),
   };
@@ -60,26 +60,32 @@ async function doGenerate(lastId = 1) {
   const limit = firstRun ? 8000 : 200;
   const allList = await getRecentScamActivity(limit);
 
+
+  allList.combined = firstRun ? {} : cacheData.combined;
+
   const newDomains = [];
   const newAddress = [];
 
-  console.log("firstRun", firstRun, allFile);
+  // console.log("firstRun", firstRun, allFile);
+
   allList.domains.forEach((domain) => {
     if (cacheData.domains.indexOf(domain) === -1) {
       newDomains.push(domain);
     }
   });
 
-  for(const host in allList.combined) {
+  for(const host in allList.newCombined) {
     const existList = cacheData.combined[host] || [];
-    const combinedAddress = allList.combined[host] || [];
+    const combinedAddress = allList.newCombined[host] || [];
     combinedAddress.forEach((address) => {
       if (existList.indexOf(address) === -1) {
         existList.push(address);
       }
     });
 
-    allList.combined[host] = existList;
+    if (existList.length) {
+      allList.combined[host] = existList;
+    }
   }
 
   allList.address.forEach((address) => {
@@ -95,7 +101,7 @@ async function doGenerate(lastId = 1) {
   fs.writeFileSync(addressFile, JSON.stringify(allList.address, null, 2));
   fs.writeFileSync(domainFile, JSON.stringify(allList.domains, null, 2));
   fs.writeFileSync(combinedFile, JSON.stringify(allList.combined, null, 2));
-  
+
   console.log("found", newAddress.length, newAddress.length, cacheData.domains.length, cacheData.address.length);
 }
 
