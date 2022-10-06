@@ -1,5 +1,9 @@
 {
   "newCombined": {
+    "cheersup.live": [
+      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
     "mintonft.com": [
       "0xe6f9307d3d6e0237528cb81d42fb8600dae4119d"
     ],
@@ -205,8 +209,7 @@
     "probablyalabel.net": [],
     "rumblekonngs.xyz": [],
     "theufa.ru": [],
-    "goblintownhorror.wtf": [],
-    "nft-claim.world": []
+    "goblintownhorror.wtf": []
   },
   "address": [
     "0xe6f9307d3d6e0237528cb81d42fb8600dae4119d",
@@ -661,6 +664,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "cheersup.live",
     "mintonft.com",
     "fortunedeliverycompany.com",
     "gdrake.claims",
@@ -8860,6 +8864,10 @@
     ],
     "mintonft.com": [
       "0xe6f9307d3d6e0237528cb81d42fb8600dae4119d"
+    ],
+    "cheersup.live": [
+      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   }
 }
