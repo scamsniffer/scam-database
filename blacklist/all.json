@@ -1,5 +1,7 @@
 {
   "newCombined": {
+    "airdrop-collab.land": [],
+    "claim-looki.games": [],
     "driptrip.org": [],
     "www.driptrip.org": [],
     "cheersup.live": [
@@ -138,8 +140,7 @@
     "www.tractoquip.com": [],
     "onlyfansdao.fun": [],
     "degenalgo.art": [
-      "0x3da02e1f29bcbed185eca0d3299efd46e6e7e155",
-      "0x398e98b7c19db2f5df086eb4f83624146aa1ab53"
+      "0x3da02e1f29bcbed185eca0d3299efd46e6e7e155"
     ],
     "foxdeportesnft.com": [],
     "www.raffle-chimpers.xyz": [],
@@ -665,6 +666,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "airdrop-collab.land",
+    "claim-looki.games",
     "driptrip.org",
     "www.driptrip.org",
     "cheersup.live",
