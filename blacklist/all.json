@@ -1,5 +1,8 @@
 {
   "newCombined": {
+    "mintonft.com": [
+      "0xe6f9307d3d6e0237528cb81d42fb8600dae4119d"
+    ],
     "fortunedeliverycompany.com": [],
     "gdrake.claims": [],
     "ibutsu.claims": [
@@ -206,6 +209,7 @@
     "nft-claim.world": []
   },
   "address": [
+    "0xe6f9307d3d6e0237528cb81d42fb8600dae4119d",
     "0xdf0de6986b60bbd4226ecf456c681929d6dac98d",
     "0x3da02e1f29bcbed185eca0d3299efd46e6e7e155",
     "0xd307e99b79c4cb290a9d4583ac3b31df39e06ffb",
@@ -657,6 +661,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "mintonft.com",
     "fortunedeliverycompany.com",
     "gdrake.claims",
     "ibutsu.claims",
@@ -8852,6 +8857,9 @@
     ],
     "ibutsu.claims": [
       "0x86544f7e7a90d05048469d209d6c3d1009e8c3e0"
+    ],
+    "mintonft.com": [
+      "0xe6f9307d3d6e0237528cb81d42fb8600dae4119d"
     ]
   }
 }
