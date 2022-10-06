@@ -1,5 +1,11 @@
 {
   "newCombined": {
+    "cryptoadzgiveaway.xyz": [],
+    "moonbirdsmintnft.xyz": [
+      "0xfd8de29594220a6b44ed080f7e5a04047da03248"
+    ],
+    "othlerside.xyz": [],
+    "beebleblocks.xyz": [],
     "mrascii.co": [],
     "metascan-mint.pro": [
       "0xd075bf8193196c68cec8e5ee487c938b2ceeb401"
@@ -209,14 +215,10 @@
     "vulcan-authing.xyz": [
       "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572"
     ],
-    "beveeworld.net": [],
-    "alpacadabraaz.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "www.server-7-collab.land": [],
-    "probablyalabel.net": []
+    "beveeworld.net": []
   },
   "address": [
+    "0xfd8de29594220a6b44ed080f7e5a04047da03248",
     "0xe6f9307d3d6e0237528cb81d42fb8600dae4119d",
     "0xdf0de6986b60bbd4226ecf456c681929d6dac98d",
     "0x3da02e1f29bcbed185eca0d3299efd46e6e7e155",
@@ -669,6 +671,10 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "cryptoadzgiveaway.xyz",
+    "moonbirdsmintnft.xyz",
+    "othlerside.xyz",
+    "beebleblocks.xyz",
     "mrascii.co",
     "metascan-mint.pro",
     "ledger-live.nyc",
@@ -8883,6 +8889,9 @@
     ],
     "metascan-mint.pro": [
       "0xd075bf8193196c68cec8e5ee487c938b2ceeb401"
+    ],
+    "moonbirdsmintnft.xyz": [
+      "0xfd8de29594220a6b44ed080f7e5a04047da03248"
     ]
   }
 }
