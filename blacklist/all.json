@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "tastybones.io": [],
     "metaclubsociety.live": [],
     "maticmike.club": [
       "0xe97a60f5d34da4f68bc1f1b9ce2c19ec1a33e928",
@@ -202,9 +203,6 @@
     "airdropbscpad.site": [],
     "centralizedweb3exchange.pro": [
       "0x6f777797d9c60ae334fc4561b0c931fa9f442395"
-    ],
-    "defi-chains.org": [
-      "0xd7cf8f30c1f26a392cfee289ac4a2f114ee8ca2b"
     ]
   },
   "address": [
@@ -659,6 +657,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "tastybones.io",
     "metaclubsociety.live",
     "www.premint-probablyalabel.com",
     "mail.qql.xyz",
