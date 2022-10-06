@@ -1,5 +1,7 @@
 {
   "newCombined": {
+    "guneyguven.github.io": [],
+    "foxdeportesnft.com": [],
     "donsnft.com": [
       "0x3256e931236a9cde00901755477d7ba554b5d472"
     ],
@@ -166,7 +168,6 @@
     "degenalgo.art": [
       "0x3da02e1f29bcbed185eca0d3299efd46e6e7e155"
     ],
-    "foxdeportesnft.com": [],
     "www.raffle-chimpers.xyz": [],
     "mail.raffle-chimpers.xyz": [],
     "mail.undeadraffle.io": [],
@@ -223,8 +224,7 @@
     "bevviesnft.xyz": [
       "0x865acd696c73d2a26ef4ff1a974c1fad6df3fb8d"
     ],
-    "girlguardsnft.netlify.app": [],
-    "ghostgangnft.netlify.app": []
+    "girlguardsnft.netlify.app": []
   },
   "address": [
     "0x3256e931236a9cde00901755477d7ba554b5d472",
@@ -681,6 +681,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "guneyguven.github.io",
     "donsnft.com",
     "underwaternft.live",
     "nofacepixelsnft.netlify.app",
