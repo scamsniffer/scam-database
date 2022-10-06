@@ -1,5 +1,26 @@
 {
   "newCombined": {
+    "totemearrth.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.shibabets.pro": [
+      "0x2ef08e5a38d8bcdac2aeccfa6b8c1a37d064d255"
+    ],
+    "billionclubnnft.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "chibilaabs.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.dinoschiibi.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "wickedbonecllub.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "goobersnfft.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
     "fitbearsnft.netlify.app": [],
     "www.ezekcllub.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
@@ -252,15 +273,7 @@
     "onlyfansdao.fun": [],
     "degenalgo.art": [
       "0x3da02e1f29bcbed185eca0d3299efd46e6e7e155"
-    ],
-    "www.raffle-chimpers.xyz": [],
-    "mail.raffle-chimpers.xyz": [],
-    "mail.undeadraffle.io": [],
-    "www.undeadraffle.io": [],
-    "undeadraffle.io": [],
-    "www.gangstamicecity.life": [],
-    "mail.gangstamicecity.life": [],
-    "raffle-chimpers.xyz": []
+    ]
   },
   "address": [
     "0x4d55846b105551251410d68739461852adc13d5d",
@@ -719,6 +732,12 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "totemearrth.xyz",
+    "billionclubnnft.xyz",
+    "chibilaabs.xyz",
+    "www.dinoschiibi.xyz",
+    "wickedbonecllub.xyz",
+    "goobersnfft.xyz",
     "fitbearsnft.netlify.app",
     "www.ezekcllub.xyz",
     "crypto-swaarm.xyz",
@@ -9058,6 +9077,24 @@
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
     "www.prguitarmman.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "totemearrth.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "billionclubnnft.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "chibilaabs.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.dinoschiibi.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "wickedbonecllub.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "goobersnfft.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   }
