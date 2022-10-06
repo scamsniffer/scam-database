@@ -1,5 +1,8 @@
 {
   "newCombined": {
+    "xn--othersde-z2a.xyz": [
+      "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572"
+    ],
     "thepotatoz.io": [],
     "": [],
     "velhalla.io": [],
@@ -218,10 +221,7 @@
     "gangstamice.com": [
       "0x865acd696c73d2a26ef4ff1a974c1fad6df3fb8d"
     ],
-    "www.thewhitelistiio.xyz": [],
-    "bitcloutcaat.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ]
+    "www.thewhitelistiio.xyz": []
   },
   "address": [
     "0x3256e931236a9cde00901755477d7ba554b5d472",
@@ -678,6 +678,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "xn--othersde-z2a.xyz",
     "velhalla.io",
     "yokailab.netlify.app",
     "premintnft.live",
@@ -8926,6 +8927,9 @@
     ],
     "premintnft.live": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "xn--othersde-z2a.xyz": [
+      "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572"
     ]
   }
 }
