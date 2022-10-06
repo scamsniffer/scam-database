@@ -1,5 +1,14 @@
 {
   "newCombined": {
+    "nickydiamonnds.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b",
+      "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
+    ],
+    "www.nylacollectiion.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.totemearrth.xyz": [],
+    "www.avycnnft.xyz": [],
     "icy-toools.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
@@ -263,10 +272,7 @@
     "ghxts.com": [],
     "www.probabylalabel.com": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "cyberkongz.fun": [],
-    "mail.skyfallsland.xyz": [],
-    "skyfallsland.xyz": []
+    ]
   },
   "address": [
     "0x17ce37bef93d8a0faf0c832ff68914a8038f083d",
@@ -726,6 +732,10 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "nickydiamonnds.xyz",
+    "www.nylacollectiion.xyz",
+    "www.totemearrth.xyz",
+    "www.avycnnft.xyz",
     "icy-toools.xyz",
     "forexrobot.trade",
     "www.forexrobot.trade",
@@ -9181,6 +9191,13 @@
       "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
     ],
     "icy-toools.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "nickydiamonnds.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b",
+      "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
+    ],
+    "www.nylacollectiion.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   }
