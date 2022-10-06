@@ -1,5 +1,9 @@
 {
   "newCombined": {
+    "koalaagencynfft.free300mints.com": [],
+    "www.obeygiaant.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
     "theirsverse.live": [
       "0x082666f545ec0c9aa60f2f02d175da4955b954ae",
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
@@ -253,14 +257,7 @@
     "skyfallsland.xyz": [],
     "azragames.drops-free.com": [],
     "neotokyo.drops-free.com": [],
-    "ssp.drops-free.com": [],
-    "kalebnft.live": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "pybear.art": [
-      "0x082666f545ec0c9aa60f2f02d175da4955b954ae",
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ]
+    "ssp.drops-free.com": []
   },
   "address": [
     "0x17ce37bef93d8a0faf0c832ff68914a8038f083d",
@@ -720,6 +717,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "koalaagencynfft.free300mints.com",
+    "www.obeygiaant.xyz",
     "theirsverse.live",
     "equinoxen.com",
     "www.equinoxen.com",
@@ -9156,6 +9155,9 @@
     ],
     "www.metascan-mint.pro": [
       "0xd075bf8193196c68cec8e5ee487c938b2ceeb401"
+    ],
+    "www.obeygiaant.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   }
 }
