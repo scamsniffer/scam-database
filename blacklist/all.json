@@ -1,5 +1,11 @@
 {
   "newCombined": {
+    "www.wickedbonecllub.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "immadeggen.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
     "totemearrth.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
@@ -270,10 +276,7 @@
       "0xcea0f1fad75e62dcf89ab18d6566482916baa65c"
     ],
     "www.tractoquip.com": [],
-    "onlyfansdao.fun": [],
-    "degenalgo.art": [
-      "0x3da02e1f29bcbed185eca0d3299efd46e6e7e155"
-    ]
+    "onlyfansdao.fun": []
   },
   "address": [
     "0x4d55846b105551251410d68739461852adc13d5d",
@@ -732,6 +735,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "www.wickedbonecllub.xyz",
+    "immadeggen.xyz",
     "totemearrth.xyz",
     "billionclubnnft.xyz",
     "chibilaabs.xyz",
@@ -9095,6 +9100,12 @@
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
     "goobersnfft.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.wickedbonecllub.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "immadeggen.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   }
