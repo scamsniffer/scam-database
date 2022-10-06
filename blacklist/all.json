@@ -1,5 +1,21 @@
 {
   "newCombined": {
+    "elitecoinassets.com": [],
+    "tsukimi-mint.xyz": [
+      "0xd2089ff4e050a29e85fb5a447f83628e2a697555",
+      "0x3569563839c4e308f09122126b4fad3ecaa99999"
+    ],
+    "www.tsukimi-mint.xyz": [
+      "0x3569563839c4e308f09122126b4fad3ecaa99999"
+    ],
+    "margin-whales.info": [],
+    "metaghost.hey-mint.xyz": [
+      "0x4afe18cbf1f12bbad712fea55af296a8d54b6c27"
+    ],
+    "gangstamice.live": [],
+    "www.metaghost.hey-mint.xyz": [
+      "0x80b750e36eca41f0d5b96aefa875de133725044e"
+    ],
     "elearning.twitter-eventt22.com": [],
     "elearning.twitter-events22.com": [],
     "": [
@@ -217,15 +233,7 @@
     "www.brooklinewestfnc.com": [],
     "www.principaltrade-mining.com": [],
     "www.silocryptotrade.com": [],
-    "mail.silocryptotrade.com": [],
-    "www.investncrypto.net": [],
-    "www.skylinecargologistics.org": [],
-    "skylinecargologistics.org": [],
-    "www.prochain.space": [],
-    "prochain.space": [],
-    "www.moodrollerrs.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ]
+    "mail.silocryptotrade.com": []
   },
   "address": [
     "0xbac0ffc1e838555504215c83f497627c921886a8",
@@ -683,6 +691,13 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "elitecoinassets.com",
+    "tsukimi-mint.xyz",
+    "www.tsukimi-mint.xyz",
+    "margin-whales.info",
+    "metaghost.hey-mint.xyz",
+    "gangstamice.live",
+    "www.metaghost.hey-mint.xyz",
     "elearning.twitter-eventt22.com",
     "elearning.twitter-events22.com",
     "kateyfx.me",
@@ -8946,6 +8961,19 @@
     ],
     "kateyfx.me": [
       "0x61c150ad33833f19a08a0552cf6726966f336bbd"
+    ],
+    "tsukimi-mint.xyz": [
+      "0xd2089ff4e050a29e85fb5a447f83628e2a697555",
+      "0x3569563839c4e308f09122126b4fad3ecaa99999"
+    ],
+    "www.tsukimi-mint.xyz": [
+      "0x3569563839c4e308f09122126b4fad3ecaa99999"
+    ],
+    "metaghost.hey-mint.xyz": [
+      "0x4afe18cbf1f12bbad712fea55af296a8d54b6c27"
+    ],
+    "www.metaghost.hey-mint.xyz": [
+      "0x80b750e36eca41f0d5b96aefa875de133725044e"
     ]
   }
 }
