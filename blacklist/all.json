@@ -1,5 +1,7 @@
 {
   "newCombined": {
+    "velhalla.io": [],
+    "yokailab.netlify.app": [],
     "premintnft.live": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
@@ -226,9 +228,6 @@
     ],
     "yu-gi-ym.xyz": [
       "0x80b750e36eca41f0d5b96aefa875de133725044e"
-    ],
-    "bevviesnft.xyz": [
-      "0x865acd696c73d2a26ef4ff1a974c1fad6df3fb8d"
     ]
   },
   "address": [
@@ -686,6 +685,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "velhalla.io",
+    "yokailab.netlify.app",
     "premintnft.live",
     "free-invsblefriends.xyz",
     "guneyguven.github.io",
