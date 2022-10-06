@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "nofacepixelsnft.netlify.app": [],
     "premint-seaside.com": [],
     "ambervittoria.xyz": [
       "0x3569563839c4e308f09122126b4fad3ecaa99999"
@@ -678,6 +679,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "nofacepixelsnft.netlify.app",
     "ambervittoria.xyz",
     "coalitioncrewnft.xyz",
     "premint-seaside.com",
