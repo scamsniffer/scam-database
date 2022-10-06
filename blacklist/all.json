@@ -1,5 +1,8 @@
 {
   "newCombined": {
+    "metascan-mint.pro": [
+      "0xd075bf8193196c68cec8e5ee487c938b2ceeb401"
+    ],
     "ledger-live.nyc": [],
     "airdrop-collab.land": [],
     "claim-looki.games": [],
@@ -210,8 +213,7 @@
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
     "www.server-7-collab.land": [],
-    "probablyalabel.net": [],
-    "rumblekonngs.xyz": []
+    "probablyalabel.net": []
   },
   "address": [
     "0xe6f9307d3d6e0237528cb81d42fb8600dae4119d",
@@ -666,6 +668,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "metascan-mint.pro",
     "ledger-live.nyc",
     "airdrop-collab.land",
     "claim-looki.games",
@@ -8875,6 +8878,9 @@
     "cheersup.live": [
       "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
       "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "metascan-mint.pro": [
+      "0xd075bf8193196c68cec8e5ee487c938b2ceeb401"
     ]
   }
 }
