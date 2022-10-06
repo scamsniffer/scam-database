@@ -1,6 +1,12 @@
 {
   "newCombined": {
     "premint-seaside.com": [],
+    "ambervittoria.xyz": [
+      "0x3569563839c4e308f09122126b4fad3ecaa99999"
+    ],
+    "coalitioncrewnft.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
     "womenoidsnft.netlify.app": [],
     "cryptoadzgiveaway.xyz": [],
     "moonbirdsmintnft.xyz": [
@@ -216,8 +222,7 @@
     "ghostgangnft.netlify.app": [],
     "vulcan-authing.xyz": [
       "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572"
-    ],
-    "beveeworld.net": []
+    ]
   },
   "address": [
     "0xfd8de29594220a6b44ed080f7e5a04047da03248",
@@ -673,6 +678,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "ambervittoria.xyz",
+    "coalitioncrewnft.xyz",
     "premint-seaside.com",
     "womenoidsnft.netlify.app",
     "cryptoadzgiveaway.xyz",
@@ -8896,6 +8903,12 @@
     ],
     "moonbirdsmintnft.xyz": [
       "0xfd8de29594220a6b44ed080f7e5a04047da03248"
+    ],
+    "ambervittoria.xyz": [
+      "0x3569563839c4e308f09122126b4fad3ecaa99999"
+    ],
+    "coalitioncrewnft.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   }
 }
