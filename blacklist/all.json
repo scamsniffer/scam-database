@@ -1,5 +1,16 @@
 {
   "newCombined": {
+    "premint-therattrap.com": [],
+    "moonbirdsraffle.com": [
+      "0x17ce37bef93d8a0faf0c832ff68914a8038f083d"
+    ],
+    "worldofumans.ink": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
+    ],
+    "www.thealienboynnft.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
     "lucky-lion-cllub.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
@@ -254,26 +265,10 @@
     ],
     "lilheroesnft.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "dave-krugman.live": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "graycraft.live": [
-      "0x082666f545ec0c9aa60f2f02d175da4955b954ae",
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "nftcomofficial.live": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
-      "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
-    ],
-    "linksdao.live": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "metakongz.live": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ]
   },
   "address": [
+    "0x17ce37bef93d8a0faf0c832ff68914a8038f083d",
     "0x4d55846b105551251410d68739461852adc13d5d",
     "0xbac0ffc1e838555504215c83f497627c921886a8",
     "0x3256e931236a9cde00901755477d7ba554b5d472",
@@ -730,6 +725,10 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "premint-therattrap.com",
+    "moonbirdsraffle.com",
+    "worldofumans.ink",
+    "www.thealienboynnft.xyz",
     "lucky-lion-cllub.xyz",
     "ccrewnnft.xyz",
     "cryptodadsnfft.xyz",
@@ -9133,6 +9132,16 @@
       "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
     ],
     "lucky-lion-cllub.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "moonbirdsraffle.com": [
+      "0x17ce37bef93d8a0faf0c832ff68914a8038f083d"
+    ],
+    "worldofumans.ink": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
+    ],
+    "www.thealienboynnft.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   }
