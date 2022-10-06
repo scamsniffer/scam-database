@@ -1,5 +1,6 @@
 {
   "address": [
+    "0xcea0f1fad75e62dcf89ab18d6566482916baa65c",
     "0x7e92b316d18459e859f33d345d41db6c6d90f615",
     "0x4afe18cbf1f12bbad712fea55af296a8d54b6c27",
     "0x398e98b7c19db2f5df086eb4f83624146aa1ab53",
@@ -451,6 +452,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "artblocks-october.io",
     "xxpp.org",
     "www.brooklinewestfnc.com",
     "www.principaltrade-mining.com",
