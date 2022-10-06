@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "underwaternft.live": [],
     "nofacepixelsnft.netlify.app": [],
     "premint-seaside.com": [],
     "ambervittoria.xyz": [
@@ -220,10 +221,7 @@
       "0x865acd696c73d2a26ef4ff1a974c1fad6df3fb8d"
     ],
     "girlguardsnft.netlify.app": [],
-    "ghostgangnft.netlify.app": [],
-    "vulcan-authing.xyz": [
-      "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572"
-    ]
+    "ghostgangnft.netlify.app": []
   },
   "address": [
     "0xfd8de29594220a6b44ed080f7e5a04047da03248",
@@ -679,6 +677,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "underwaternft.live",
     "nofacepixelsnft.netlify.app",
     "ambervittoria.xyz",
     "coalitioncrewnft.xyz",
