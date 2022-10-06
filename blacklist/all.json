@@ -1,5 +1,27 @@
 {
   "newCombined": {
+    "sneakyninja.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "cryptobullnft.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "degenz.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "miladymaker.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "tritonpass.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "mirrorpass.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
+    ],
+    "hoshiboshi.live": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
     "jrnyclub.art": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
@@ -144,13 +166,7 @@
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
     "www.toyboogerrs.xyz": [],
-    "nickeiodeonnft.com": [],
-    "www.niftyleaguue.xyz": [],
-    "www.thematrixworlld.xyz": [],
-    "www.moonapelaab.xyz": [],
-    "monsterbudsnfft.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ]
+    "nickeiodeonnft.com": []
   },
   "address": [
     "0x3da02e1f29bcbed185eca0d3299efd46e6e7e155",
@@ -603,6 +619,13 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "sneakyninja.live",
+    "cryptobullnft.live",
+    "degenz.live",
+    "miladymaker.live",
+    "tritonpass.live",
+    "mirrorpass.live",
+    "hoshiboshi.live",
     "jrnyclub.art",
     "www.tractoquip.com",
     "onlyfansdao.fun",
@@ -8658,6 +8681,28 @@
       "0x9ce67dc9856c9f887ef5a80ae2178d5903864155"
     ],
     "jrnyclub.art": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "sneakyninja.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "cryptobullnft.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "degenz.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "miladymaker.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "tritonpass.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "mirrorpass.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
+    ],
+    "hoshiboshi.live": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   }
