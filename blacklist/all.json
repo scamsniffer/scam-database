@@ -1,5 +1,14 @@
 {
   "newCombined": {
+    "www.budweiseruusa.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "playboynffts.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.wallstmemmes.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
     "premint-kitaronft.xyz": [],
     "www.kataboliicz.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
@@ -241,14 +250,7 @@
     "undeadraffle.io": [],
     "www.gangstamicecity.life": [],
     "mail.gangstamicecity.life": [],
-    "raffle-chimpers.xyz": [],
-    "gangstamicecity.life": [],
-    "mingopack.org": [
-      "0xd307e99b79c4cb290a9d4583ac3b31df39e06ffb"
-    ],
-    "www.skyfallsland.xyz": [],
-    "premint-probablyalabel.com": [],
-    "beeplecrap.net": []
+    "raffle-chimpers.xyz": []
   },
   "address": [
     "0x4d55846b105551251410d68739461852adc13d5d",
@@ -707,6 +709,9 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "www.budweiseruusa.xyz",
+    "playboynffts.xyz",
+    "www.wallstmemmes.xyz",
     "premint-kitaronft.xyz",
     "www.kataboliicz.xyz",
     "prguitarmman.xyz",
@@ -9021,6 +9026,15 @@
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
     "chumbivalleey.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.budweiseruusa.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "playboynffts.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.wallstmemmes.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   }
