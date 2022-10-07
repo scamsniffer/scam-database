@@ -1,5 +1,18 @@
 {
   "newCombined": {
+    "muskboss.io": [],
+    "icytools.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "mee6nfts.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "mv3nft.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "veeconnft.live": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
     "yogapetz.mint-nft.cloud": [],
     "thesaudimeta.com": [],
     "shibaclubnfft.xyz": [],
@@ -295,23 +308,6 @@
     "ccrewnnft.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b",
       "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
-    ],
-    "cryptodadsnfft.xyz": [
-      "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
-    ],
-    "metab-nnft.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "www.0xmoons.xyz": [
-      "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
-    ],
-    "www.huxleysaaga.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "00z.space.cosmo-heroes.store": [],
-    "00z.space": [],
-    "hashmasks.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   },
   "address": [
@@ -778,6 +774,11 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "muskboss.io",
+    "icytools.live",
+    "mee6nfts.xyz",
+    "mv3nft.live",
+    "veeconnft.live",
     "yogapetz.mint-nft.cloud",
     "thesaudimeta.com",
     "shibaclubnfft.xyz",
@@ -9533,6 +9534,18 @@
     ],
     "ledger-freemint.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "icytools.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "mee6nfts.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "mv3nft.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "veeconnft.live": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   }
 }
