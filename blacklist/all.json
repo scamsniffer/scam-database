@@ -1,9 +1,14 @@
 {
   "newCombined": {
-    "cybertokyonft.hey-mint.xyz": [
+    "justprofit.margin-whales.info": [],
+    "justprofit.info": [],
+    "www.justprofit.margin-whales.info": [],
+    "capitallivefxltd.online": [],
+    "www.cybertokyonft.hey-mint.xyz": [
       "0x4afe18cbf1f12bbad712fea55af296a8d54b6c27"
     ],
-    "www.cybertokyonft.hey-mint.xyz": [
+    "cybertokyonft.hey-mint.xyz": [
+      "0x80b750e36eca41f0d5b96aefa875de133725044e",
       "0x4afe18cbf1f12bbad712fea55af296a8d54b6c27"
     ],
     "kprverse.xyz": [
@@ -280,12 +285,7 @@
     "asciimetric-design-studio.com": [],
     "vpn1.twitter-events22.com": [],
     "twitterscan.free-premints.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529",
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d"
-    ],
-    "forms.twitter-eventt22.com": [],
-    "twittercash.net": [
-      "0x66fe880c950577bc506cab112ce252dea6aff3df"
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   },
   "address": [
@@ -753,6 +753,10 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "justprofit.margin-whales.info",
+    "justprofit.info",
+    "www.justprofit.margin-whales.info",
+    "capitallivefxltd.online",
     "cybertokyonft.hey-mint.xyz",
     "www.cybertokyonft.hey-mint.xyz",
     "kprverse.xyz",
@@ -9574,7 +9578,8 @@
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
     "cybertokyonft.hey-mint.xyz": [
-      "0x4afe18cbf1f12bbad712fea55af296a8d54b6c27"
+      "0x4afe18cbf1f12bbad712fea55af296a8d54b6c27",
+      "0x80b750e36eca41f0d5b96aefa875de133725044e"
     ],
     "www.cybertokyonft.hey-mint.xyz": [
       "0x4afe18cbf1f12bbad712fea55af296a8d54b6c27"
