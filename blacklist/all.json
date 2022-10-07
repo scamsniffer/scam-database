@@ -1,10 +1,10 @@
 {
   "newCombined": {
-    "worldwidenft.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
     "www.icy-toools.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "worldwidenft.live": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
     "justprofit.margin-whales.info": [],
     "justprofit.info": [],
@@ -287,8 +287,7 @@
     "www.cmeethersscan.com": [
       "0x889e1625795bf4dbebaa1cb9b7225da0ceb61942"
     ],
-    "chubbyapeclub.com": [],
-    "asciimetric-design-studio.com": []
+    "chubbyapeclub.com": []
   },
   "address": [
     "0x86d021e4b742a7abcb6b12321b5f59fb419a167c",
