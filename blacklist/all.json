@@ -1,5 +1,10 @@
 {
   "newCombined": {
+    "premint-seaside.com": [],
+    "mint-games.online": [],
+    "www.playemberswoord.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
     "free-invsblefriends.xyz": [
       "0x61018bdce873eb4a325b35471443bf4805f0da81"
     ],
@@ -326,12 +331,6 @@
     ],
     "prguitarmman.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "www.chumbivalleey.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "gangstamice.live": [
-      "0x865acd696c73d2a26ef4ff1a974c1fad6df3fb8d"
     ]
   },
   "address": [
@@ -797,6 +796,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "mint-games.online",
+    "www.playemberswoord.xyz",
     "hormald.xyz",
     "overlord.bond",
     "www.helix-metaverse.cyou",
@@ -9506,6 +9507,9 @@
     ],
     "helix-metaverse.cyou": [
       "0x41126e19981eb1bbfe92b1d1cc4fe7104b044ab2"
+    ],
+    "www.playemberswoord.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   }
 }
