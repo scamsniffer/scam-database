@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "premint-beefyblokes.com": [],
     "walletsdapp.pages.dev": [],
     "lacoste-undw3.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
@@ -282,10 +283,7 @@
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
     "ghostxox.com": [],
-    "pancakeswapairdrop.pro": [],
-    "oncyber.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ]
+    "pancakeswapairdrop.pro": []
   },
   "address": [
     "0x86d021e4b742a7abcb6b12321b5f59fb419a167c",
@@ -752,6 +750,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "premint-beefyblokes.com",
     "walletsdapp.pages.dev",
     "lacoste-undw3.live",
     "tableland.live",
