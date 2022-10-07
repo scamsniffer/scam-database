@@ -1,5 +1,19 @@
 {
   "newCombined": {
+    "nickeiodeonnft.com": [],
+    "kitaroworld.wl-premints.xyz": [],
+    "thezerks.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "nanoversehqnft.live": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "coolcatsnft.wl-premint.com": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "renga.free-premints.com": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
     "io-imaginary-ones.xyz": [],
     "streetmachine.one": [],
     "muskboss.io": [],
@@ -287,23 +301,7 @@
     "www.bitrenix.com": [],
     "bitrenix.com": [],
     "bmibk.com": [],
-    "www.bmibk.com": [],
-    "www.trade.fp-asset.com": [],
-    "trade.fp-asset.com": [],
-    "www.metascan-mint.pro": [
-      "0xd075bf8193196c68cec8e5ee487c938b2ceeb401"
-    ],
-    "www.cryptoadzgiveaway.xyz": [],
-    "moonbirdsraffle.com": [
-      "0x17ce37bef93d8a0faf0c832ff68914a8038f083d"
-    ],
-    "worldofumans.ink": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
-      "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
-    ],
-    "www.thealienboynnft.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ]
+    "www.bmibk.com": []
   },
   "address": [
     "0x1456f414f0cc6c37de766adc3b151e2edd531c50",
@@ -769,6 +767,11 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "kitaroworld.wl-premints.xyz",
+    "thezerks.xyz",
+    "nanoversehqnft.live",
+    "coolcatsnft.wl-premint.com",
+    "renga.free-premints.com",
     "io-imaginary-ones.xyz",
     "streetmachine.one",
     "muskboss.io",
@@ -9542,6 +9545,18 @@
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
     "veeconnft.live": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "thezerks.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "nanoversehqnft.live": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "coolcatsnft.wl-premint.com": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "renga.free-premints.com": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   }
