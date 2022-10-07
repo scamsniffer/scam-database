@@ -1,5 +1,12 @@
 {
   "newCombined": {
+    "wilderworldofficial.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "webaversenft.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "ghostxox.com": [],
     "pancakeswapairdrop.pro": [],
     "0n1force.wl-nft.xyz": [],
     "oncyber.live": [
@@ -259,15 +266,9 @@
     ],
     "tamadoge.run": [],
     "www.tamadoge.run": [],
-    "www.llamavesre.com": [
-      "0xdf0de6986b60bbd4226ecf456c681929d6dac98d"
-    ],
+    "www.llamavesre.com": [],
     "decenfralnd.com": [
-      "0xdf0de6986b60bbd4226ecf456c681929d6dac98d",
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "www.decenfralnd.com": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+      "0xdf0de6986b60bbd4226ecf456c681929d6dac98d"
     ]
   },
   "address": [
@@ -728,6 +729,9 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "wilderworldofficial.xyz",
+    "webaversenft.live",
+    "ghostxox.com",
     "pancakeswapairdrop.pro",
     "0n1force.wl-nft.xyz",
     "oncyber.live",
@@ -9206,6 +9210,12 @@
     ],
     "oncyber.live": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "wilderworldofficial.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "webaversenft.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ]
   }
 }
