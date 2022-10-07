@@ -1,5 +1,14 @@
 {
   "newCombined": {
+    "gala-bakes.com": [],
+    "onlyfansdao.fun": [],
+    "digidaigku.com": [],
+    "kitaroworld.wl-premints.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "coolcatsnft.wl-premint.com": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
     "metalionkingdom.io": [
       "0x86d021e4b742a7abcb6b12321b5f59fb419a167c"
     ],
@@ -8,14 +17,10 @@
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
     "nickeiodeonnft.com": [],
-    "kitaroworld.wl-premints.xyz": [],
     "thezerks.xyz": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
     "nanoversehqnft.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "coolcatsnft.wl-premint.com": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
     "renga.free-premints.com": [
@@ -225,9 +230,7 @@
     "cryptyques.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
-    "www.polarbearsnnft.xyz": [
-      "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
-    ],
+    "www.polarbearsnnft.xyz": [],
     "ethereum-kmd.com": [
       "0x2ad0875e63116e96eec7c4d38a726457b628dd68"
     ],
@@ -290,19 +293,7 @@
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
     "forexrobot.trade": [],
-    "www.forexrobot.trade": [],
-    "www.nifty-islaand.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b",
-      "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
-    ],
-    "koalaagencynfft.free300mints.com": [],
-    "www.obeygiaant.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "theirsverse.live": [
-      "0x082666f545ec0c9aa60f2f02d175da4955b954ae",
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ]
+    "www.forexrobot.trade": []
   },
   "address": [
     "0x86d021e4b742a7abcb6b12321b5f59fb419a167c",
@@ -769,6 +760,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "gala-bakes.com",
+    "digidaigku.com",
     "blog.twitter-events22.com",
     "shitverse.live",
     "kitaroworld.wl-premints.xyz",
@@ -9565,6 +9558,9 @@
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
     "shitverse.live": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "kitaroworld.wl-premints.xyz": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   }
