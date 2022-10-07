@@ -1,5 +1,11 @@
 {
   "newCombined": {
+    "lacoste-undw3.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "tableland.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
     "duckmenft.netlify.app": [],
     "axolotls-nft.com": [],
     "donotmint.netlify.app": [],
@@ -282,11 +288,7 @@
     "birdezgaang.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
-    "mail.trustpadx.com": [],
-    "nickydiamonnds.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b",
-      "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
-    ]
+    "mail.trustpadx.com": []
   },
   "address": [
     "0x86d021e4b742a7abcb6b12321b5f59fb419a167c",
@@ -753,6 +755,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "lacoste-undw3.live",
+    "tableland.live",
     "duckmenft.netlify.app",
     "axolotls-nft.com",
     "donotmint.netlify.app",
@@ -9558,6 +9562,12 @@
     ],
     "kitaroworld.wl-premints.xyz": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "lacoste-undw3.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "tableland.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ]
   }
 }
