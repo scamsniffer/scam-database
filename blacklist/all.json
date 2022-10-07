@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "www.giotex.org": [],
     "premint-street-machine.com": [],
     "richpeopleclub.netlify.app": [],
     "www.3gpost.com": [
@@ -314,9 +315,6 @@
     ],
     "www.shibabets.pro": [
       "0x2ef08e5a38d8bcdac2aeccfa6b8c1a37d064d255"
-    ],
-    "billionclubnnft.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   },
   "address": [
@@ -783,6 +781,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "www.giotex.org",
     "premint-street-machine.com",
     "richpeopleclub.netlify.app",
     "www.3gpost.com",
