@@ -1,5 +1,14 @@
 {
   "newCombined": {
+    "vpn1.twitter-events22.com": [],
+    "twitterscan.free-premints.com": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529",
+      "0x7d8904598e5ec80ffb241349767a1840bd35d51d"
+    ],
+    "forms.twitter-eventt22.com": [],
+    "twittercash.net": [
+      "0x66fe880c950577bc506cab112ce252dea6aff3df"
+    ],
     "wilderworldofficial.xyz": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
@@ -253,25 +262,10 @@
       "0xe97a60f5d34da4f68bc1f1b9ce2c19ec1a33e928",
       "0x7c09194d33686e9b4dda51a5221340f484919446"
     ],
-    "www.premint-probablyalabel.com": [],
-    "mail.qql.xyz": [],
-    "qqi.art": [
-      "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572"
-    ],
-    "www.qql.xyz": [
-      "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572"
-    ],
-    "qql.xyz": [
-      "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572"
-    ],
-    "tamadoge.run": [],
-    "www.tamadoge.run": [],
-    "www.llamavesre.com": [],
-    "decenfralnd.com": [
-      "0xdf0de6986b60bbd4226ecf456c681929d6dac98d"
-    ]
+    "www.premint-probablyalabel.com": []
   },
   "address": [
+    "0x66fe880c950577bc506cab112ce252dea6aff3df",
     "0x17ce37bef93d8a0faf0c832ff68914a8038f083d",
     "0x4d55846b105551251410d68739461852adc13d5d",
     "0xbac0ffc1e838555504215c83f497627c921886a8",
@@ -729,6 +723,10 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "vpn1.twitter-events22.com",
+    "twitterscan.free-premints.com",
+    "forms.twitter-eventt22.com",
+    "twittercash.net",
     "wilderworldofficial.xyz",
     "webaversenft.live",
     "ghostxox.com",
@@ -9216,6 +9214,13 @@
     ],
     "webaversenft.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "twitterscan.free-premints.com": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529",
+      "0x7d8904598e5ec80ffb241349767a1840bd35d51d"
+    ],
+    "twittercash.net": [
+      "0x66fe880c950577bc506cab112ce252dea6aff3df"
     ]
   }
 }
