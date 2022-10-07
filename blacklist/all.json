@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "mipproject.xyz": [],
     "nylacollectiion.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
@@ -796,6 +797,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "mipproject.xyz",
     "nylacollectiion.xyz",
     "ezekcllub.xyz",
     "mint-games.online",
