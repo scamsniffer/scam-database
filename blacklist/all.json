@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "duckmenft.netlify.app": [],
     "axolotls-nft.com": [],
     "donotmint.netlify.app": [],
     "gala-bakes.com": [],
@@ -285,12 +286,7 @@
     "nickydiamonnds.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b",
       "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
-    ],
-    "www.nylacollectiion.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "www.totemearrth.xyz": [],
-    "www.avycnnft.xyz": []
+    ]
   },
   "address": [
     "0x86d021e4b742a7abcb6b12321b5f59fb419a167c",
@@ -757,6 +753,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "duckmenft.netlify.app",
     "axolotls-nft.com",
     "donotmint.netlify.app",
     "gala-bakes.com",
