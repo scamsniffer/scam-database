@@ -1,5 +1,13 @@
 {
   "newCombined": {
+    "fs.twitter-events22.com": [],
+    "mint-walkers.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "mint-overborne.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "dapperdogs.site": [],
     "nekonation.monster": [],
     "topgsnft.top": [],
     "premint-therattrap.com": [],
@@ -315,22 +323,7 @@
     "goobersnfft.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
-    "fitbearsnft.netlify.app": [],
-    "www.ezekcllub.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "crypto-swaarm.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "www.prguitarmman.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "www.budweiseruusa.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "playboynffts.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ]
+    "fitbearsnft.netlify.app": []
   },
   "address": [
     "0x41126e19981eb1bbfe92b1d1cc4fe7104b044ab2",
@@ -795,6 +788,10 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "fs.twitter-events22.com",
+    "mint-walkers.xyz",
+    "mint-overborne.xyz",
+    "dapperdogs.site",
     "nekonation.monster",
     "topgsnft.top",
     "mipproject.xyz",
@@ -9520,6 +9517,12 @@
     ],
     "ezekcllub.xyz": [
       "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
+    ],
+    "mint-walkers.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "mint-overborne.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   }
 }
