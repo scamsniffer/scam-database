@@ -1,5 +1,8 @@
 {
   "newCombined": {
+    "www.cmeethersscan.com": [
+      "0x889e1625795bf4dbebaa1cb9b7225da0ceb61942"
+    ],
     "chubbyapeclub.com": [],
     "asciimetric-design-studio.com": [],
     "vpn1.twitter-events22.com": [],
@@ -262,6 +265,7 @@
     "metaclubsociety.live": []
   },
   "address": [
+    "0x889e1625795bf4dbebaa1cb9b7225da0ceb61942",
     "0x66fe880c950577bc506cab112ce252dea6aff3df",
     "0x17ce37bef93d8a0faf0c832ff68914a8038f083d",
     "0x4d55846b105551251410d68739461852adc13d5d",
@@ -720,6 +724,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "www.cmeethersscan.com",
     "chubbyapeclub.com",
     "asciimetric-design-studio.com",
     "vpn1.twitter-events22.com",
@@ -9220,6 +9225,9 @@
     ],
     "twittercash.net": [
       "0x66fe880c950577bc506cab112ce252dea6aff3df"
+    ],
+    "www.cmeethersscan.com": [
+      "0x889e1625795bf4dbebaa1cb9b7225da0ceb61942"
     ]
   }
 }
