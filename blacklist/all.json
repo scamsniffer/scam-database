@@ -1,5 +1,7 @@
 {
   "newCombined": {
+    "chubbyapeclub.com": [],
+    "asciimetric-design-studio.com": [],
     "vpn1.twitter-events22.com": [],
     "twitterscan.free-premints.com": [
       "0x34f3f4ba979e177a517970e014250cab61a80529",
@@ -257,12 +259,7 @@
       "0x86544f7e7a90d05048469d209d6c3d1009e8c3e0"
     ],
     "tastybones.io": [],
-    "metaclubsociety.live": [],
-    "maticmike.club": [
-      "0xe97a60f5d34da4f68bc1f1b9ce2c19ec1a33e928",
-      "0x7c09194d33686e9b4dda51a5221340f484919446"
-    ],
-    "www.premint-probablyalabel.com": []
+    "metaclubsociety.live": []
   },
   "address": [
     "0x66fe880c950577bc506cab112ce252dea6aff3df",
@@ -723,6 +720,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "chubbyapeclub.com",
+    "asciimetric-design-studio.com",
     "vpn1.twitter-events22.com",
     "twitterscan.free-premints.com",
     "forms.twitter-eventt22.com",
