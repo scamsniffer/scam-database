@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "richpeopleclub.netlify.app": [],
     "www.3gpost.com": [
       "0x1456f414f0cc6c37de766adc3b151e2edd531c50"
     ],
@@ -317,9 +318,6 @@
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
     "chibilaabs.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "www.dinoschiibi.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   },
@@ -787,6 +785,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "richpeopleclub.netlify.app",
     "www.3gpost.com",
     "tamadogenfts.com",
     "aireinft.netlify.app",
