@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "thesaudimeta.com": [],
     "shibaclubnfft.xyz": [],
     "ledger-freemint.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
@@ -310,8 +311,7 @@
     "00z.space": [],
     "hashmasks.live": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.00z.space.cosmo-heroes.store": []
+    ]
   },
   "address": [
     "0x1456f414f0cc6c37de766adc3b151e2edd531c50",
@@ -777,6 +777,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "thesaudimeta.com",
     "shibaclubnfft.xyz",
     "ledger-freemint.live",
     "therattrapnft.netlify.app",
