@@ -1,5 +1,9 @@
 {
   "newCombined": {
+    "blog.twitter-events22.com": [],
+    "shitverse.live": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
     "nickeiodeonnft.com": [],
     "kitaroworld.wl-premints.xyz": [],
     "thezerks.xyz": [
@@ -296,12 +300,7 @@
       "0x082666f545ec0c9aa60f2f02d175da4955b954ae",
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
-    "equinoxen.com": [],
-    "www.equinoxen.com": [],
-    "www.bitrenix.com": [],
-    "bitrenix.com": [],
-    "bmibk.com": [],
-    "www.bmibk.com": []
+    "equinoxen.com": []
   },
   "address": [
     "0x1456f414f0cc6c37de766adc3b151e2edd531c50",
@@ -767,6 +766,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "blog.twitter-events22.com",
+    "shitverse.live",
     "kitaroworld.wl-premints.xyz",
     "thezerks.xyz",
     "nanoversehqnft.live",
@@ -9557,6 +9558,9 @@
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
     "renga.free-premints.com": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "shitverse.live": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   }
