@@ -1,5 +1,17 @@
 {
   "newCombined": {
+    "ethereum-kmd.com": [
+      "0x2ad0875e63116e96eec7c4d38a726457b628dd68"
+    ],
+    "ethereum-anc.com": [
+      "0x2ad0875e63116e96eec7c4d38a726457b628dd68"
+    ],
+    "ethereum-troy.com": [
+      "0x2ad0875e63116e96eec7c4d38a726457b628dd68"
+    ],
+    "rtfkt-story.com": [
+      "0x2a43a1da40d5b0821614bffad0fbfb4183b08a18"
+    ],
     "tocotoucan.net": [],
     "futuremanganft.netlify.app": [],
     "yugaiabs.claims": [],
@@ -260,13 +272,10 @@
     "cheersup.live": [
       "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
       "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "mintonft.com": [
-      "0xe6f9307d3d6e0237528cb81d42fb8600dae4119d"
-    ],
-    "fortunedeliverycompany.com": []
+    ]
   },
   "address": [
+    "0x2a43a1da40d5b0821614bffad0fbfb4183b08a18",
     "0x889e1625795bf4dbebaa1cb9b7225da0ceb61942",
     "0x66fe880c950577bc506cab112ce252dea6aff3df",
     "0x17ce37bef93d8a0faf0c832ff68914a8038f083d",
@@ -726,6 +735,10 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "ethereum-kmd.com",
+    "ethereum-anc.com",
+    "ethereum-troy.com",
+    "rtfkt-story.com",
     "tocotoucan.net",
     "futuremanganft.netlify.app",
     "yugaiabs.claims",
@@ -9238,6 +9251,18 @@
     ],
     "sapiensnft.org": [
       "0xd307e99b79c4cb290a9d4583ac3b31df39e06ffb"
+    ],
+    "ethereum-kmd.com": [
+      "0x2ad0875e63116e96eec7c4d38a726457b628dd68"
+    ],
+    "ethereum-anc.com": [
+      "0x2ad0875e63116e96eec7c4d38a726457b628dd68"
+    ],
+    "ethereum-troy.com": [
+      "0x2ad0875e63116e96eec7c4d38a726457b628dd68"
+    ],
+    "rtfkt-story.com": [
+      "0x2a43a1da40d5b0821614bffad0fbfb4183b08a18"
     ]
   }
 }
