@@ -1,5 +1,8 @@
 {
   "newCombined": {
+    "www.3gpost.com": [
+      "0x1456f414f0cc6c37de766adc3b151e2edd531c50"
+    ],
     "tamadogenfts.com": [],
     "aireinft.netlify.app": [],
     "fs.twitter-events22.com": [],
@@ -318,12 +321,10 @@
     ],
     "www.dinoschiibi.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "wickedbonecllub.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   },
   "address": [
+    "0x1456f414f0cc6c37de766adc3b151e2edd531c50",
     "0x41126e19981eb1bbfe92b1d1cc4fe7104b044ab2",
     "0xc74cdbbdfcfe02711dde8e7faca0f74186932414",
     "0x2a43a1da40d5b0821614bffad0fbfb4183b08a18",
@@ -786,6 +787,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "www.3gpost.com",
     "tamadogenfts.com",
     "aireinft.netlify.app",
     "fs.twitter-events22.com",
@@ -9523,6 +9525,9 @@
     ],
     "mint-overborne.xyz": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "www.3gpost.com": [
+      "0x1456f414f0cc6c37de766adc3b151e2edd531c50"
     ]
   }
 }
