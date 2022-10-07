@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "walletsdapp.pages.dev": [],
     "lacoste-undw3.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
@@ -287,8 +288,7 @@
     ],
     "birdezgaang.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "mail.trustpadx.com": []
+    ]
   },
   "address": [
     "0x86d021e4b742a7abcb6b12321b5f59fb419a167c",
@@ -755,6 +755,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "walletsdapp.pages.dev",
     "lacoste-undw3.live",
     "tableland.live",
     "duckmenft.netlify.app",
