@@ -1,27 +1,33 @@
 {
   "newCombined": {
+    "free-invsblefriends.xyz": [
+      "0x61018bdce873eb4a325b35471443bf4805f0da81"
+    ],
+    "mutantapecartel.xyz": [],
+    "hormald.xyz": [],
+    "exosama.bond": [
+      "0x41126e19981eb1bbfe92b1d1cc4fe7104b044ab2"
+    ],
+    "www.azragames.bond": [
+      "0x41126e19981eb1bbfe92b1d1cc4fe7104b044ab2"
+    ],
+    "helix-metaverse.cyou": [
+      "0x41126e19981eb1bbfe92b1d1cc4fe7104b044ab2"
+    ],
+    "kitaro.bond": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
     "overlord.bond": [
       "0x41126e19981eb1bbfe92b1d1cc4fe7104b044ab2"
     ],
     "www.helix-metaverse.cyou": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
-    "mutantapecartel.xyz": [],
     "www.remdao.xyz": [
       "0x9b2754a30545d0f66ae90c1b44e686bf98595963"
     ],
-    "exosama.bond": [
-      "0x41126e19981eb1bbfe92b1d1cc4fe7104b044ab2"
-    ],
-    "helix-metaverse.cyou": [],
-    "www.azragames.bond": [
-      "0x41126e19981eb1bbfe92b1d1cc4fe7104b044ab2"
-    ],
     "www.kitaro.bond": [
       "0x41126e19981eb1bbfe92b1d1cc4fe7104b044ab2"
-    ],
-    "kitaro.bond": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
     "www.gangsterallstar.bond": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
@@ -326,18 +332,6 @@
     ],
     "gangstamice.live": [
       "0x865acd696c73d2a26ef4ff1a974c1fad6df3fb8d"
-    ],
-    "www.luckylionclub.io": [
-      "0x4d55846b105551251410d68739461852adc13d5d"
-    ],
-    "cryptocannacllub.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "www.birdezgaang.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "chumbivalleey.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   },
   "address": [
@@ -803,6 +797,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "hormald.xyz",
     "overlord.bond",
     "www.helix-metaverse.cyou",
     "exosama.bond",
@@ -9508,6 +9503,9 @@
     ],
     "www.gangsterallstar.bond": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "helix-metaverse.cyou": [
+      "0x41126e19981eb1bbfe92b1d1cc4fe7104b044ab2"
     ]
   }
 }
