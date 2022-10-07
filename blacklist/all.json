@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "idnft.id": [],
     "sparklemo.site": [],
     "premint-beefyblokes.com": [],
     "walletsdapp.pages.dev": [],
@@ -276,9 +277,6 @@
     "forms.twitter-eventt22.com": [],
     "twittercash.net": [
       "0x66fe880c950577bc506cab112ce252dea6aff3df"
-    ],
-    "wilderworldofficial.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   },
   "address": [
@@ -746,6 +744,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "idnft.id",
     "premint-beefyblokes.com",
     "walletsdapp.pages.dev",
     "lacoste-undw3.live",
