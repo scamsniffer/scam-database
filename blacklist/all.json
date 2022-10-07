@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "shibaclubnfft.xyz": [],
     "ledger-freemint.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
@@ -776,6 +777,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "shibaclubnfft.xyz",
     "ledger-freemint.live",
     "therattrapnft.netlify.app",
     "mekaverse-freemint.live",
