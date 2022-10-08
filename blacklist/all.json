@@ -1,5 +1,8 @@
 {
   "newCombined": {
+    "www.shibaclubnfft.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
     "beefybloke.com": [],
     "www.icy-toools.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
@@ -281,10 +284,7 @@
     "futuremanganft.netlify.app": [],
     "yugaiabs.claims": [],
     "invisiblefriends-claim.app": [],
-    "pumanitropass.com": [],
-    "sapiensnft.org": [
-      "0xd307e99b79c4cb290a9d4583ac3b31df39e06ffb"
-    ]
+    "pumanitropass.com": []
   },
   "address": [
     "0x86d021e4b742a7abcb6b12321b5f59fb419a167c",
@@ -751,6 +751,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "www.shibaclubnfft.xyz",
     "beefybloke.com",
     "worldwidenft.live",
     "www.icy-toools.xyz",
@@ -9592,6 +9593,9 @@
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
     "www.icy-toools.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.shibaclubnfft.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   }
