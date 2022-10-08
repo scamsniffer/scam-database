@@ -1,5 +1,9 @@
 {
   "newCombined": {
+    "operationsins.com": [],
+    "revoke.cyou": [
+      "0x913f9b4d7ffeec32d885932007711ab0c8710ae7"
+    ],
     "foyda.io": [],
     "woodlanderz.one": [],
     "mint.freemintbot.com": [],
@@ -220,9 +224,7 @@
     ],
     "www.gangsterallstar.bond": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "streetmachine.live": [],
-    "digidaigakuapes.freemintclaim.com": []
+    ]
   },
   "address": [
     "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c",
@@ -692,6 +694,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "operationsins.com",
+    "revoke.cyou",
     "foyda.io",
     "woodlanderz.one",
     "cryptolinveinvestment.com",
@@ -9617,6 +9621,9 @@
     ],
     "888neko.xyz": [
       "0x3da02e1f29bcbed185eca0d3299efd46e6e7e155"
+    ],
+    "revoke.cyou": [
+      "0x913f9b4d7ffeec32d885932007711ab0c8710ae7"
     ]
   }
 }
