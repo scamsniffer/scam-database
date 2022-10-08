@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "packageheads.com": [],
     "multicoin-pad.net": [
       "0xc1f908863feca9f0b352d31606173d13fa113134"
     ],
@@ -224,9 +225,6 @@
     "hormald.xyz": [],
     "exosama.bond": [],
     "www.azragames.bond": [
-      "0x41126e19981eb1bbfe92b1d1cc4fe7104b044ab2"
-    ],
-    "helix-metaverse.cyou": [
       "0x41126e19981eb1bbfe92b1d1cc4fe7104b044ab2"
     ]
   },
@@ -698,6 +696,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "packageheads.com",
     "multicoin-pad.net",
     "alienfrensnft.live",
     "curiocards.live",
