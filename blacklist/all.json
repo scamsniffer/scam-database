@@ -1,5 +1,8 @@
 {
   "newCombined": {
+    "kitaroworld.wl-premints.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
     "cryptoelite.us": [],
     "digitalcryptocurr.trade": [],
     "few.tools": [
@@ -152,9 +155,6 @@
     "donotmint.netlify.app": [],
     "gala-bakes.com": [],
     "onlyfansdao.fun": [],
-    "kitaroworld.wl-premints.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
     "coolcatsnft.wl-premint.com": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
@@ -218,8 +218,7 @@
     ],
     "ezekcllub.xyz": [
       "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
-    ],
-    "premint-seaside.com": []
+    ]
   },
   "address": [
     "0x0d09922df011ff94760bb01a2bc854a44c101074",
