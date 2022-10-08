@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "beefybloke.com": [],
     "www.icy-toools.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
@@ -283,11 +284,7 @@
     "pumanitropass.com": [],
     "sapiensnft.org": [
       "0xd307e99b79c4cb290a9d4583ac3b31df39e06ffb"
-    ],
-    "www.cmeethersscan.com": [
-      "0x889e1625795bf4dbebaa1cb9b7225da0ceb61942"
-    ],
-    "chubbyapeclub.com": []
+    ]
   },
   "address": [
     "0x86d021e4b742a7abcb6b12321b5f59fb419a167c",
@@ -754,6 +751,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "beefybloke.com",
     "worldwidenft.live",
     "www.icy-toools.xyz",
     "justprofit.margin-whales.info",
