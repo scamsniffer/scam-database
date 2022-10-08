@@ -1,5 +1,8 @@
 {
   "newCombined": {
+    "polarbearsnnft.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
     "shineonetradingservices.com": [],
     "www.smartbeastnft.io": [
       "0x4db49fffe23b858325956f68d6c5660a175119ef"
@@ -280,11 +283,7 @@
     ],
     "ethereum-troy.com": [
       "0x2ad0875e63116e96eec7c4d38a726457b628dd68"
-    ],
-    "rtfkt-story.com": [
-      "0x2a43a1da40d5b0821614bffad0fbfb4183b08a18"
-    ],
-    "tocotoucan.net": []
+    ]
   },
   "address": [
     "0x4db49fffe23b858325956f68d6c5660a175119ef",
@@ -752,6 +751,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "polarbearsnnft.xyz",
     "shineonetradingservices.com",
     "www.smartbeastnft.io",
     "www.shibaclubnfft.xyz",
@@ -9603,6 +9603,9 @@
     ],
     "www.smartbeastnft.io": [
       "0x4db49fffe23b858325956f68d6c5660a175119ef"
+    ],
+    "polarbearsnnft.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ]
   }
 }
