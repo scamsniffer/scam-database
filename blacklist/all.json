@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "woodlanderz.one": [],
     "mint.freemintbot.com": [],
     "cryptolinveinvestment.com": [],
     "tudeth.space": [],
@@ -221,8 +222,7 @@
     ],
     "streetmachine.live": [],
     "digidaigakuapes.freemintclaim.com": [],
-    "cathoodie.shop": [],
-    "www.mutantapecartel.xyz": []
+    "cathoodie.shop": []
   },
   "address": [
     "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c",
@@ -692,6 +692,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "woodlanderz.one",
     "cryptolinveinvestment.com",
     "tudeth.space",
     "888neko.xyz",
