@@ -1,5 +1,11 @@
 {
   "newCombined": {
+    "apegangnfft.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "kaijukingz.ink": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
     "ghxsts.live": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
@@ -239,10 +245,6 @@
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
     "anonymice.live": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "vdscofficial.live": [],
-    "cryptophunks.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ]
   },
@@ -713,6 +715,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "apegangnfft.xyz",
+    "kaijukingz.ink",
     "ghxsts.live",
     "mint-lonelypop.com",
     "www.mint-lonelypop.com",
@@ -9601,6 +9605,12 @@
       "0x68ae722be0e8d360325e933bbd584de2a434f815"
     ],
     "ghxsts.live": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "apegangnfft.xyz": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "kaijukingz.ink": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   }
