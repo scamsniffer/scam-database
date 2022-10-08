@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "foyda.io": [],
     "woodlanderz.one": [],
     "mint.freemintbot.com": [],
     "cryptolinveinvestment.com": [],
@@ -221,8 +222,7 @@
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
     "streetmachine.live": [],
-    "digidaigakuapes.freemintclaim.com": [],
-    "cathoodie.shop": []
+    "digidaigakuapes.freemintclaim.com": []
   },
   "address": [
     "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c",
@@ -692,6 +692,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "foyda.io",
     "woodlanderz.one",
     "cryptolinveinvestment.com",
     "tudeth.space",
