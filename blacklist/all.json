@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "sparklemo.site": [],
     "rugradionft.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
       "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
@@ -50,7 +51,6 @@
     "kprverse.xyz": [
       "0xd2089ff4e050a29e85fb5a447f83628e2a697555"
     ],
-    "sparklemo.site": [],
     "idnft.id": [],
     "premint-beefyblokes.com": [],
     "walletsdapp.pages.dev": [],
@@ -250,9 +250,6 @@
     "coniun-freemint.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
       "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
-    ],
-    "jpegdnft.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   },
   "address": [
