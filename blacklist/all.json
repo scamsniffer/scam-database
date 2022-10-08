@@ -687,7 +687,6 @@
     "coinmarketcap8.com",
     "cryptoelite.us",
     "digitalcryptocurr.trade",
-    "few.tools",
     "brbmining.org",
     "packageheads.com",
     "multicoin-pad.net",
@@ -9645,9 +9644,6 @@
     ],
     "multicoin-pad.net": [
       "0xc1f908863feca9f0b352d31606173d13fa113134"
-    ],
-    "few.tools": [
-      "0x0d09922df011ff94760bb01a2bc854a44c101074"
     ]
   }
 }
