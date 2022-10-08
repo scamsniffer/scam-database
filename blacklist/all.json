@@ -1,5 +1,9 @@
 {
   "newCombined": {
+    "tudeth.space": [],
+    "888neko.xyz": [
+      "0x3da02e1f29bcbed185eca0d3299efd46e6e7e155"
+    ],
     "www.spacepunkscluub.xyz": [],
     "www.lootprojecct.xyz": [
       "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
@@ -687,6 +691,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "tudeth.space",
+    "888neko.xyz",
     "sizequalityminings.com",
     "ogremetaverse.com",
     "miningsallphase.com",
@@ -9604,6 +9610,9 @@
     ],
     "apiens.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "888neko.xyz": [
+      "0x3da02e1f29bcbed185eca0d3299efd46e6e7e155"
     ]
   }
 }
