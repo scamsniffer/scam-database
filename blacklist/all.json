@@ -1,5 +1,7 @@
 {
   "newCombined": {
+    "cryptoelite.us": [],
+    "digitalcryptocurr.trade": [],
     "few.tools": [
       "0x0d09922df011ff94760bb01a2bc854a44c101074"
     ],
@@ -217,15 +219,7 @@
     "ezekcllub.xyz": [
       "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
     ],
-    "premint-seaside.com": [],
-    "mint-games.online": [],
-    "www.playemberswoord.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "free-invsblefriends.xyz": [
-      "0x61018bdce873eb4a325b35471443bf4805f0da81"
-    ],
-    "mutantapecartel.xyz": []
+    "premint-seaside.com": []
   },
   "address": [
     "0x0d09922df011ff94760bb01a2bc854a44c101074",
@@ -696,6 +690,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "cryptoelite.us",
+    "digitalcryptocurr.trade",
     "few.tools",
     "brbmining.org",
     "packageheads.com",
