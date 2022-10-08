@@ -1,5 +1,11 @@
 {
   "newCombined": {
+    "twitterscan.free-wl.com": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "apiens.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
     "garyveealphadiscord.com": [],
     "naviapes.com": [],
     "unusualsnail.me": [],
@@ -228,15 +234,7 @@
     "0n1force.wl-nft.xyz": [],
     "akidcalledbeast.wl-nft.xyz": [],
     "bosotokyo.wl-nft.xyz": [],
-    "ambrusstudio.wl-nft.xyz": [],
-    "www.thesuadsinft.com": [],
-    "gem-freemint.com": [],
-    "www.tooniessocial.com": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "thesuadsinft.com": [
-      "0xc74cdbbdfcfe02711dde8e7faca0f74186932414"
-    ]
+    "ambrusstudio.wl-nft.xyz": []
   },
   "address": [
     "0x68ae722be0e8d360325e933bbd584de2a434f815",
@@ -705,6 +703,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "twitterscan.free-wl.com",
+    "apiens.live",
     "garyveealphadiscord.com",
     "naviapes.com",
     "unusualsnail.me",
@@ -9605,6 +9605,12 @@
     ],
     "kaijukingz.ink": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "twitterscan.free-wl.com": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "apiens.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ]
   }
 }
