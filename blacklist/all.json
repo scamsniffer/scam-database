@@ -1,5 +1,11 @@
 {
   "newCombined": {
+    "www.wowmarketplace.app": [],
+    "wowmarketplace.app": [],
+    "premint-hiddenkittencity.com": [],
+    "www.yugaiabs.claims": [],
+    "mail.yugaiabs.claims": [],
+    "www.premint-hiddenkittencity.com": [],
     "giotex.org": [],
     "akakomm.com": [
       "0x38313c0668c897b6d591a69e0a9fdc9305e67b55"
@@ -252,32 +258,6 @@
     ],
     "xananft.live": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "supducks.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "mevofficial.live": [
-      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "rfoxvalt.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "nostalgianft.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "aleqth.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "creatureworld.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "apelist.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "knightsofdegen.live": [
-      "0x082666f545ec0c9aa60f2f02d175da4955b954ae",
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ]
   },
   "address": [
@@ -746,6 +726,12 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "www.wowmarketplace.app",
+    "wowmarketplace.app",
+    "premint-hiddenkittencity.com",
+    "www.yugaiabs.claims",
+    "mail.yugaiabs.claims",
+    "www.premint-hiddenkittencity.com",
     "giotex.org",
     "akakomm.com",
     "www.hormald.xyz",
