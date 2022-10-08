@@ -1,13 +1,11 @@
 {
   "newCombined": {
+    "coinmarketcap8.com": [],
     "kitaroworld.wl-premints.xyz": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
     "cryptoelite.us": [],
     "digitalcryptocurr.trade": [],
-    "few.tools": [
-      "0x0d09922df011ff94760bb01a2bc854a44c101074"
-    ],
     "brbmining.org": [],
     "packageheads.com": [],
     "multicoin-pad.net": [
@@ -215,9 +213,6 @@
     "mipproject.xyz": [],
     "nylacollectiion.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "ezekcllub.xyz": [
-      "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
     ]
   },
   "address": [
@@ -689,6 +684,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "coinmarketcap8.com",
     "cryptoelite.us",
     "digitalcryptocurr.trade",
     "few.tools",
