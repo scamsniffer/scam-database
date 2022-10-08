@@ -1,5 +1,9 @@
 {
   "newCombined": {
+    "shineonetradingservices.com": [],
+    "www.smartbeastnft.io": [
+      "0x4db49fffe23b858325956f68d6c5660a175119ef"
+    ],
     "www.shibaclubnfft.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
@@ -280,13 +284,10 @@
     "rtfkt-story.com": [
       "0x2a43a1da40d5b0821614bffad0fbfb4183b08a18"
     ],
-    "tocotoucan.net": [],
-    "futuremanganft.netlify.app": [],
-    "yugaiabs.claims": [],
-    "invisiblefriends-claim.app": [],
-    "pumanitropass.com": []
+    "tocotoucan.net": []
   },
   "address": [
+    "0x4db49fffe23b858325956f68d6c5660a175119ef",
     "0x86d021e4b742a7abcb6b12321b5f59fb419a167c",
     "0x1456f414f0cc6c37de766adc3b151e2edd531c50",
     "0x41126e19981eb1bbfe92b1d1cc4fe7104b044ab2",
@@ -751,6 +752,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "shineonetradingservices.com",
+    "www.smartbeastnft.io",
     "www.shibaclubnfft.xyz",
     "beefybloke.com",
     "worldwidenft.live",
@@ -9597,6 +9600,9 @@
     ],
     "www.shibaclubnfft.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.smartbeastnft.io": [
+      "0x4db49fffe23b858325956f68d6c5660a175119ef"
     ]
   }
 }
