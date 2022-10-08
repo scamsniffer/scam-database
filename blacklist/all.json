@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "ethqz.top": [],
     "sparklemo.site": [],
     "rugradionft.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
@@ -246,10 +247,6 @@
     ],
     "whoopsies.live": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "coniun-freemint.live": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
-      "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
     ]
   },
   "address": [
@@ -718,6 +715,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "ethqz.top",
     "rugradionft.live",
     "www.wowmarketplace.app",
     "wowmarketplace.app",
