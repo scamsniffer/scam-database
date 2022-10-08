@@ -1,5 +1,13 @@
 {
   "newCombined": {
+    "giotex.org": [],
+    "akakomm.com": [
+      "0x38313c0668c897b6d591a69e0a9fdc9305e67b55"
+    ],
+    "www.hormald.xyz": [],
+    "www.akakomm.com": [
+      "0x38313c0668c897b6d591a69e0a9fdc9305e67b55"
+    ],
     "polarbearsnnft.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
@@ -270,19 +278,6 @@
     "knightsofdegen.live": [
       "0x082666f545ec0c9aa60f2f02d175da4955b954ae",
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "cryptyques.live": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "www.polarbearsnnft.xyz": [],
-    "ethereum-kmd.com": [
-      "0x2ad0875e63116e96eec7c4d38a726457b628dd68"
-    ],
-    "ethereum-anc.com": [
-      "0x2ad0875e63116e96eec7c4d38a726457b628dd68"
-    ],
-    "ethereum-troy.com": [
-      "0x2ad0875e63116e96eec7c4d38a726457b628dd68"
     ]
   },
   "address": [
@@ -751,6 +746,10 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "giotex.org",
+    "akakomm.com",
+    "www.hormald.xyz",
+    "www.akakomm.com",
     "polarbearsnnft.xyz",
     "shineonetradingservices.com",
     "www.smartbeastnft.io",
@@ -9606,6 +9605,12 @@
     ],
     "polarbearsnnft.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "akakomm.com": [
+      "0x38313c0668c897b6d591a69e0a9fdc9305e67b55"
+    ],
+    "www.akakomm.com": [
+      "0x38313c0668c897b6d591a69e0a9fdc9305e67b55"
     ]
   }
 }
