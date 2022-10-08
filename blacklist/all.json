@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "naviapes.com": [],
     "unusualsnail.me": [],
     "apegangnfft.xyz": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
@@ -237,13 +238,6 @@
     ],
     "tooniessocial.com": [
       "0xc74cdbbdfcfe02711dde8e7faca0f74186932414"
-    ],
-    "www.gem-freemint.com": [],
-    "0n1force.live": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "ninjalerts.live": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ]
   },
   "address": [
@@ -713,6 +707,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "naviapes.com",
     "unusualsnail.me",
     "apegangnfft.xyz",
     "kaijukingz.ink",
