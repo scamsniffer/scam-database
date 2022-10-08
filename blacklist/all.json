@@ -1,5 +1,8 @@
 {
   "newCombined": {
+    "nickeiodeonnft.com": [],
+    "digidaigku.com": [],
+    "fortunefreightforwarder.com": [],
     "www.mirsofspacenft.com": [],
     "boreddogs.io": [],
     "twitterscan.free-wl.com": [
@@ -92,7 +95,6 @@
     "donotmint.netlify.app": [],
     "gala-bakes.com": [],
     "onlyfansdao.fun": [],
-    "digidaigku.com": [],
     "kitaroworld.wl-premints.xyz": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
@@ -106,7 +108,6 @@
     "shitverse.live": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
-    "nickeiodeonnft.com": [],
     "thezerks.xyz": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
@@ -224,12 +225,7 @@
     "premit-therattrap.com": [],
     "www.premit-therattrap.com": [],
     "cryptominningsfx.com": [],
-    "monsterapecluub.xyz": [],
-    "www.drop.linkageeth.com": [],
-    "drop.linkageeth.com": [],
-    "remdao.xyz": [
-      "0x9b2754a30545d0f66ae90c1b44e686bf98595963"
-    ]
+    "monsterapecluub.xyz": []
   },
   "address": [
     "0x68ae722be0e8d360325e933bbd584de2a434f815",
@@ -698,6 +694,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "fortunefreightforwarder.com",
     "www.mirsofspacenft.com",
     "boreddogs.io",
     "twitterscan.free-wl.com",
