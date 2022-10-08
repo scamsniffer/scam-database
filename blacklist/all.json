@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "boreddogs.io": [],
     "twitterscan.free-wl.com": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
@@ -230,11 +231,7 @@
     "remdao.xyz": [
       "0x9b2754a30545d0f66ae90c1b44e686bf98595963"
     ],
-    "mail.remdao.xyz": [],
-    "0n1force.wl-nft.xyz": [],
-    "akidcalledbeast.wl-nft.xyz": [],
-    "bosotokyo.wl-nft.xyz": [],
-    "ambrusstudio.wl-nft.xyz": []
+    "mail.remdao.xyz": []
   },
   "address": [
     "0x68ae722be0e8d360325e933bbd584de2a434f815",
@@ -703,6 +700,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "boreddogs.io",
     "twitterscan.free-wl.com",
     "apiens.live",
     "garyveealphadiscord.com",
