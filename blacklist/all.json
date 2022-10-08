@@ -1,5 +1,9 @@
 {
   "newCombined": {
+    "rugradionft.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
+    ],
     "not.mintproofofstake.com": [],
     "www.wowmarketplace.app": [],
     "wowmarketplace.app": [],
@@ -248,13 +252,6 @@
       "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
     ],
     "jpegdnft.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "zenacademy.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529",
-      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923"
-    ],
-    "whisbenft.live": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   },
@@ -724,6 +721,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "rugradionft.live",
     "www.wowmarketplace.app",
     "wowmarketplace.app",
     "premint-hiddenkittencity.com",
@@ -9595,6 +9593,10 @@
     ],
     "www.akakomm.com": [
       "0x38313c0668c897b6d591a69e0a9fdc9305e67b55"
+    ],
+    "rugradionft.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
     ]
   }
 }
