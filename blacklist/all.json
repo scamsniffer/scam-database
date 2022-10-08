@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "sizequalityminings.com": [],
     "ogremetaverse.com": [],
     "therattrap.net": [],
     "miningsallphase.com": [],
@@ -216,10 +217,7 @@
     "rsxmayc.xyz": [],
     "www.rsxbayc.xyz": [],
     "mipnft.xyz": [],
-    "www.mipnft.xyz": [],
-    "www.billionclubnnft.xyz": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ]
+    "www.mipnft.xyz": []
   },
   "address": [
     "0x68ae722be0e8d360325e933bbd584de2a434f815",
@@ -688,6 +686,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "sizequalityminings.com",
     "ogremetaverse.com",
     "miningsallphase.com",
     "therattrap.net",
