@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "www.mirsofspacenft.com": [],
     "boreddogs.io": [],
     "twitterscan.free-wl.com": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
@@ -194,9 +195,7 @@
     "www.helix-metaverse.cyou": [
       "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
     ],
-    "www.remdao.xyz": [
-      "0x9b2754a30545d0f66ae90c1b44e686bf98595963"
-    ],
+    "www.remdao.xyz": [],
     "www.kitaro.bond": [
       "0x41126e19981eb1bbfe92b1d1cc4fe7104b044ab2"
     ],
@@ -700,6 +699,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "www.mirsofspacenft.com",
     "boreddogs.io",
     "twitterscan.free-wl.com",
     "apiens.live",
