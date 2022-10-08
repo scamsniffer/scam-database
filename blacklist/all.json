@@ -1,5 +1,11 @@
 {
   "newCombined": {
+    "mint-lonelypop.com": [
+      "0x68ae722be0e8d360325e933bbd584de2a434f815"
+    ],
+    "www.mint-lonelypop.com": [
+      "0x68ae722be0e8d360325e933bbd584de2a434f815"
+    ],
     "ethqz.top": [],
     "sparklemo.site": [],
     "rugradionft.live": [
@@ -238,18 +244,10 @@
     ],
     "mooncatsnft.live": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "undeadblocksnft.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "legendsofvenari.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "whoopsies.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   },
   "address": [
+    "0x68ae722be0e8d360325e933bbd584de2a434f815",
     "0x4db49fffe23b858325956f68d6c5660a175119ef",
     "0x86d021e4b742a7abcb6b12321b5f59fb419a167c",
     "0x1456f414f0cc6c37de766adc3b151e2edd531c50",
@@ -715,6 +713,8 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "mint-lonelypop.com",
+    "www.mint-lonelypop.com",
     "ethqz.top",
     "rugradionft.live",
     "www.wowmarketplace.app",
@@ -9592,6 +9592,12 @@
     "rugradionft.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
       "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
+    ],
+    "mint-lonelypop.com": [
+      "0x68ae722be0e8d360325e933bbd584de2a434f815"
+    ],
+    "www.mint-lonelypop.com": [
+      "0x68ae722be0e8d360325e933bbd584de2a434f815"
     ]
   }
 }
