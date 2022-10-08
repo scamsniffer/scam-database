@@ -1,5 +1,8 @@
 {
   "newCombined": {
+    "multicoin-pad.net": [
+      "0xc1f908863feca9f0b352d31606173d13fa113134"
+    ],
     "veeconnft.live": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
@@ -225,8 +228,7 @@
     ],
     "helix-metaverse.cyou": [
       "0x41126e19981eb1bbfe92b1d1cc4fe7104b044ab2"
-    ],
-    "kitaro.bond": []
+    ]
   },
   "address": [
     "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c",
@@ -696,6 +698,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "multicoin-pad.net",
     "alienfrensnft.live",
     "curiocards.live",
     "degeneracy.live",
@@ -9647,6 +9650,9 @@
     ],
     "degeneracy.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "multicoin-pad.net": [
+      "0xc1f908863feca9f0b352d31606173d13fa113134"
     ]
   }
 }
