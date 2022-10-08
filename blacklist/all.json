@@ -1,5 +1,6 @@
 {
   "newCombined": {
+    "not.mintproofofstake.com": [],
     "www.wowmarketplace.app": [],
     "wowmarketplace.app": [],
     "premint-hiddenkittencity.com": [],
@@ -254,9 +255,6 @@
       "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923"
     ],
     "whisbenft.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "xananft.live": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   },
