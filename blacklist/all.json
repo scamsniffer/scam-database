@@ -1,5 +1,8 @@
 {
   "newCombined": {
+    "few.tools": [
+      "0x0d09922df011ff94760bb01a2bc854a44c101074"
+    ],
     "brbmining.org": [],
     "packageheads.com": [],
     "multicoin-pad.net": [
@@ -222,10 +225,10 @@
     "free-invsblefriends.xyz": [
       "0x61018bdce873eb4a325b35471443bf4805f0da81"
     ],
-    "mutantapecartel.xyz": [],
-    "hormald.xyz": []
+    "mutantapecartel.xyz": []
   },
   "address": [
+    "0x0d09922df011ff94760bb01a2bc854a44c101074",
     "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c",
     "0x68ae722be0e8d360325e933bbd584de2a434f815",
     "0x4db49fffe23b858325956f68d6c5660a175119ef",
@@ -693,6 +696,7 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "few.tools",
     "brbmining.org",
     "packageheads.com",
     "multicoin-pad.net",
@@ -9650,6 +9654,9 @@
     ],
     "multicoin-pad.net": [
       "0xc1f908863feca9f0b352d31606173d13fa113134"
+    ],
+    "few.tools": [
+      "0x0d09922df011ff94760bb01a2bc854a44c101074"
     ]
   }
 }
