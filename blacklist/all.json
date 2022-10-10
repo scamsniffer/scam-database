@@ -1,388 +1,304 @@
 {
   "newCombined": {
-    "0xmoons.xyz": [],
-    "s4.kubersvap.com": [],
-    "tykesrewards.io": [],
-    "lasogette.freemintclaim.com": [],
-    "cosamonstrallowlist.com": [],
+    "invisiblefriends.web-freemint.com": [
+      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "eightbitnfts.xyz": [
+      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "galyversenft.net": [
+      "0x0df6001acdf8c85ab4571769a28571130aeec10c"
+    ],
+    "dev.twitter-events22.com": [],
+    "robotosnft.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "": [],
+    "www.thewinkiess1.xyz": [],
+    "www.markthehabibbi.xyz": [],
+    "www.kideighht.xyz": [],
+    "ethlizairds.xyz": [
+      "0x3569563839c4e308f09122126b4fad3ecaa99999"
+    ],
+    "nonfungiblestory.io": [],
+    "eggcellannd.xyz": [],
+    "nephalemnnft.xyz": [],
+    "www.thehappycatsnfft.xyz": [],
+    "leaguekingdomms.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "nikitabieer.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "mee6nft.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "www.leaguekingdomms.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "www.digidaigaku-spirit.com": [],
+    "mail.digidaigaku-spirit.com": [],
+    "mail.xn--apeunverse-1ub.xyz": [],
+    "www.xn--apeunverse-1ub.xyz": [],
+    "xn--apeunverse-1ub.xyz": [],
+    "apeunverse.xyz": [],
+    "mail.apeunverse.xyz": [],
+    "www.apeunverse.xyz": [],
+    "digidiagaku.xyz": [],
+    "mail.digidiagaku.xyz": [],
+    "www.digidiagaku.xyz": [],
+    "www.metasync-id.com": [],
+    "corntownwttf.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "www.streetmachine.org": [],
+    "ambrus-studio.xyz": [
+      "0x3569563839c4e308f09122126b4fad3ecaa99999"
+    ],
+    "niftypertal.xyz": [
+      "0x3569563839c4e308f09122126b4fad3ecaa99999"
+    ],
+    "mgxsco.xyz": [
+      "0x3569563839c4e308f09122126b4fad3ecaa99999"
+    ],
+    "www.tipmeacoffeee.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "www.supercutenfft.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "fuzzy-fighterrs.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "www.plutuslandnfft.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "toolsofrocknfft.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "sleepyslothssc.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "itremainsnfft.xyz": [],
+    "supercutenfft.xyz": [],
+    "alphatradezglobal.com": [],
+    "panolaexpress.com": [],
+    "www.panolaexpress.com": [],
+    "www.mrlandman.org": [],
+    "mrlandman.org": [],
+    "troublemaker.fun": [],
+    "mail.troublemaker.fun": [],
+    "machinanfts.xyz": [
+      "0xd2089ff4e050a29e85fb5a447f83628e2a697555",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "www.rumblemask.com": [],
+    "arzagames.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.arzagames.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "xn--addas-0sa.com": [],
+    "asciimetric-design-studio.com": [],
+    "chandrago.github.io": [],
+    "xn--addasoriginals-6fc.com": [],
+    "themaguus-nfts.free300mints.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "mint-renga.xyz": [],
+    "cryptowheelsclub.io": [
+      "0x6ae9a3937e9df8bff944ec0307e7d4748533c5f7"
+    ],
+    "sparklemo.site": [],
+    "bossbeautiies.xyz": [
+      "0x3569563839c4e308f09122126b4fad3ecaa99999",
+      "0x29a470bb2dd172340ec113ebdcc2f3ef762ab0a7"
+    ],
+    "www.invlsiblefriends.io": [
+      "0x05eb198b38bbb89c22247010672341572479cb16"
+    ],
+    "www.mrvivo.com": [],
     "metasync-id.com": [
       "0xe49a090d35566ed79c3a2c665476dcaca57ac01b"
     ],
-    "modernisnft.com": [],
-    "dexrestoration.com": [],
-    "thedogepound.live": [
+    "aceminersnft.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "ponzipanthers.io": [
+      "0x6ae9a3937e9df8bff944ec0307e7d4748533c5f7"
+    ],
+    "shiikig.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "superfulnft.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "fancybears.live": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "primeapeplanets.co": [],
+    "mint-kitaros.xyz": [
+      "0xe10da2c1edac5e2061b19b3504a7608142d96f59",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "www.vtb3000.ru": [],
+    "vtb3000.ru": [],
+    "genesishustler.com": [],
+    "xqui.wl-premint.cc": [
+      "0x3569563839c4e308f09122126b4fad3ecaa99999"
+    ],
+    "premint-rengabox.xyz": [],
+    "www.ledgerxtradingoption.com": [],
+    "ledgerxtradingoption.com": [],
+    "www.mint.xn--helxmetaverse-59b.com": [],
+    "pxquesst.free300mints.com": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "apecoinrewards.com": [],
+    "mail.apecoinrewards.com": [],
+    "othersidekeys.com": [],
+    "mail.othersidekeys.com": [],
+    "www.othersidekeys.com": [],
+    "exnessprofx.online": [],
+    "www.apecoinrewards.com": [],
+    "mintrenga.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "tat-nft.xyz": [],
+    "externalrisingtrade.com": [],
+    "gangsteralstar.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "www.metaflexer.club": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "bganpunks.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "evaverse-freemint.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "www.wolfgame-freemint.com": [],
+    "3gm-freemint.com": [
+      "0x82753c8853cd650699e23d42810587f07f98460d"
+    ],
+    "www.3gm-freemint.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "thechimpson.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.thechimpson.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "wolfgame-freemint.com": [],
+    "www.streetmcahine.com": [],
+    "streetmcahine.com": [],
+    "thisismuricanfts.com": [],
+    "www.thisismuricanfts.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.tokyonftslab.com": [],
+    "tokyonftslab.com": [],
+    "sansoundnft.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "trait-sniper.xyz": [
+      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "beeeeem-freemint.xyz": [],
+    "freemint-3landers.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "refik-anadol.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "www.sansoundnft.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "taunetworknft.xyz": [
+      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "spaceridersnft.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "alphacentaurikidnft.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "weaboveofficial.xyz": [
+      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "thehaasbrothers-freemint.xyz": [
       "0x34f3f4ba979e177a517970e014250cab61a80529",
       "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923"
     ],
-    "bosotokyo.live": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "gobiintowns.wtf": [
-      "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572"
-    ],
-    "office-gis.com": [],
-    "y00tsmoonbirds.xyz": [],
-    "heroesvillainsnft.xyz": [
-      "0x8987ed1907f3048e799d4a474d77261cbc5f9795"
-    ],
-    "www.outlook.kubersvvap.com": [],
-    "dreamlandggen.xyz": [
-      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
-    ],
-    "thelastabysss.xyz": [
-      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
-    ],
-    "www.outlook.kuberrswap.com": [],
-    "www.thelastabysss.xyz": [],
-    "troveoption.com": [],
-    "www.troveoption.com": [],
-    "mail.troveoption.com": [],
-    "blitmmap.xyz": [
-      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
-    ],
-    "nftmint.finance": [
-      "0xba4b97051c0c5dfe5127334f803bc1e75f0d6728"
-    ],
-    "tbachroniclles.xyz": [
-      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
-    ],
-    "thetravelforest.com": [],
-    "www.tbachroniclles.xyz": [
-      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
-    ],
-    "nickeiodeon.app": [],
-    "ikigaibox.art": [
-      "0x398e98b7c19db2f5df086eb4f83624146aa1ab53"
-    ],
-    "www.nabulinesnft.com": [
-      "0x3569563839c4e308f09122126b4fad3ecaa99999"
-    ],
-    "boredpixelapes.com": [],
-    "otheirside.xyz": [
-      "0x3569563839c4e308f09122126b4fad3ecaa99999"
-    ],
-    "oncybers.xyz": [
-      "0x3569563839c4e308f09122126b4fad3ecaa99999"
-    ],
-    "akakomm.com": [
-      "0x38313c0668c897b6d591a69e0a9fdc9305e67b55"
-    ],
-    "bitcoinmoon.finance": [],
-    "aswangtribenft.com": [
-      "0x3afa83bfed6cb8a57941a17608fa8f1e01c20e13"
-    ],
-    "": [
-      "0xaf642cb0cf417174815d833e6fae2adbb6e9c3c9"
-    ],
-    "budweiseruusa.xyz": [
-      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
-    ],
-    "ycsddao.xyz": [],
-    "thelazybunnynnft.xyz": [
-      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
-    ],
-    "cosmodinnos.xyz": [],
-    "premint-probablyalabelnft.xyz": [],
-    "www.coolcatsnft.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529",
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d"
-    ],
-    "www.primeapeplanet.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "boredapeyachtclub.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529",
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d"
-    ],
-    "llamaverse.wl-premint.com": [
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d",
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "primeapeplanet.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.boredapeyachtclub.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "doodles.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.doodles.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "boredanddangerous.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.woodlanderz.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529",
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d"
-    ],
-    "www.llamaverse.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.boredanddangerous.wl-premint.com": [
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d",
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "metaflexer.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "skydancer.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529",
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d"
-    ],
-    "woodlanderz.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.skydancer.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "naughtyz.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.beefyblokes.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "pecland.wl-premint.com": [
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d",
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.pecland.wl-premint.com": [
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d",
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.metaflexer.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "beefyblokes.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "kinkverse.wl-premint.com": [
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d",
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.kinkverse.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.naughtyz.wl-premint.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.otherside.wl-premints.xyz": [
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d",
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "otherside.wl-premints.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "cryptopunks.wl-premints.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "tracerofficial.wl-premints.xyz": [
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d"
-    ],
-    "www.tracerofficial.wl-premints.xyz": [
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d"
-    ],
-    "legendsofmetaverse.wl-premints.xyz": [
-      "0x2ba48341ec5d41e4c40d930c7e3b057bea6146b9"
-    ],
-    "www.legendsofmetaverse.wl-premints.xyz": [
-      "0x2ba48341ec5d41e4c40d930c7e3b057bea6146b9"
-    ],
-    "y00tsyachtclub.wl-premints.xyz": [
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d"
-    ],
-    "www.kitaroworld.wl-premints.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.y00tsyachtclub.wl-premints.xyz": [
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d"
-    ],
-    "www.cryptopunks.wl-premints.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.alienfrens.wl-premints.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.proof.wl-premints.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.los-muertos.wl-premints.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "alienfrens.wl-premints.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529",
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d"
-    ],
-    "proof.wl-premints.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.habbonft.wl-premints.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529",
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d"
-    ],
-    "los-muertos.wl-premints.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "habbonft.wl-premints.xyz": [
-      "0x7d8904598e5ec80ffb241349767a1840bd35d51d",
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.illuviummio.xyz": [],
-    "www.thelazybunnynnft.xyz": [],
-    "likapunkz.com": [],
-    "illuviummio.xyz": [],
-    "shibaclubnfft.free300mints.com": [],
-    "www.premint-beefyblokes.com": [],
-    "worldofwaifu.xyz": [],
-    "etherbabes.io": [],
-    "gakkonfts.xyz": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "xn--oxyaorgn-h2ab.com": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "be-vee.xyz": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "gangsterallstar.bond": [
-      "0x41126e19981eb1bbfe92b1d1cc4fe7104b044ab2"
-    ],
-    "genuineundead.wl-nft.xyz": [],
-    "helixmetaverse.live": [],
-    "hiddenkittencty.hey-mint.xyz": [],
-    "ezek.wl-nft.xyz": [],
-    "tatnft.wl-nft.xyz": [],
-    "eggcelland.wl-nft.xyz": [],
-    "lapixzero.wl-nft.xyz": [],
-    "www.heroesvillainsnft.xyz": [],
-    "frb-ltd.com": [],
-    "freemint-wl.com": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "stakecom.win": [],
-    "www.hiddenkittencty.hey-mint.xyz": [
-      "0x80b750e36eca41f0d5b96aefa875de133725044e"
-    ],
-    "www.parallelmint.com": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "playblankos.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "corntonw.com": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "www.corntonw.com": [
-      "0xc74cdbbdfcfe02711dde8e7faca0f74186932414",
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "parallelmint.com": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b",
-      "0xc74cdbbdfcfe02711dde8e7faca0f74186932414"
-    ],
-    "helixfreemint.com": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "gangsterall.com": [
-      "0xc74cdbbdfcfe02711dde8e7faca0f74186932414"
-    ],
-    "www.helixfreemint.com": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "6529re.com": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "www.eatcolective.com": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "www.gangsterall.com": [
-      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
-    ],
-    "sneakerheads-official.xyz": [
+    "arcade-official.xyz": [
       "0x082666f545ec0c9aa60f2f02d175da4955b954ae",
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
-    "munkonft.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529",
-      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923"
-    ],
-    "eatcolective.com": [],
-    "bullsapesproject.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "www.6529re.com": [],
-    "oxyaorigin-freemint.xyz": [
+    "atemcarclub-freemint.xyz": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
-    "genuineundeadnft.xyz": [
+    "crypto-chicksnft.xyz": [],
+    "rootroopnft.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "plurapeclubnft.xyz": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
       "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
     ],
-    "vspass.xyz": [
+    "freemint-alpacadabraz.xyz": [],
+    "theeverai.xyz": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
-    "footiumnft.xyz": [
+    "samuraisaganfts.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
+    ],
+    "gemmanft.xyz": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
-    "8pes-official.xyz": [
+    "gamanft.xyz": [
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae",
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
-    "neverfeartruth-freemint.xyz": [
+    "tokunappnft.xyz": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
-    "cloneforce-freemint.xyz": [
+    "sneaksofnature.live": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
-    "theparallax-freemint.xyz": [
+    "spiritgatesnft.xyz": [
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae",
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
-    "phantom-network.xyz": [
+    "io-shopping.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
+    ],
+    "metropolis-worldnft.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
+    ],
+    "highrise-freemint.xyz": [
       "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
     ],
-    "japanese-bapes.xyz": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "www.helixmints.com": [
-      "0xc74cdbbdfcfe02711dde8e7faca0f74186932414"
-    ],
-    "freemint-citydao.xyz": [
-      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
+    "metrograd.xyz": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "weirdoghostgangnft.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "galaxyfight-freemint.xyz": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "freemint-zinu.xyz": [],
-    "buffmonster.xyz": [],
-    "habbonft-freemint.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "luckyzeros-freemint.xyz": [],
-    "chainrunners-freemint.xyz": [],
-    "freemint-atsnft.xyz": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "tbachronicles-freemint.xyz": [
-      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
-    ],
-    "godhatosnftees.xyz": [
-      "0x3569563839c4e308f09122126b4fad3ecaa99999"
-    ],
-    "alphagang.live": [
-      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "coinmarketcap8.com": [],
-    "kitaroworld.wl-premints.xyz": [],
-    "cryptoelite.us": [],
-    "digitalcryptocurr.trade": [],
-    "brbmining.org": []
+    ]
   },
   "address": [
+    "0x0df6001acdf8c85ab4571769a28571130aeec10c",
+    "0x6ae9a3937e9df8bff944ec0307e7d4748533c5f7",
+    "0x29a470bb2dd172340ec113ebdcc2f3ef762ab0a7",
+    "0xe10da2c1edac5e2061b19b3504a7608142d96f59",
+    "0x82753c8853cd650699e23d42810587f07f98460d",
     "0xba4b97051c0c5dfe5127334f803bc1e75f0d6728",
     "0x3afa83bfed6cb8a57941a17608fa8f1e01c20e13",
     "0xaf642cb0cf417174815d833e6fae2adbb6e9c3c9",
@@ -855,6 +771,137 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "invisiblefriends.web-freemint.com",
+    "eightbitnfts.xyz",
+    "galyversenft.net",
+    "dev.twitter-events22.com",
+    "robotosnft.xyz",
+    "www.thewinkiess1.xyz",
+    "www.markthehabibbi.xyz",
+    "www.kideighht.xyz",
+    "ethlizairds.xyz",
+    "nonfungiblestory.io",
+    "eggcellannd.xyz",
+    "nephalemnnft.xyz",
+    "www.thehappycatsnfft.xyz",
+    "leaguekingdomms.xyz",
+    "nikitabieer.xyz",
+    "mee6nft.live",
+    "www.leaguekingdomms.xyz",
+    "www.digidaigaku-spirit.com",
+    "mail.digidaigaku-spirit.com",
+    "mail.xn--apeunverse-1ub.xyz",
+    "www.xn--apeunverse-1ub.xyz",
+    "xn--apeunverse-1ub.xyz",
+    "apeunverse.xyz",
+    "mail.apeunverse.xyz",
+    "www.apeunverse.xyz",
+    "digidiagaku.xyz",
+    "mail.digidiagaku.xyz",
+    "www.digidiagaku.xyz",
+    "www.metasync-id.com",
+    "corntownwttf.xyz",
+    "www.streetmachine.org",
+    "ambrus-studio.xyz",
+    "niftypertal.xyz",
+    "mgxsco.xyz",
+    "www.tipmeacoffeee.xyz",
+    "www.supercutenfft.xyz",
+    "fuzzy-fighterrs.xyz",
+    "www.plutuslandnfft.xyz",
+    "toolsofrocknfft.xyz",
+    "sleepyslothssc.xyz",
+    "itremainsnfft.xyz",
+    "supercutenfft.xyz",
+    "alphatradezglobal.com",
+    "panolaexpress.com",
+    "www.panolaexpress.com",
+    "www.mrlandman.org",
+    "mrlandman.org",
+    "troublemaker.fun",
+    "mail.troublemaker.fun",
+    "machinanfts.xyz",
+    "www.rumblemask.com",
+    "arzagames.com",
+    "www.arzagames.com",
+    "xn--addas-0sa.com",
+    "chandrago.github.io",
+    "xn--addasoriginals-6fc.com",
+    "themaguus-nfts.free300mints.com",
+    "mint-renga.xyz",
+    "cryptowheelsclub.io",
+    "bossbeautiies.xyz",
+    "www.mrvivo.com",
+    "aceminersnft.xyz",
+    "ponzipanthers.io",
+    "shiikig.xyz",
+    "superfulnft.xyz",
+    "fancybears.live",
+    "primeapeplanets.co",
+    "mint-kitaros.xyz",
+    "www.vtb3000.ru",
+    "vtb3000.ru",
+    "genesishustler.com",
+    "xqui.wl-premint.cc",
+    "premint-rengabox.xyz",
+    "www.ledgerxtradingoption.com",
+    "ledgerxtradingoption.com",
+    "www.mint.xn--helxmetaverse-59b.com",
+    "pxquesst.free300mints.com",
+    "apecoinrewards.com",
+    "mail.apecoinrewards.com",
+    "othersidekeys.com",
+    "mail.othersidekeys.com",
+    "www.othersidekeys.com",
+    "exnessprofx.online",
+    "www.apecoinrewards.com",
+    "mintrenga.xyz",
+    "tat-nft.xyz",
+    "externalrisingtrade.com",
+    "gangsteralstar.xyz",
+    "www.metaflexer.club",
+    "bganpunks.xyz",
+    "evaverse-freemint.xyz",
+    "www.wolfgame-freemint.com",
+    "3gm-freemint.com",
+    "www.3gm-freemint.com",
+    "thechimpson.com",
+    "www.thechimpson.com",
+    "wolfgame-freemint.com",
+    "www.streetmcahine.com",
+    "streetmcahine.com",
+    "thisismuricanfts.com",
+    "www.thisismuricanfts.com",
+    "www.tokyonftslab.com",
+    "tokyonftslab.com",
+    "sansoundnft.com",
+    "trait-sniper.xyz",
+    "beeeeem-freemint.xyz",
+    "freemint-3landers.xyz",
+    "refik-anadol.xyz",
+    "www.sansoundnft.com",
+    "taunetworknft.xyz",
+    "spaceridersnft.xyz",
+    "alphacentaurikidnft.xyz",
+    "weaboveofficial.xyz",
+    "thehaasbrothers-freemint.xyz",
+    "arcade-official.xyz",
+    "atemcarclub-freemint.xyz",
+    "crypto-chicksnft.xyz",
+    "rootroopnft.xyz",
+    "plurapeclubnft.xyz",
+    "freemint-alpacadabraz.xyz",
+    "theeverai.xyz",
+    "samuraisaganfts.xyz",
+    "gemmanft.xyz",
+    "gamanft.xyz",
+    "tokunappnft.xyz",
+    "sneaksofnature.live",
+    "spiritgatesnft.xyz",
+    "io-shopping.xyz",
+    "metropolis-worldnft.xyz",
+    "highrise-freemint.xyz",
+    "metrograd.xyz",
     "0xmoons.xyz",
     "s4.kubersvap.com",
     "tykesrewards.io",
@@ -10284,6 +10331,226 @@
     ],
     "alphagang.live": [
       "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "invisiblefriends.web-freemint.com": [
+      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "eightbitnfts.xyz": [
+      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "galyversenft.net": [
+      "0x0df6001acdf8c85ab4571769a28571130aeec10c"
+    ],
+    "robotosnft.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "ethlizairds.xyz": [
+      "0x3569563839c4e308f09122126b4fad3ecaa99999"
+    ],
+    "leaguekingdomms.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "nikitabieer.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "mee6nft.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "www.leaguekingdomms.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "corntownwttf.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "ambrus-studio.xyz": [
+      "0x3569563839c4e308f09122126b4fad3ecaa99999"
+    ],
+    "niftypertal.xyz": [
+      "0x3569563839c4e308f09122126b4fad3ecaa99999"
+    ],
+    "mgxsco.xyz": [
+      "0x3569563839c4e308f09122126b4fad3ecaa99999"
+    ],
+    "www.tipmeacoffeee.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "www.supercutenfft.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "fuzzy-fighterrs.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "www.plutuslandnfft.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "toolsofrocknfft.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "sleepyslothssc.xyz": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "machinanfts.xyz": [
+      "0xd2089ff4e050a29e85fb5a447f83628e2a697555",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "arzagames.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.arzagames.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "themaguus-nfts.free300mints.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "cryptowheelsclub.io": [
+      "0x6ae9a3937e9df8bff944ec0307e7d4748533c5f7"
+    ],
+    "bossbeautiies.xyz": [
+      "0x3569563839c4e308f09122126b4fad3ecaa99999",
+      "0x29a470bb2dd172340ec113ebdcc2f3ef762ab0a7"
+    ],
+    "aceminersnft.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "ponzipanthers.io": [
+      "0x6ae9a3937e9df8bff944ec0307e7d4748533c5f7"
+    ],
+    "shiikig.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "superfulnft.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "fancybears.live": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "mint-kitaros.xyz": [
+      "0xe10da2c1edac5e2061b19b3504a7608142d96f59",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "xqui.wl-premint.cc": [
+      "0x3569563839c4e308f09122126b4fad3ecaa99999"
+    ],
+    "pxquesst.free300mints.com": [
+      "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+    ],
+    "mintrenga.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "gangsteralstar.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "www.metaflexer.club": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "bganpunks.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "evaverse-freemint.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "3gm-freemint.com": [
+      "0x82753c8853cd650699e23d42810587f07f98460d"
+    ],
+    "www.3gm-freemint.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "thechimpson.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.thechimpson.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "www.thisismuricanfts.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "sansoundnft.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "trait-sniper.xyz": [
+      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "freemint-3landers.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "refik-anadol.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "www.sansoundnft.com": [
+      "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+    ],
+    "taunetworknft.xyz": [
+      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "spaceridersnft.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "alphacentaurikidnft.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "weaboveofficial.xyz": [
+      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "thehaasbrothers-freemint.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529",
+      "0x85b9ec2787d47b2cfc21445d19aba062cc3ce923"
+    ],
+    "arcade-official.xyz": [
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae",
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "atemcarclub-freemint.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "rootroopnft.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "plurapeclubnft.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
+    ],
+    "theeverai.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "samuraisaganfts.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
+    ],
+    "gemmanft.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "gamanft.xyz": [
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae",
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "tokunappnft.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "sneaksofnature.live": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "spiritgatesnft.xyz": [
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae",
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "io-shopping.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
+    ],
+    "metropolis-worldnft.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+      "0x082666f545ec0c9aa60f2f02d175da4955b954ae"
+    ],
+    "highrise-freemint.xyz": [
+      "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    ],
+    "metrograd.xyz": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ]
   }
