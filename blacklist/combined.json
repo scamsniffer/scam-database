@@ -5321,7 +5321,8 @@
     "0x34f3f4ba979e177a517970e014250cab61a80529"
   ],
   "gakkonfts.xyz": [
-    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+    "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
   ],
   "xn--oxyaorgn-h2ab.com": [
     "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
@@ -6365,13 +6366,15 @@
     "0x34f3f4ba979e177a517970e014250cab61a80529"
   ],
   "piratesmeta.live": [
-    "0x34f3f4ba979e177a517970e014250cab61a80529"
+    "0x34f3f4ba979e177a517970e014250cab61a80529",
+    "0xdcdcf1f321ae47eebbe94f695483529d03e52395"
   ],
   "mythicals.live": [
     "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
   ],
   "murinft.live": [
-    "0x9afdbc669f83f2eb81f5cb3c12d26454cb9c0e27"
+    "0x9afdbc669f83f2eb81f5cb3c12d26454cb9c0e27",
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
   ],
   "gamingapeclub.live": [
     "0x34f3f4ba979e177a517970e014250cab61a80529",
@@ -6770,5 +6773,152 @@
   ],
   "www.spiritgatse.com": [
     "0x82753c8853cd650699e23d42810587f07f98460d"
+  ],
+  "shellzorb.live": [
+    "0xdcdcf1f321ae47eebbe94f695483529d03e52395",
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "myherosidekicks.live": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "genzee.live": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "moonrunnersnft.live": [
+    "0xdcdcf1f321ae47eebbe94f695483529d03e52395",
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "treasureproject.live": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "bestpad-beta.net": [
+    "0x55c3f34c992cbac8d966609773fbc441dddd9c45",
+    "0x1d5071048370df50839c8879cdf5144ace4b3b3b"
+  ],
+  "bestpad-beta.com": [
+    "0x55c3f34c992cbac8d966609773fbc441dddd9c45"
+  ],
+  "genblok.vercel.app": [
+    "0x39f954c8674009e4bd03c4afb36ccaf1732d3f7b"
+  ],
+  "onchainbuccaneerz.com": [
+    "0xa2e01fd8f960f01b99d7b0c63c65f9f3cd0629cc"
+  ],
+  "samuraisagga.com": [
+    "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b",
+    "0xa2e01fd8f960f01b99d7b0c63c65f9f3cd0629cc"
+  ],
+  "adidasforgucci.xyz": [
+    "0x3569563839c4e308f09122126b4fad3ecaa99999"
+  ],
+  "webb-game.com": [
+    "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+  ],
+  "nft-bxh.com": [
+    "0xa2e01fd8f960f01b99d7b0c63c65f9f3cd0629cc",
+    "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+  ],
+  "dedafellaz.com": [
+    "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+  ],
+  "projetcatama.com": [
+    "0xa2e01fd8f960f01b99d7b0c63c65f9f3cd0629cc"
+  ],
+  "rebelbofs.com": [
+    "0xc75269b342c1b7f4cbb82e80a7986878ac0f545b"
+  ],
+  "premintcollection.buzz": [
+    "0xa7b1ae65d2f743870fb96950b3bdf0940f2d9b1a"
+  ],
+  "www.tsumachine.site": [
+    "0x38313c0668c897b6d591a69e0a9fdc9305e67b55"
+  ],
+  "xn--shbatoken-h5a.com": [
+    "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+  ],
+  "thedogepoundnft.bar": [
+    "0x3569563839c4e308f09122126b4fad3ecaa99999"
+  ],
+  "mint-drop.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "miuzium-mint.com": [
+    "0x586c60d10820efc2cf678ed7c01d373cb08444d8"
+  ],
+  "tiendazed.com": [
+    "0x6ffa15fd1fe59a09be1497df44e8e939308702b3"
+  ],
+  "rekt-guy.xyz": [
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+    "0x1d98505fcbae25a7e98265e5b015eef411c59568"
+  ],
+  "mail.airdrop-vulcan.xyz": [
+    "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572"
+  ],
+  "www.airdrop-vulcan.xyz": [
+    "0xa31573be292bd03d36db137b6c2ab6eaa3d5e572"
+  ],
+  "fknight.site": [
+    "0x38313c0668c897b6d591a69e0a9fdc9305e67b55"
+  ],
+  "www.rekt-guy.xyz": [
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+  ],
+  "wolfgame.cyou": [
+    "0x3569563839c4e308f09122126b4fad3ecaa99999"
+  ],
+  "www.giftedtigers.pre-mints.space": [
+    "0x19a72ea327b37e3650e1092abd724c723172962c"
+  ],
+  "oayc.pre-mints.space": [
+    "0x19a72ea327b37e3650e1092abd724c723172962c"
+  ],
+  "www.oayc.pre-mints.space": [
+    "0x19a72ea327b37e3650e1092abd724c723172962c"
+  ],
+  "avatizer.pre-mints.space": [
+    "0x19a72ea327b37e3650e1092abd724c723172962c"
+  ],
+  "www.avatizer.pre-mints.space": [
+    "0x19a72ea327b37e3650e1092abd724c723172962c"
+  ],
+  "thetriversenfft.xyz": [
+    "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+  ],
+  "www.thesandboxlands.org": [
+    "0xe9441766a8f01423f891d8b0395f2071f4d67504"
+  ],
+  "hello-charlie-mint.com": [
+    "0xccfd29158dfc8320cdd4b7ce7a3373805cfdda6e"
+  ],
+  "tatakai-game-mint.com": [
+    "0xccfd29158dfc8320cdd4b7ce7a3373805cfdda6e"
+  ],
+  "shinnoki-mint.com": [
+    "0xccfd29158dfc8320cdd4b7ce7a3373805cfdda6e"
+  ],
+  "whiko-land-mint.com": [
+    "0xccfd29158dfc8320cdd4b7ce7a3373805cfdda6e"
+  ],
+  "cyber-kongz.xyz": [
+    "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+  ],
+  "penguinkarts.xyz": [
+    "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+  ],
+  "rplanet.live": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "hiddenkittencity.xyz": [
+    "0xdcdcf1f321ae47eebbe94f695483529d03e52395",
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "boredgrapes.live": [
+    "0xdcdcf1f321ae47eebbe94f695483529d03e52395",
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "scribblesnft.xyz": [
+    "0xdcdcf1f321ae47eebbe94f695483529d03e52395",
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
   ]
 }
