@@ -6381,7 +6381,8 @@
     "0x9afdbc669f83f2eb81f5cb3c12d26454cb9c0e27"
   ],
   "possessed.live": [
-    "0x34f3f4ba979e177a517970e014250cab61a80529"
+    "0x34f3f4ba979e177a517970e014250cab61a80529",
+    "0xdcdcf1f321ae47eebbe94f695483529d03e52395"
   ],
   "akumudragonz.live": [
     "0x34f3f4ba979e177a517970e014250cab61a80529"
@@ -7079,7 +7080,8 @@
     "0x627fe14e789380067688058c1f23d16b0690eb2c"
   ],
   "starlofficial.xyz": [
-    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+    "0x627fe14e789380067688058c1f23d16b0690eb2c"
   ],
   "themetroverse.xyz": [
     "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
@@ -7131,5 +7133,188 @@
   ],
   "outland.freemint-drop.com": [
     "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+  ],
+  "projectshojira.give-freemint.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "www.claimreward.fun": [
+    "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "0x4fabb145d64652a948d72533023f6e7a623c7c53",
+    "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+    "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72"
+  ],
+  "psychedelic-nfft.xyz": [
+    "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+  ],
+  "moonnbirdss.xyz": [
+    "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c",
+    "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1"
+  ],
+  "sudoswapamm.com": [
+    "0xbc4ca0eda7647a8ab7c2061c2e118a18a936f13d"
+  ],
+  "bancor-tonp.com": [
+    "0x70010f3715a98bd30b6f235ef961c983656ef26d"
+  ],
+  "uniswap-defiserve.com": [
+    "0x6fd99b85200ff44ab2c667532d4f7166ca0aa230"
+  ],
+  "uniswap-defitop.com": [
+    "0x6fd99b85200ff44ab2c667532d4f7166ca0aa230"
+  ],
+  "www.rewardsys.site": [
+    "0x41e8a9188136cf26bda9bd33acbfd0bc808a025b"
+  ],
+  "www.moonnbirdss.xyz": [
+    "0xf3cc7bf7b8cf56bcbe500ff0af063383f97108f1",
+    "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+  ],
+  "www.cel-matees.xyz": [
+    "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+  ],
+  "apehaterclub.freemints-live.com": [
+    "0xdcdcf1f321ae47eebbe94f695483529d03e52395",
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "memelannd.xyz": [
+    "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+  ],
+  "uniswap-deficoncept.com": [
+    "0x6fd99b85200ff44ab2c667532d4f7166ca0aa230"
+  ],
+  "bancor-sorve.com": [
+    "0x70010f3715a98bd30b6f235ef961c983656ef26d"
+  ],
+  "aavee.one": [
+    "0x08bfd8a61f0dd9c2832c2d9d6ba6c032ff9f903a"
+  ],
+  "mint-yogapetz.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "nephalem.freemints-live.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "rplanetsnft.com": [
+    "0x307116674a0a2fdd50405d26699596c7f7d76db6"
+  ],
+  "piratebirdsnft.xyz": [
+    "0x8a25cf46d8170d4b3edf31b78ecd12d43994caab"
+  ],
+  "gangstamcecity.xyz": [
+    "0x9864d21466010ffac0305ba9e6039976aab40995",
+    "0x29a470bb2dd172340ec113ebdcc2f3ef762ab0a7"
+  ],
+  "boredapeyachtclub.openseaio.xyz": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529",
+    "0x6f0aa719dc5c85f594116c359f1f116944da35eb"
+  ],
+  "nftworlds.mintlive.org": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529",
+    "0x582a7558ee8950a8ac4a739c96c0eabf35e3bb50"
+  ],
+  "boredapeyachtclub.metamsak.buzz": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529",
+    "0xf5aa3da043b2f2a2207df5da098a0097c51d11bb"
+  ],
+  "bastardganpunks.xyz": [
+    "0x9864d21466010ffac0305ba9e6039976aab40995"
+  ],
+  "coinbasedefi.site": [
+    "0xbc1a7736c12dc64632fd51f16a5271a0bc202acd"
+  ],
+  "tigerbob.freemint-fast.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "airdrop-free.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "airdrop-discord.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529",
+    "0xb6a5b73a09d2baa393498bff8e6af502f57022db"
+  ],
+  "airdrop-discord.com.airdrop-collabland.cc": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529",
+    "0xb6a5b73a09d2baa393498bff8e6af502f57022db"
+  ],
+  "ethdefi.run": [
+    "0xbc1a7736c12dc64632fd51f16a5271a0bc202acd"
+  ],
+  "ethdefi.click": [
+    "0xbc1a7736c12dc64632fd51f16a5271a0bc202acd"
+  ],
+  "cultivate.live": [
+    "0x627fe14e789380067688058c1f23d16b0690eb2c",
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+  ],
+  "silliesnft.com": [
+    "0x865acd696c73d2a26ef4ff1a974c1fad6df3fb8d"
+  ],
+  "www.thesandboxgamme.xyz": [
+    "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+  ],
+  "chibiheadnft.fast-premint.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "www.ragstorichie.fast-premint.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "www.chibiheadnft.fast-premint.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "pixelvault.fast-premint.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529",
+    "0x7bc415201e3a17d6624b586aeaefd9e2a0b1b8b3"
+  ],
+  "www.pecland.fast-premint.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "www.kitaroworld.fast-premint.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529",
+    "0x7bc415201e3a17d6624b586aeaefd9e2a0b1b8b3"
+  ],
+  "www.poobs.fast-premint.com": [
+    "0x7bc415201e3a17d6624b586aeaefd9e2a0b1b8b3",
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "www.otherside.fast-premint.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "www.blokpax.fast-premint.com": [
+    "0x7bc415201e3a17d6624b586aeaefd9e2a0b1b8b3",
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "overbornenft.fast-premint.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529",
+    "0x7bc415201e3a17d6624b586aeaefd9e2a0b1b8b3"
+  ],
+  "ragstorichie.fast-premint.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "pecland.fast-premint.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "blokpax.fast-premint.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "lofilofts.fast-premint.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529",
+    "0x7bc415201e3a17d6624b586aeaefd9e2a0b1b8b3"
+  ],
+  "poobs.fast-premint.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529",
+    "0x7bc415201e3a17d6624b586aeaefd9e2a0b1b8b3"
+  ],
+  "www.overbornenft.fast-premint.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "www.lofilofts.fast-premint.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "www.tribo.fast-premint.com": [
+    "0x7bc415201e3a17d6624b586aeaefd9e2a0b1b8b3",
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
   ]
 }
