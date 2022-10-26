@@ -7555,7 +7555,8 @@
   ],
   "oncyber.give-mint.com": [
     "0x627fe14e789380067688058c1f23d16b0690eb2c",
-    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+    "0x0d524a5b52737c0a02880d5e84f7d20b8d66bfba"
   ],
   "phantabear.to-freemint.com": [
     "0x34f3f4ba979e177a517970e014250cab61a80529"
@@ -7592,5 +7593,81 @@
   ],
   "caw.community": [
     "0x69b66678ed3d62eea6e3a8b6c4ef9882d40c3568"
+  ],
+  "goblintown.minting-start.com": [
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+  ],
+  "fridaybeers.for-mint.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529",
+    "0xdcdcf1f321ae47eebbe94f695483529d03e52395"
+  ],
+  "birdezgang.for-mint.com": [
+    "0xdcdcf1f321ae47eebbe94f695483529d03e52395",
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "yogurtverse.give-mint.com": [
+    "0x0d524a5b52737c0a02880d5e84f7d20b8d66bfba",
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+  ],
+  "chainrunners.mint-living.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "onchain.your-freemint.com": [
+    "0xdcdcf1f321ae47eebbe94f695483529d03e52395",
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "guild.on-mint.com": [
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+  ],
+  "nftinit.your-freemint.com": [
+    "0xdcdcf1f321ae47eebbe94f695483529d03e52395",
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "hashmasks.give-mint.com": [
+    "0x0d524a5b52737c0a02880d5e84f7d20b8d66bfba",
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+  ],
+  "coinpad-next.com": [
+    "0xb8659dc05a5668e502009513e0bfa5cb9bf1579c"
+  ],
+  "coinpad-beta.com": [
+    "0x1d5071048370df50839c8879cdf5144ace4b3b3b"
+  ],
+  "nyolingsio.com": [
+    "0x0e0bb0cc029c221277329552403c976e1bd176d2"
+  ],
+  "www.nyolingsio.com": [
+    "0x0e0bb0cc029c221277329552403c976e1bd176d2"
+  ],
+  "kingshipio.com": [
+    "0x0e0bb0cc029c221277329552403c976e1bd176d2"
+  ],
+  "www.kingshipio.com": [
+    "0x0e0bb0cc029c221277329552403c976e1bd176d2"
+  ],
+  "aptoslaps.com": [
+    "0x0e0bb0cc029c221277329552403c976e1bd176d2"
+  ],
+  "premint-drop.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "www.meekicks.me": [
+    "0x5380f7544af0418f6bca40897536748cbd5ad2a9"
+  ],
+  "dudulab.netlify.app": [
+    "0xdf6f1a930e7a680f0cbcbcadfb1665529ec11a78"
+  ],
+  "thegraph.bond": [
+    "0xac7be03e3a2c30bcc7eec7f10146d41581f4fce2"
+  ],
+  "rplanetnfts.xyz": [
+    "0x935d9c4da96c55bedd432f0fa73f0958aed3d51b",
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "cryptopad-pro.org": [
+    "0x55c3f34c992cbac8d966609773fbc441dddd9c45"
+  ],
+  "infamousltd-reveal.com": [
+    "0x28c8d8709a341713bddb3f555de4ef4448e064dd"
   ]
 }
