@@ -7796,7 +7796,8 @@
     "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
   ],
   "boredapeyachtlclub.com": [
-    "0x710b5bb4552f20524232ae3e2467a6dc74b21982"
+    "0x710b5bb4552f20524232ae3e2467a6dc74b21982",
+    "0x52c30cff016658ac43089cb739cf6d6aba138997"
   ],
   "nyolings.wl-spost.com": [
     "0x85f1eea6c1159f68742c6c959a6a6d15daaf2471",
@@ -8031,5 +8032,103 @@
   "www.hashflow-fastmint.com": [
     "0x7a4a2cfe122f7d84759e486056d8628df7e86837",
     "0x61b006fb5017161ea27f01ba787f254119df960a"
+  ],
+  "ethereum-eth.xyz": [
+    "0x890bfe5aae1e8afc54bbcbf3c96903ee1c3f4156"
+  ],
+  "boredgrapes.fun": [
+    "0x3569563839c4e308f09122126b4fad3ecaa99999"
+  ],
+  "thecheetahsnft.xyz": [
+    "0x3569563839c4e308f09122126b4fad3ecaa99999"
+  ],
+  "www.digidaiqaku.com": [
+    "0x0b6ee39f2e3a6ea1787e2cdd43fcf48330ee3889"
+  ],
+  "coinbasedefi.me": [
+    "0xbc1a7736c12dc64632fd51f16a5271a0bc202acd"
+  ],
+  "revoker.business": [
+    "0xaf6ac70fc92952edcfbf253a48c77f731eacdc30",
+    "0x2a1c54e408c45d701df1f4eb1de1d7006322d64c",
+    "0x380dcded7e65d9752f9fb3ae15fb769b9fd32561"
+  ],
+  "imaginaryones-hugo.com": [
+    "0x667200d20087357f77a5b5e5805575285ee27571"
+  ],
+  "dfinity-nft.bar": [
+    "0x710b5bb4552f20524232ae3e2467a6dc74b21982"
+  ],
+  "azuki.freemint-webs.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "azuki.quick-mint.com": [
+    "0x6b175474e89094c44da98b954eedeac495271d0f"
+  ],
+  "vivitynft.art": [
+    "0xf0b9f6929e6a99a1e32c6a471ec85b9acfb42605",
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "looki-bab.xyz": [
+    "0x85f1eea6c1159f68742c6c959a6a6d15daaf2471",
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+  ],
+  "underground.wlsale.com": [
+    "0x85f1eea6c1159f68742c6c959a6a6d15daaf2471",
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+  ],
+  "whiko.pro": [
+    "0xf89964518fd091aae7dace0132f8ba81e726723b",
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+  ],
+  "nearprotocol.cyou": [
+    "0x710b5bb4552f20524232ae3e2467a6dc74b21982"
+  ],
+  "clonex.premint.zone": [
+    "0x21b764bd4bb1e1e1c8cd6f6037a13f10512939e8"
+  ],
+  "rplanet.quick-mint.com": [
+    "0x6b175474e89094c44da98b954eedeac495271d0f"
+  ],
+  "azuki.whitelist-drop.com": [
+    "0x7bc415201e3a17d6624b586aeaefd9e2a0b1b8b3",
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "cryptopunks.freemint-webs.com": [
+    "0xdcdcf1f321ae47eebbe94f695483529d03e52395",
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "genuineundead.free-whitelist.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529"
+  ],
+  "xn--artblcks-z3a.xyz": [
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+    "0x85f1eea6c1159f68742c6c959a6a6d15daaf2471"
+  ],
+  "poppinpigs.mint-nft.one": [
+    "0xff92104ffa62db76aa7fc9ec97442dacfe05e99c"
+  ],
+  "gala.ink": [
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+    "0x85f1eea6c1159f68742c6c959a6a6d15daaf2471"
+  ],
+  "warpsound.mint-freenft.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529",
+    "0xdcdcf1f321ae47eebbe94f695483529d03e52395"
+  ],
+  "tennischamps.mint-starts.com": [
+    "0x34f3f4ba979e177a517970e014250cab61a80529",
+    "0xdcdcf1f321ae47eebbe94f695483529d03e52395"
+  ],
+  "xn--digidaigak-wdb.xyz": [
+    "0x85f1eea6c1159f68742c6c959a6a6d15daaf2471",
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+  ],
+  "xn--ktaro-zsa.xyz": [
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43"
+  ],
+  "dented-feels.xyz": [
+    "0xb42e42c80f6af7b6afd8877f4853f0bbc0eb3a43",
+    "0x85f1eea6c1159f68742c6c959a6a6d15daaf2471"
   ]
 }
