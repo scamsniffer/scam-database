@@ -19,5 +19,5 @@ The blacklist directory contains two lists in JSON format:
 - [GitCoin](https://gitcoin.co/grants/6049/scam-sniffer)
 - [WebSite](https://scamsniffer.io/?utm_source=git-repo)
 
-## Contract Us
+## Contact Us
 - [Email](mailto:fun@scamsniffer.io) 
