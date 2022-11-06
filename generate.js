@@ -57,7 +57,7 @@ async function doGenerate(lastId = 1) {
 
   cacheData.combined = cacheData.combined || {};
 
-  const limit = firstRun ? 8000 : 200;
+  const limit = firstRun ? 50000 : 2000;
   const allList = await getRecentScamActivity(limit);
 
 
