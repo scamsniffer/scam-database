@@ -1,10 +1,375 @@
 {
   "newCombined": {
+    "achipalego.art": [],
+    "wellyofficial.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "exolienznfts.xyz": [],
+    "icytools-official.xyz": [],
+    "doodllees.com": [
+      "0xadf363c6090f911f20c1b59a99928bcb5eed0e5c"
+    ],
+    "nftinit-official.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "utilitiofficial.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "onchain-official.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "ttoonfts.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529",
+      "0xa5fa5d90ce4e1c41ea0da1d116ba6d3b270a12bf"
+    ],
+    "myria.lol": [
+      "0x0152f218ce980db7dc2871961bf239f9c8979fc0"
+    ],
+    "astrobot-society.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "www.lidoethfi.com": [],
+    "saudisnft.xyz": [],
+    "earlybirdsgenesis.xyz": [],
+    "chromies.io": [],
+    "originstrail.io": [
+      "0x82e29793c4a0785c556806a74b5fffca30f33d78"
+    ],
+    "blokpax.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "iootproject.xyz": [],
+    "p0ocoinapp.atspace.co.uk": [
+      "0x55d398326f99059ff775485246999027b3197955"
+    ],
+    "bbrcsofficial.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "mochimo-freemint.whitelist-project.live": [],
+    "capsulehouse.inmint.io": [
+      "0xf92e8f57795d50149319c5f4e28aef43afdb4645"
+    ],
+    "madenx.space": [],
+    "platp0ocoin.1gb.ru": [
+      "0x55d398326f99059ff775485246999027b3197955"
+    ],
+    "p0ocoin-site.atspace.tv": [
+      "0x55d398326f99059ff775485246999027b3197955"
+    ],
+    "xn--dgidaigaku-k8a.com": [],
+    "azurballa.com": [],
+    "www.qoocoin.com": [],
+    "suilabs.lol": [
+      "0x0152f218ce980db7dc2871961bf239f9c8979fc0"
+    ],
+    "cryptophunksv2.xyz": [],
+    "everdomeofficial.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "piratenation.enter-mint.com": [
+      "0xf92e8f57795d50149319c5f4e28aef43afdb4645"
+    ],
+    "veeconofficial.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
     "lilheroesofficial.xyz": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
+    "temp.magiceden-jo.com": [],
+    "nickelodeon.ink": [],
+    "git.git.git.git.git.git.finance.nnagiceden-io.com": [],
+    "git.git.git.git.git.git.outlook.magiiceden-jo.com": [],
+    "www.poiecioin.online": [],
+    "bayc8-love.xyz": [],
+    "www.bayc8-love.xyz": [],
+    "www.bayc3-love.xyz": [],
+    "www.penguinsmint.com": [],
+    "doodlicator.com": [],
+    "www.boredaapeyacchtclub.xyz": [],
+    "earn-bakerswap.org": [],
+    "stake-bekaryswap.org": [],
+    "earn-bekaryswap.org": [],
+    "bekaryswap.org": [],
+    "www.stake-bakerywap.org": [],
+    "www.bakerywap-stake.org": [],
+    "www.bekaryswap.org": [],
+    "www.earn-bakerswap.org": [],
+    "www.earn-bekaryswap.org": [],
+    "www.stake-bekaryswap.org": [],
+    "www.boredappeyacchtclub.xyz": [],
+    "bayc6-love.xyz": [],
+    "xn--supercuteword-7hc.com": [],
+    "www.borredapeyacchtclub.xyz": [],
+    "pixelmonnfts.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "premint-renganfts.xyz": [],
+    "premint.app": [],
+    "unleashednfts.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529",
+      "0xa5fa5d90ce4e1c41ea0da1d116ba6d3b270a12bf"
+    ],
+    "www.testing-acme-yet-again.scl.svic.comcast.comover.sttqkeqamble.com": [],
+    "www.dns.kubersvvap.com": [],
+    "crypto-bull.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "coinbasedefi.one": [
+      "0xbc1a7736c12dc64632fd51f16a5271a0bc202acd"
+    ],
+    "airdrop-synthetix.io": [],
+    "zeriondapp.netlify.app": [],
+    "stakingaavee.com": [],
+    "earn-airdrops.org": [],
+    "otherside-keymeta.xyz": [],
+    "newmining28.com": [],
+    "app-implit.online": [],
+    "www.meekicks.tech": [],
+    "bayc5-love.xyz": [],
+    "git.git.git.git.git.git.outlook.mqgiiceden-lo.com": [],
+    "bnbu9.com": [],
+    "www.bearfriends.live": [],
+    "app-poalacolin.online": [],
+    "airdrop-stargate.finance": [
+      "0xb296b3508478e6ccb040d62622a37a0c27cbeda1"
+    ],
+    "fantom.claims": [],
+    "kprversemints.com": [],
+    "azukixambush.com": [],
+    "capsule-adidas.com": [],
+    "contracts-eth.com": [],
+    "rftkts.com": [],
+    "bakerywap-stake.org": [],
+    "alpha-otherside.xyz": [],
+    "app-pandao.xyz": [],
+    "enter-mint.com": [
+      "0xf92e8f57795d50149319c5f4e28aef43afdb4645"
+    ],
+    "forzahorizon5nft.xyz": [
+      "0x8a25cf46d8170d4b3edf31b78ecd12d43994caab"
+    ],
+    "veefriendsalpha.org": [],
+    "stake-bakerywap.org": [],
+    "azukiskates.xyz": [],
+    "limitedwl.xyz": [
+      "0xb511a1e1fee0e2a41ce40e50b63325b22ff40225"
+    ],
+    "nft-premint.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "vip-mint.com": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "bestcoin-next.net": [
+      "0xd313bd618d061b727b6203ebacef98a42086178f"
+    ],
+    "renga-eth.com": [],
+    "piratenation-game.xyz": [],
+    "git.git.git.git.git.git.finance.mnfiihanse.com": [],
+    "git.git.git.git.git.git.finance.mqgiceden-lo.com": [],
+    "git.git.git.git.git.git.correo.traderjjoe.xyz": [],
+    "git.git.report.twitter-events22.com": [],
+    "ghxsts-official.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "9dccofficial.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "sneakyninjanfts.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "otc-gigatrade.xyz": [],
+    "chromies-squiggles.io": [],
+    "prtx.blog": [
+      "0xcc2af1d923de3e8d79fbe650b4cc2859425dd356"
+    ],
+    "centersforchristiandevelopment.net": [
+      "0xdbd895b56e12e126b52be182412eed8f1398114f"
+    ],
+    "www.raydiam.io": [],
+    "ledgerofficial.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529",
+      "0xa5fa5d90ce4e1c41ea0da1d116ba6d3b270a12bf"
+    ],
+    "shinzo-minting.net": [
+      "0x4d6a07ad7e7870e5d0fe4bb3d0a6a4c7d5e15f56"
+    ],
+    "ced-149.ru": [],
+    "ced-151.ru": [],
+    "www.baycanimation.xyz": [],
+    "tripspace.site": [],
+    "tgrifters.xyz": [],
+    "wbirds.xyz": [],
+    "www.wbirds.xyz": [],
+    "www.tgrifters.xyz": [],
+    "binance-ftt.com": [],
+    "www.binance-ftt.com": [],
+    "mail.binance-ftt.com": [],
+    "xn--pratenation-zzb.xyz": [],
+    "imptl-buy.link": [],
+    "imptl-buy.online": [],
+    "imptl-buy.store": [],
+    "imptl-buy.shop": [],
+    "www.imptl-buy.link": [],
+    "www.imptl-buy.online": [],
+    "www.imptl-buy.store": [],
+    "www.imptl-buy.shop": [],
+    "meekicks.fun": [],
+    "mail.matterblocks.xyz": [],
+    "matterblocks.xyz": [],
+    "aptoslabsclaim.com": [],
+    "sappyseals.premint-sale.com": [
+      "0x1ca08eafe910fd5f940f6bf2d79b9c3074092ad2"
+    ],
+    "www.meekicks.store": [],
+    "theirsversenfts.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "1inch-app.net": [],
+    "xn--zuk-dla7d.com": [],
+    "rtfkt.premint.app": [],
+    "animemetaverses.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "token-pad.com": [],
+    "garbege-friends.com": [],
+    "azuki-merch.com": [],
+    "sappysealsmint.com": [],
+    "yu-gi-yn-mint.com": [],
+    "mbhmint.com": [],
+    "lilhottiesmint.com": [],
+    "dropapecoin.com": [],
+    "daigakudigi.com": [],
+    "killabearsmint.com": [],
+    "www.smashmarbles.xyz": [],
+    "claimchainlink.com": [],
+    "kprmint.com": [],
+    "binance-defimining.com": [],
+    "git.git.git.git.git.git.ns.twitter-events22.com": [],
+    "git.git.git.git.git.games.twitter-eventt22.com": [],
+    "www.mintplaonft.xyz": [],
+    "git.git.git.git.git.git.finance.maqiseden-lo.com": [],
+    "git.gitlab.gitlab.gitlab.git.git.sv.twitter-events22.com": [],
+    "git.git.git.finance.magiiceeden-lo.com": [],
+    "eth-finance.io": [],
+    "twitterblues.com": [],
+    "contact-gegevens.ced-164.ru": [],
+    "contact-gegevens.ced-166.ru": [],
+    "contact-gegevens.ced-165.ru": [],
+    "git.git.git.git.outlook.magiiceden-jo.com": [],
+    "contact-gegevens.ced-168.ru": [],
+    "lidostake.finance": [],
+    "inmtpi-app.online": [],
+    "ethlidofi.com": [],
+    "fusionist.nftfree-mint.com": [
+      "0x7d975ed609b30b95b6eff132cb551f4be82d5b75"
+    ],
+    "ethminer-zil.com": [
+      "0x4b7862c779617e4705c9c66c266ea9cb530875e6"
+    ],
+    "bybits.tech": [],
+    "collab-land.de": [],
+    "mining8866.com": [],
+    "www.twitterbiue.com": [],
+    "verify-twitterblue.com": [],
+    "www.twitterblue-connect.com": [],
+    "coin-metamask.com": [],
+    "partybearnfts.xyz": [
+      "0xa5fa5d90ce4e1c41ea0da1d116ba6d3b270a12bf",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "truspad-eth.com": [
+      "0xa473bfbe93e07c8eabf00aa69a3a99f812f461a7"
+    ],
+    "mutantcartelnft.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "git.git.git.gmail.mqgiiceden-lo.com": [],
+    "binancekc.com": [],
+    "binanceyy.com": [],
+    "binanceww.com": [],
+    "git.git.git.git.git.git.gmail.stqkegamble.com": [],
+    "shellprotocol.xyz": [
+      "0x7d975ed609b30b95b6eff132cb551f4be82d5b75"
+    ],
+    "airdrop.shellprotocol.xyz": [
+      "0x7d975ed609b30b95b6eff132cb551f4be82d5b75"
+    ],
+    "www.shellprotocol.xyz": [
+      "0x7d975ed609b30b95b6eff132cb551f4be82d5b75"
+    ],
+    "reveal-kprverse.com": [],
+    "optimism-airdrop.app": [],
+    "poeocione-app.click": [],
+    "batlieinfintiey.click": [],
+    "batlieinfintiey.cloud": [],
+    "batlieinfintiey.one": [],
+    "tamadiogies.cloud": [],
+    "soeraire.click": [],
+    "www.tamadiogies.cloud": [],
+    "www.tamadiogies.one": [],
+    "www.soeraire.click": [],
+    "www.soeraire.one": [],
+    "poeocione-app.one": [],
+    "www.batlieinfintiey.one": [],
+    "www.batlieinfintiey.cloud": [],
+    "www.poeocione-app.one": [],
+    "animazer-nft.com": [],
+    "www.animazer-nft.com": [],
+    "www.artblocks.fidenza-mint.io": [],
+    "www.iotex-claim.xyz": [],
+    "defisyncprotoco.com": [],
+    "www.defisyncprotoco.com": [],
+    "sushibits.xyz": [],
+    "metamaskairdrop.com": [],
+    "metamasks.click": [],
+    "balancer.cn.com": [],
+    "metamask-airdrop.com": [],
+    "git.git.gmail.ppolkastarter.com": [],
+    "git.git.git.git.git.git.gmail.lunnav2.com": [],
+    "git.git.gmail.maqiseden-lo.com": [],
+    "www.doodles.rewardlive.xyz": [],
+    "mail.layerzero-network.com": [],
+    "www.binance-ftx.net": [],
+    "www.layerzero-network.com": [],
+    "pancakezswap.finance": [],
+    "terraformsbymathcastles.art": [],
+    "creawearables.fun": [],
+    "flavatool.xyz": [],
+    "mail.creawearables.fun": [],
+    "mail.flavatool.xyz": [
+      "0x5380f7544af0418f6bca40897536748cbd5ad2a9"
+    ],
+    "theirsverse-nft.xyz": [],
+    "xn--ft-q3s.com": [],
+    "xn--fx-s0s.com": [],
+    "rktfkt.com": [],
+    "layerzero-network.com": [],
+    "xn--artgobblrs-4q3e.com": [],
+    "synthetix.claims": [],
+    "artblocks.contraction.io": [],
+    "twitter-biue.com": [],
+    "apecoinxblur.io": [],
+    "vesperfinance.network": [],
+    "fallguysnft.xyz": [],
+    "www.fashionfemaleape.club": [],
+    "rebrand.ly": [],
+    "www.riseofmusashi.com": [],
+    "www.superboys.xyz": [],
+    "www.matterblocks.xyz": [],
+    "xn--uniswp-7za.org": [],
+    "www.posloicoin.online": [],
+    "www.posloicoin-app.online": [],
+    "premint.host": [
+      "0x4c117d7895c5d2268163009f70dd44c24ab7f504",
+      "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
+    ],
+    "rtfkt-airdrops.com": [],
+    "claimwombat.netlify.app": [],
+    "claimworm.com": [],
+    "git.git.git.git.git.git.ipfixe.twitter-eventt22.com": [],
     "doopicatornft.com": [],
-    "veeconofficial.xyz": [
+    "degenz-freemint.xyz": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
     "www.themutantnft.xyz": [],
@@ -17,7 +382,6 @@
       "0x34f3f4ba979e177a517970e014250cab61a80529",
       "0xa5fa5d90ce4e1c41ea0da1d116ba6d3b270a12bf"
     ],
-    "metamask-airdrop.com": [],
     "raydium.bio": [],
     "www.apps-poalacolin.online": [],
     "zksynctoken.com": [
@@ -30,7 +394,6 @@
       "0xf92e8f57795d50149319c5f4e28aef43afdb4645"
     ],
     "airdrop.binance-ftx.net": [],
-    "renga-eth.com": [],
     "avengedsevenfold.today-livesale.com": [],
     "overline.today-livesale.com": [],
     "www.billing.kubersvvap.com": [],
@@ -43,9 +406,6 @@
     "mail.project-animus.net": [],
     "www.jenskinsthevalet.com": [],
     "www.pudgsypenguin.xyz": [
-      "0x7d975ed609b30b95b6eff132cb551f4be82d5b75"
-    ],
-    "airdrop.shellprotocol.xyz": [
       "0x7d975ed609b30b95b6eff132cb551f4be82d5b75"
     ],
     "boreddapeyacchtclub.xyz": [],
@@ -82,22 +442,17 @@
     "finance.oppenseq.com": [],
     "git.git.git.git.git.finance.llunqv2.com": [],
     "binamce-football.com": [],
-    "binance-defimining.com": [],
     "saphire-nft.xyz": [
       "0x9864d21466010ffac0305ba9e6039976aab40995"
     ],
     "nftgirls.me": [
       "0xee159f2ddf07d2cf159db071551fa3152b0f938b"
     ],
-    "degenz-freemint.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
     "git.git.git.git.git.cs.kubersvvap.com": [],
     "doodlee.xyz": [
       "0x685e7db34eae3320fe1673b1507c12b6a6a19324"
     ],
     "goe-defi.net": [],
-    "premint.app": [],
     "quirkies-nft.xyz": [
       "0x9864d21466010ffac0305ba9e6039976aab40995"
     ],
@@ -148,7 +503,6 @@
     "ether-realm.xyz": [],
     "www.kpr-verse.ether-realm.xyz": [],
     "hextokenairdrop.com": [],
-    "artblocks.contraction.io": [],
     "poeocione-app.cloud": [],
     "poeocione-app.pro": [],
     "doge-club.xyz": [
@@ -251,7 +605,6 @@
       "0x4d6a07ad7e7870e5d0fe4bb3d0a6a4c7d5e15f56"
     ],
     "rtfktsnovember.com": [],
-    "www.matterblocks.xyz": [],
     "xn--goblintwn-msd.wtf": [],
     "premintclub.xyz": [
       "0xa5fa5d90ce4e1c41ea0da1d116ba6d3b270a12bf",
@@ -269,7 +622,6 @@
     "token-blur.io": [],
     "fmex.netlify.app": [],
     "ninja-dao.net": [],
-    "rebrand.ly": [],
     "market.kubersvvap.com": [],
     "gala-airdrop.com": [],
     "genuineundead.xyz": [],
@@ -278,7 +630,6 @@
     "azuki.tops-mint.com": [
       "0x6b175474e89094c44da98b954eedeac495271d0f"
     ],
-    "fallguysnft.xyz": [],
     "www.polsoclins-app.online": [],
     "premint-app.xyz": [
       "0x1f07134ec1885031ee9f7efc000f7be58531a4f5"
@@ -392,9 +743,6 @@
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
     "kaijukingznfts.xyz": [
-      "0x34f3f4ba979e177a517970e014250cab61a80529"
-    ],
-    "pixelmonnfts.xyz": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
     ],
     "nft-factoryparis.xyz": [
@@ -530,7 +878,6 @@
     ],
     "qqlproof.art": [],
     "goe-eth.com": [],
-    "theirsverse-nft.xyz": [],
     "winwincoin-eth.com": [],
     "enstoolsnft.xyz": [
       "0x34f3f4ba979e177a517970e014250cab61a80529"
@@ -549,10 +896,6 @@
     "animusnft-claim.com": [],
     "dapps-erc.com": [],
     "pixels-premint.com": [],
-    "premint.host": [
-      "0x4c117d7895c5d2268163009f70dd44c24ab7f504",
-      "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48"
-    ],
     "rtfkt-clodida.io": [],
     "othersidesmetas.xyz": [],
     "www.poloicolin-app.online": [],
@@ -928,7 +1271,6 @@
     "kprverse.org": [],
     "xn--paaswap-hob.com": [],
     "earn-bakerywap.org": [],
-    "premint-renganfts.xyz": [],
     "earn-bakerywap.site": [],
     "1lncn.pro": [],
     "rtfkt-animus.art": [],
@@ -1555,165 +1897,17 @@
     "people0fcrypto.wl-fastmint.com": [],
     "kumaleon.airdrops-mint.com": [],
     "tykes.wl-spots-mint.com": [],
-    "kiliabears.com": [],
-    "theoreonft.com": [],
-    "pulsesbitcoin.com": [],
-    "asense.fi": [],
-    "murakamiflowers.web.app": [],
-    "xn--doodls-m4a.com": [],
-    "nwstate.vercel.app": [],
-    "othersideland-airdrop.xyz": [],
-    "metamask-online.com": [],
-    "huxley.wl-giveaway.com": [],
-    "pixelmon.giving-mint.com": [],
-    "exchangesmart.org": [],
-    "worldofwomen.wl-spots-mint.com": [],
-    "pixelgenii.xyz": [],
-    "apexlegendsnft.xyz": [],
-    "callofdutymw2nft.xyz": [],
-    "dmyard.fun": [],
-    "opensea.io.blacknessblue.co.za": [
-      "0xd17552cb589f3fbc2ddf479170b36849d3c56fdc"
-    ],
-    "opensea.io.bonsavonsoaps.com": [
-      "0xd17552cb589f3fbc2ddf479170b36849d3c56fdc"
-    ],
-    "spacerpg.netlify.app": [],
-    "www.callofdutymw2nft.xyz": [],
-    "crypttvscamp.com": [],
-    "thecheetahnfts.com": [],
-    "www.footballstars.fun": [],
-    "finalpixel.fun": [],
-    "zombuddies.xyz": [],
-    "holoframe.space": [],
-    "mail.holoframe.space": [],
-    "mail.zombuddies.xyz": [],
-    "cosmicway.io": [],
-    "nft.hosbra.com": [],
-    "ethereum-rise.com": [],
-    "dentedfeels-nft.xyz": [],
-    "dentedfeels-nft.xyz.whitelist-spots.com": [],
-    "www.dentedfeels-nft.xyz.whitelist-spots.com": [],
-    "swiftful.net": [],
-    "opensea-blogs.com": [],
-    "othersidemeta.wl-giveaway.com": [],
-    "tamgoadeapp.tech": [],
-    "algernetwork.bar": [],
-    "outland.wl-giveaway.com": [],
-    "artsgobblers.com": [],
-    "san.airdrops-mint.com": [],
-    "coolcats.wl-spots-mint.com": [],
-    "thesandbox.cyou": [],
-    "ensdomains.cyou": [],
-    "decentraland.wl-giveaway.com": [],
-    "www.mclarenautto.xyz": [],
-    "digidaigaku.mint-safe.xyz": [],
-    "cryptoninjadao.xyz": [],
-    "rimowa-rtfkt.xyz": [],
-    "live-goblintown.wtf": [],
-    "app-kava.online": [],
-    "www.swiftful.net": [],
-    "xn--truthlbs-eza.co": [],
-    "xn--apts-n3a.com": [],
-    "digidaigiaku.com": [],
-    "app-kava.store": [],
-    "everybodysfun.fun": [],
-    "genesis.wl-fastmint.com": [],
-    "ringsc.fun": [],
-    "rahuligma.com": [],
-    "medievalmonkeys.netlify.app": [],
-    "www.sischan.com": [],
-    "www.daisen.fi": [],
-    "ringstao.com": [],
-    "otherside.freemint-webs.com": [],
-    "xn--su-lja.com": [],
-    "rtfkt-x-jordan23.com": [],
-    "suivault.io": [
-      "0x912632eacb36cedb9cac05e21ae71a694eedcad5"
-    ],
-    "eth-vip.com": [],
-    "ethdt.vip": [],
-    "www.mintgoblintown.com": [],
-    "mintgoblintown.com": [],
-    "www.tatakai.games": [],
-    "rplanetnft.io": [],
-    "www.git.git.git.static1.ttraderjoe.xyz": [],
-    "sischan.com": [],
-    "www.reddit-collect.com": [],
-    "mail.reddit-collect.com": [],
-    "xn--zkync-wdb.com": [],
-    "polygon-mint.bond": [],
-    "aptosincor.com": [
-      "0x912632eacb36cedb9cac05e21ae71a694eedcad5"
-    ],
-    "xn--rtfk-26a.com": [],
-    "apepool.org": [],
-    "www.pooicone.shop": [],
-    "aptosfond.com": [],
-    "algerclub.mintcollab.com": [],
-    "imnpt-buy.online": [],
-    "ilpmt-buy.online": [],
-    "lumens.mint-safe.xyz": [],
-    "otherside.dropreward.xyz": [],
-    "everybodys.quick-mint.com": [],
-    "www.imnpt-buy.online": [],
-    "www.implt-buy.online": [],
-    "www.ilpmt-buy.online": [],
-    "get-protocol.org": [],
-    "11captainsclub.mintcollab.com": [],
-    "satoshiverse.mint-starts.com": [],
-    "rplanet.mint-official.top": [],
-    "rtfkt.mint-official.top": [],
-    "airdrop.layerzeronetwork.net": [],
-    "rplanet-mint.netlify.app": [],
-    "www.mintcollab.com": [],
-    "rtfkt.freemint-webs.com": [],
-    "rtfkt.quick-mint.com": [],
-    "popartcats.mint-starts.com": [],
-    "claim-kitaro.com": [],
-    "eventazuki.com": [],
-    "potatoz-memeland.info": [],
-    "habbonft.promo": [],
-    "paoalaicoin-app.online": [],
-    "shibtoken.bar": [],
-    "aptosladss.com": [],
-    "live-uniswap.com": [],
-    "quiet-chaja-dcefec.netlify.app": [],
-    "rtfkt-animus.com": [],
-    "renga-claim.com": [],
-    "uniswaplab.com": [],
-    "www.thecheetahsnft.xyz.cosmo-heroes.store": [],
-    "thecheetahsnft.xyz.cosmo-heroes.store": [],
-    "boredgrapes.cosmo-heroes.store": [],
-    "www.boredgrapes.cosmo-heroes.store": [],
-    "www.aptosfoundatlon.cosmo-heroes.store": [],
-    "xn--tfkt-4g5a.com": [],
-    "event-trustpad.com": [],
-    "onewordbrick.mint-starts.com": [],
-    "www.xn--apts-n3a.com": [],
-    "xn--rarble-yk8b.com": [],
-    "xn--optimsm-3ya.com": [],
-    "www.gangster.mint-collab.com": [],
-    "appvaults.net": [],
-    "www.dentedfeels.mint-collab.com": [],
-    "underground.mint-nftfree.com": [],
-    "coolcats.freemint-webs.com": [],
-    "www.pooicone.online": [],
-    "othersidemeta.quick-mint.com": [],
-    "beanz.dropreward.xyz": [],
-    "mintmitama.netlify.app": [],
-    "www.underground.mint-nftfree.com": [],
-    "akutars.mintcollab.com": [],
-    "www.akutars.mintcollab.com": [],
-    "xn--va-nja.exchange": [],
-    "doodles.freemint-webs.com": [],
-    "lazyapeyachtclub.mint-starts.com": [],
-    "nft.hasbro.cam": [],
-    "shrapnel.airdrop-minting.com": [],
-    "beyondearth.mint-freenfts.com": [],
-    "aopandaparty.mintcollab.com": []
+    "kiliabears.com": []
   },
   "address": [
+    "0xadf363c6090f911f20c1b59a99928bcb5eed0e5c",
+    "0x0152f218ce980db7dc2871961bf239f9c8979fc0",
+    "0x82e29793c4a0785c556806a74b5fffca30f33d78",
+    "0xb296b3508478e6ccb040d62622a37a0c27cbeda1",
+    "0xcc2af1d923de3e8d79fbe650b4cc2859425dd356",
+    "0xdbd895b56e12e126b52be182412eed8f1398114f",
+    "0x1ca08eafe910fd5f940f6bf2d79b9c3074092ad2",
+    "0x4b7862c779617e4705c9c66c266ea9cb530875e6",
     "0x2b22d1256fbffed294c83624c08a79d63be13a12",
     "0xee159f2ddf07d2cf159db071551fa3152b0f938b",
     "0xb511a1e1fee0e2a41ce40e50b63325b22ff40225",
@@ -2376,6 +2570,250 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "achipalego.art",
+    "wellyofficial.xyz",
+    "exolienznfts.xyz",
+    "icytools-official.xyz",
+    "doodllees.com",
+    "nftinit-official.xyz",
+    "utilitiofficial.xyz",
+    "onchain-official.xyz",
+    "ttoonfts.xyz",
+    "myria.lol",
+    "astrobot-society.xyz",
+    "www.lidoethfi.com",
+    "saudisnft.xyz",
+    "earlybirdsgenesis.xyz",
+    "chromies.io",
+    "originstrail.io",
+    "blokpax.xyz",
+    "iootproject.xyz",
+    "p0ocoinapp.atspace.co.uk",
+    "bbrcsofficial.xyz",
+    "mochimo-freemint.whitelist-project.live",
+    "capsulehouse.inmint.io",
+    "madenx.space",
+    "platp0ocoin.1gb.ru",
+    "p0ocoin-site.atspace.tv",
+    "xn--dgidaigaku-k8a.com",
+    "azurballa.com",
+    "www.qoocoin.com",
+    "suilabs.lol",
+    "cryptophunksv2.xyz",
+    "everdomeofficial.xyz",
+    "piratenation.enter-mint.com",
+    "temp.magiceden-jo.com",
+    "nickelodeon.ink",
+    "git.git.git.git.git.git.finance.nnagiceden-io.com",
+    "git.git.git.git.git.git.outlook.magiiceden-jo.com",
+    "www.poiecioin.online",
+    "bayc8-love.xyz",
+    "www.bayc8-love.xyz",
+    "www.bayc3-love.xyz",
+    "www.penguinsmint.com",
+    "doodlicator.com",
+    "www.boredaapeyacchtclub.xyz",
+    "earn-bakerswap.org",
+    "stake-bekaryswap.org",
+    "earn-bekaryswap.org",
+    "bekaryswap.org",
+    "www.stake-bakerywap.org",
+    "www.bakerywap-stake.org",
+    "www.bekaryswap.org",
+    "www.earn-bakerswap.org",
+    "www.earn-bekaryswap.org",
+    "www.stake-bekaryswap.org",
+    "www.boredappeyacchtclub.xyz",
+    "bayc6-love.xyz",
+    "xn--supercuteword-7hc.com",
+    "www.borredapeyacchtclub.xyz",
+    "unleashednfts.xyz",
+    "www.testing-acme-yet-again.scl.svic.comcast.comover.sttqkeqamble.com",
+    "www.dns.kubersvvap.com",
+    "crypto-bull.xyz",
+    "airdrop-synthetix.io",
+    "zeriondapp.netlify.app",
+    "stakingaavee.com",
+    "earn-airdrops.org",
+    "otherside-keymeta.xyz",
+    "newmining28.com",
+    "app-implit.online",
+    "www.meekicks.tech",
+    "bayc5-love.xyz",
+    "git.git.git.git.git.git.outlook.mqgiiceden-lo.com",
+    "www.bearfriends.live",
+    "app-poalacolin.online",
+    "airdrop-stargate.finance",
+    "fantom.claims",
+    "kprversemints.com",
+    "azukixambush.com",
+    "capsule-adidas.com",
+    "contracts-eth.com",
+    "rftkts.com",
+    "bakerywap-stake.org",
+    "alpha-otherside.xyz",
+    "app-pandao.xyz",
+    "enter-mint.com",
+    "forzahorizon5nft.xyz",
+    "veefriendsalpha.org",
+    "stake-bakerywap.org",
+    "azukiskates.xyz",
+    "limitedwl.xyz",
+    "nft-premint.xyz",
+    "vip-mint.com",
+    "bestcoin-next.net",
+    "piratenation-game.xyz",
+    "git.git.git.git.git.git.finance.mnfiihanse.com",
+    "git.git.git.git.git.git.finance.mqgiceden-lo.com",
+    "git.git.git.git.git.git.correo.traderjjoe.xyz",
+    "git.git.report.twitter-events22.com",
+    "ghxsts-official.xyz",
+    "9dccofficial.xyz",
+    "sneakyninjanfts.xyz",
+    "otc-gigatrade.xyz",
+    "chromies-squiggles.io",
+    "prtx.blog",
+    "centersforchristiandevelopment.net",
+    "www.raydiam.io",
+    "ledgerofficial.xyz",
+    "shinzo-minting.net",
+    "ced-149.ru",
+    "ced-151.ru",
+    "www.baycanimation.xyz",
+    "tripspace.site",
+    "tgrifters.xyz",
+    "wbirds.xyz",
+    "www.wbirds.xyz",
+    "www.tgrifters.xyz",
+    "binance-ftt.com",
+    "www.binance-ftt.com",
+    "mail.binance-ftt.com",
+    "xn--pratenation-zzb.xyz",
+    "imptl-buy.link",
+    "imptl-buy.online",
+    "imptl-buy.store",
+    "imptl-buy.shop",
+    "www.imptl-buy.link",
+    "www.imptl-buy.online",
+    "www.imptl-buy.store",
+    "www.imptl-buy.shop",
+    "meekicks.fun",
+    "mail.matterblocks.xyz",
+    "matterblocks.xyz",
+    "aptoslabsclaim.com",
+    "sappyseals.premint-sale.com",
+    "www.meekicks.store",
+    "theirsversenfts.xyz",
+    "1inch-app.net",
+    "xn--zuk-dla7d.com",
+    "rtfkt.premint.app",
+    "animemetaverses.xyz",
+    "token-pad.com",
+    "garbege-friends.com",
+    "azuki-merch.com",
+    "sappysealsmint.com",
+    "yu-gi-yn-mint.com",
+    "mbhmint.com",
+    "lilhottiesmint.com",
+    "dropapecoin.com",
+    "daigakudigi.com",
+    "killabearsmint.com",
+    "www.smashmarbles.xyz",
+    "claimchainlink.com",
+    "kprmint.com",
+    "git.git.git.git.git.git.ns.twitter-events22.com",
+    "git.git.git.git.git.games.twitter-eventt22.com",
+    "www.mintplaonft.xyz",
+    "git.git.git.git.git.git.finance.maqiseden-lo.com",
+    "git.gitlab.gitlab.gitlab.git.git.sv.twitter-events22.com",
+    "git.git.git.finance.magiiceeden-lo.com",
+    "eth-finance.io",
+    "twitterblues.com",
+    "contact-gegevens.ced-164.ru",
+    "contact-gegevens.ced-166.ru",
+    "contact-gegevens.ced-165.ru",
+    "git.git.git.git.outlook.magiiceden-jo.com",
+    "contact-gegevens.ced-168.ru",
+    "lidostake.finance",
+    "inmtpi-app.online",
+    "ethlidofi.com",
+    "fusionist.nftfree-mint.com",
+    "ethminer-zil.com",
+    "bybits.tech",
+    "collab-land.de",
+    "mining8866.com",
+    "www.twitterbiue.com",
+    "verify-twitterblue.com",
+    "www.twitterblue-connect.com",
+    "coin-metamask.com",
+    "partybearnfts.xyz",
+    "truspad-eth.com",
+    "mutantcartelnft.xyz",
+    "git.git.git.gmail.mqgiiceden-lo.com",
+    "binancekc.com",
+    "binanceyy.com",
+    "binanceww.com",
+    "git.git.git.git.git.git.gmail.stqkegamble.com",
+    "shellprotocol.xyz",
+    "www.shellprotocol.xyz",
+    "reveal-kprverse.com",
+    "optimism-airdrop.app",
+    "poeocione-app.click",
+    "batlieinfintiey.click",
+    "batlieinfintiey.cloud",
+    "batlieinfintiey.one",
+    "tamadiogies.cloud",
+    "soeraire.click",
+    "www.tamadiogies.cloud",
+    "www.tamadiogies.one",
+    "www.soeraire.click",
+    "www.soeraire.one",
+    "poeocione-app.one",
+    "www.batlieinfintiey.one",
+    "www.batlieinfintiey.cloud",
+    "www.poeocione-app.one",
+    "animazer-nft.com",
+    "www.animazer-nft.com",
+    "www.artblocks.fidenza-mint.io",
+    "www.iotex-claim.xyz",
+    "defisyncprotoco.com",
+    "www.defisyncprotoco.com",
+    "sushibits.xyz",
+    "metamaskairdrop.com",
+    "metamasks.click",
+    "balancer.cn.com",
+    "git.git.gmail.ppolkastarter.com",
+    "git.git.git.git.git.git.gmail.lunnav2.com",
+    "git.git.gmail.maqiseden-lo.com",
+    "www.doodles.rewardlive.xyz",
+    "mail.layerzero-network.com",
+    "www.binance-ftx.net",
+    "www.layerzero-network.com",
+    "pancakezswap.finance",
+    "terraformsbymathcastles.art",
+    "creawearables.fun",
+    "flavatool.xyz",
+    "mail.creawearables.fun",
+    "mail.flavatool.xyz",
+    "xn--ft-q3s.com",
+    "xn--fx-s0s.com",
+    "rktfkt.com",
+    "layerzero-network.com",
+    "xn--artgobblrs-4q3e.com",
+    "synthetix.claims",
+    "twitter-biue.com",
+    "apecoinxblur.io",
+    "vesperfinance.network",
+    "www.fashionfemaleape.club",
+    "www.riseofmusashi.com",
+    "www.superboys.xyz",
+    "xn--uniswp-7za.org",
+    "www.posloicoin.online",
+    "www.posloicoin-app.online",
+    "rtfkt-airdrops.com",
+    "claimwombat.netlify.app",
+    "claimworm.com",
+    "git.git.git.git.git.git.ipfixe.twitter-eventt22.com",
     "lilheroesofficial.xyz",
     "doopicatornft.com",
     "veeconofficial.xyz",
@@ -20115,6 +20553,145 @@
     ],
     "p0oc0in.online": [
       "0x55d398326f99059ff775485246999027b3197955"
+    ],
+    "wellyofficial.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "doodllees.com": [
+      "0xadf363c6090f911f20c1b59a99928bcb5eed0e5c"
+    ],
+    "nftinit-official.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "utilitiofficial.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "onchain-official.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "ttoonfts.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529",
+      "0xa5fa5d90ce4e1c41ea0da1d116ba6d3b270a12bf"
+    ],
+    "myria.lol": [
+      "0x0152f218ce980db7dc2871961bf239f9c8979fc0"
+    ],
+    "astrobot-society.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "originstrail.io": [
+      "0x82e29793c4a0785c556806a74b5fffca30f33d78"
+    ],
+    "blokpax.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "p0ocoinapp.atspace.co.uk": [
+      "0x55d398326f99059ff775485246999027b3197955"
+    ],
+    "bbrcsofficial.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "capsulehouse.inmint.io": [
+      "0xf92e8f57795d50149319c5f4e28aef43afdb4645"
+    ],
+    "platp0ocoin.1gb.ru": [
+      "0x55d398326f99059ff775485246999027b3197955"
+    ],
+    "p0ocoin-site.atspace.tv": [
+      "0x55d398326f99059ff775485246999027b3197955"
+    ],
+    "suilabs.lol": [
+      "0x0152f218ce980db7dc2871961bf239f9c8979fc0"
+    ],
+    "everdomeofficial.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "piratenation.enter-mint.com": [
+      "0xf92e8f57795d50149319c5f4e28aef43afdb4645"
+    ],
+    "unleashednfts.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529",
+      "0xa5fa5d90ce4e1c41ea0da1d116ba6d3b270a12bf"
+    ],
+    "crypto-bull.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "airdrop-stargate.finance": [
+      "0xb296b3508478e6ccb040d62622a37a0c27cbeda1"
+    ],
+    "enter-mint.com": [
+      "0xf92e8f57795d50149319c5f4e28aef43afdb4645"
+    ],
+    "forzahorizon5nft.xyz": [
+      "0x8a25cf46d8170d4b3edf31b78ecd12d43994caab"
+    ],
+    "limitedwl.xyz": [
+      "0xb511a1e1fee0e2a41ce40e50b63325b22ff40225"
+    ],
+    "nft-premint.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "vip-mint.com": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "bestcoin-next.net": [
+      "0xd313bd618d061b727b6203ebacef98a42086178f"
+    ],
+    "ghxsts-official.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "9dccofficial.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "sneakyninjanfts.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "prtx.blog": [
+      "0xcc2af1d923de3e8d79fbe650b4cc2859425dd356"
+    ],
+    "centersforchristiandevelopment.net": [
+      "0xdbd895b56e12e126b52be182412eed8f1398114f"
+    ],
+    "ledgerofficial.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529",
+      "0xa5fa5d90ce4e1c41ea0da1d116ba6d3b270a12bf"
+    ],
+    "shinzo-minting.net": [
+      "0x4d6a07ad7e7870e5d0fe4bb3d0a6a4c7d5e15f56"
+    ],
+    "sappyseals.premint-sale.com": [
+      "0x1ca08eafe910fd5f940f6bf2d79b9c3074092ad2"
+    ],
+    "theirsversenfts.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "animemetaverses.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "fusionist.nftfree-mint.com": [
+      "0x7d975ed609b30b95b6eff132cb551f4be82d5b75"
+    ],
+    "ethminer-zil.com": [
+      "0x4b7862c779617e4705c9c66c266ea9cb530875e6"
+    ],
+    "partybearnfts.xyz": [
+      "0xa5fa5d90ce4e1c41ea0da1d116ba6d3b270a12bf",
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "truspad-eth.com": [
+      "0xa473bfbe93e07c8eabf00aa69a3a99f812f461a7"
+    ],
+    "mutantcartelnft.xyz": [
+      "0x34f3f4ba979e177a517970e014250cab61a80529"
+    ],
+    "shellprotocol.xyz": [
+      "0x7d975ed609b30b95b6eff132cb551f4be82d5b75"
+    ],
+    "www.shellprotocol.xyz": [
+      "0x7d975ed609b30b95b6eff132cb551f4be82d5b75"
+    ],
+    "mail.flavatool.xyz": [
+      "0x5380f7544af0418f6bca40897536748cbd5ad2a9"
     ]
   }
 }
