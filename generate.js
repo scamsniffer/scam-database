@@ -93,8 +93,8 @@ async function doGenerate(lastId = 1) {
   const newAddress = [];
 
   // console.log("firstRun", firstRun, allFile);
-  console.log(allList.days[allList.days.length - 1], firstRun)
-  return 
+  // console.log(allList.days[allList.days.length - 1], firstRun)
+  // return 
 
   allList.domains.forEach((domain) => {
     if (cacheData.domains.indexOf(domain) === -1) {
@@ -124,6 +124,38 @@ async function doGenerate(lastId = 1) {
 
   allList.address = [].concat(newAddress, cacheData.address);
   allList.domains = [].concat(newDomains, cacheData.domains);
+
+
+  for (let index = 0; index < allList.days.length; index++) {
+    const dayData = allList.days[index];
+    const allFile = archiveDir + `${dayData.day}.json`;
+    let cacheData = {
+      domains: [],
+      address: []
+    };
+    if (fs.existsSync(allFile)) {
+      cacheData = JSON.parse(fs.readFileSync(allFile, "utf-8"));
+    }
+
+    const newDomains = [];
+    const newAddress = [];
+
+    allList.domains.forEach((domain) => {
+      if (cacheData.domains.indexOf(domain) === -1) {
+        newDomains.push(domain);
+      }
+    });
+    
+    allList.address.forEach((address) => {
+      if (cacheData.address.indexOf(address) === -1) {
+        newAddress.push(address);
+      }
+    });
+  
+    allList.address = [].concat(newAddress, cacheData.address);
+    allList.domains = [].concat(newDomains, cacheData.domains);
+    fs.writeFileSync(allFile, JSON.stringify(allList, null, 2));
+  }
 
   fs.writeFileSync(allFile, JSON.stringify(allList, null, 2));
   fs.writeFileSync(addressFile, JSON.stringify(allList.address, null, 2));
