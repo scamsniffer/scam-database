@@ -93,7 +93,7 @@ async function doGenerate(lastId = 1) {
   const newAddress = [];
 
   // console.log("firstRun", firstRun, allFile);
-  console.log(allList.days[allList.days.length - 1])
+  console.log(allList.days[allList.days.length - 1], firstRun)
   return 
 
   allList.domains.forEach((domain) => {
