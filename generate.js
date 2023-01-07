@@ -40,7 +40,7 @@ async function getRecentScamActivity(limit = 100) {
       address:[]
     };
 
-    indexByDay[day].domain.push(_.host);
+    if (_.host) indexByDay[day].domain.push(_.host);
     combined[_.host] = combined[_.host] || [];
 
     list.forEach(address => {
