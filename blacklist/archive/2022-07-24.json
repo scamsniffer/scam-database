@@ -1,0 +1,23 @@
+{
+  "domains": [
+    "nft-uniswap.store",
+    "nft-uniswap.org",
+    "metamaskcomm.com",
+    "degen-angel.com",
+    "nickelodeon-claim.xyz",
+    "othersideclaims.xyz",
+    "maskedmonkey.art",
+    "mintdoodles.net",
+    "army-ape.netlify.app",
+    "theakira.netlify.app",
+    "degenghost.com"
+  ],
+  "address": [
+    "0xc5602b6d8f56a145779495d0e21685d5d99c4907",
+    "0x47bca5a8fe8d395cb6aa974d0e54d8681cb9cf3d",
+    "0xed6f630c0829cb786d8c83aa51eb611143708ec3",
+    "0x8e133cbac54740f9c908d53bbc01b510fe180c7e",
+    "0x27a2778c60efae6b4bc0d7521fbf05f724f8dc3d",
+    "0xe3fea8f9c97424e5fad95c11a89baaffb157fc17"
+  ]
+}
