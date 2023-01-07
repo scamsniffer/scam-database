@@ -1,5 +1,14 @@
 {
   "newCombined": {
+    "thecaptainz.co": [
+      "0xa9cfc982a66d0134fee2539cfd633559fb5cf9a0"
+    ],
+    "www.chainzoku.world": [],
+    "eaglewarrior.xyz": [
+      "0xab45b218954f0c5c8a88e0b9b33b4c4852c67a5c"
+    ],
+    "metamaskdapp.app": [],
+    "puffer-fish.xyz": [],
     "bullvbear.world": [
       "0x422e922f018d6661375a7139a89839328aa130dc"
     ],
@@ -337,7 +346,6 @@
     "t.ly": [],
     "www.agori.xyz": [],
     "www.meebitsdao.fun": [],
-    "www.chainzoku.world": [],
     "puma-nitro.xyz": [],
     "www.0xdecaart2-free.xyz": [
       "0xb6cee95674be83dbc0e600f60257b8a2141a8b1a",
@@ -1345,10 +1353,6 @@
     "kybersvvak.com": [],
     "rewards-uniswap.info": [
       "0x6d5a8ca1eb1ad2e4873b8da3a3c2452635b3da8a"
-    ],
-    "www.opensea.io.offer.fundacober.cl": [],
-    "mee6web3.com": [
-      "0x1818db4f1689c01a418c48c4aff9a7c510a155f5"
     ]
   },
   "address": [
@@ -2326,6 +2330,9 @@
     "0x7fb2224cc00a8d9106ac9280abde1e2f480f4f41"
   ],
   "domains": [
+    "thecaptainz.co",
+    "eaglewarrior.xyz",
+    "puffer-fish.xyz",
     "bullvbear.world",
     "www.meekicks.world",
     "mail.agori.xyz",
@@ -33888,6 +33895,12 @@
     ],
     "senchocaptainz.com": [
       "0xa9cfc982a66d0134fee2539cfd633559fb5cf9a0"
+    ],
+    "thecaptainz.co": [
+      "0xa9cfc982a66d0134fee2539cfd633559fb5cf9a0"
+    ],
+    "eaglewarrior.xyz": [
+      "0xab45b218954f0c5c8a88e0b9b33b4c4852c67a5c"
     ]
   }
 }
