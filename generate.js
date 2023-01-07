@@ -156,7 +156,8 @@ async function doGenerate(lastId = 1) {
     allList.domains = [].concat(newDomains, cacheData.domains);
     fs.writeFileSync(allFile, JSON.stringify(allList, null, 2));
   }
-
+  
+  return ;
   fs.writeFileSync(allFile, JSON.stringify(allList, null, 2));
   fs.writeFileSync(addressFile, JSON.stringify(allList.address, null, 2));
   fs.writeFileSync(domainFile, JSON.stringify(allList.domains, null, 2));
