@@ -11,7 +11,7 @@ const archiveDir = __dirname + "/blacklist/archive/";
 
 async function getRecentScamActivity(limit = 100) {
   const req = await fetch(
-    `${API}/scamActivity?sort=-id&limit=${limit}&fields=address,host,action`
+    `${API}/scamActivity?sort=-id&limit=${limit}&fields=address,host,action,time`
   );
   const list = await req.json();
   let allAddressList = [];
