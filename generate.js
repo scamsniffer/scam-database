@@ -128,6 +128,10 @@ async function doGenerate(lastId = 1) {
 
   for (let index = 0; index < allList.days.length; index++) {
     const dayData = allList.days[index];
+    const listData = {
+      domains: dayData.domains,
+      address: dayData.address
+    };
     const allFile = archiveDir + `${dayData.day}.json`;
     let cacheData = {
       domains: [],
@@ -140,21 +144,21 @@ async function doGenerate(lastId = 1) {
     const newDomains = [];
     const newAddress = [];
 
-    allList.domains.forEach((domain) => {
+    listData.domains.forEach((domain) => {
       if (cacheData.domains.indexOf(domain) === -1) {
         newDomains.push(domain);
       }
     });
     
-    allList.address.forEach((address) => {
+    listData.address.forEach((address) => {
       if (cacheData.address.indexOf(address) === -1) {
         newAddress.push(address);
       }
     });
   
-    allList.address = [].concat(newAddress, cacheData.address);
-    allList.domains = [].concat(newDomains, cacheData.domains);
-    fs.writeFileSync(allFile, JSON.stringify(allList, null, 2));
+    listData.address = [].concat(newAddress, cacheData.address);
+    listData.domains = [].concat(newDomains, cacheData.domains);
+    fs.writeFileSync(allFile, JSON.stringify(listData, null, 2));
   }
   
   return ;
