@@ -1,0 +1,15 @@
+{
+  "domains": [
+    "anatomic-ape.netlify.app",
+    "bored-ape-reincarnated.netlify.app",
+    "premint-pass.xyz",
+    "meta-monsters.xyz",
+    "trapstatue.netlify.app"
+  ],
+  "address": [
+    "0xd2de285bff16440977e6b529b3a79c55130193a8",
+    "0xd67580f10d3740342113c2451be45a557ebab42e",
+    "0xb49dcb0036b03fe13480bf9d55c9694f225bdb2e",
+    "0x7087c50aaf47dd3236ae138abaf21b299d7c9331"
+  ]
+}
