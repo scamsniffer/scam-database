@@ -27,6 +27,15 @@ async function getRecentScamActivity(limit = 100) {
     if (actions.indexOf('transferETH') > -1 && actions.length === 1) {
       return;
     }
+
+    const timeLeft = Date.now() - new Date(_.time).getTime();
+    const interval = 86400 * 1000 * 4;
+
+    if (timeLeft < interval) {
+      return;
+    }
+
+
     const list = _.address.split(",").map((_) => _.toLowerCase()).filter((c) => c && c != "");
     allAddressList = allAddressList.concat(
       list
