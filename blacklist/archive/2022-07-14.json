@@ -1,0 +1,27 @@
+{
+  "domains": [
+    "thecodepunk.netlify.app",
+    "get-adidas.com",
+    "savagekittens.wtf",
+    "uniswapclaim.store",
+    "airdropuniswap.com",
+    "v3lpuniswap.com",
+    "uniswaplpv3.com",
+    "uniswapv3lp.com"
+  ],
+  "address": [
+    "0x095c20a07bc1133b8aad3ff5e3583b43dfe5c565",
+    "0x75134927e043e8b6e628ecb91891448773662cb1",
+    "0x392054abfd4054aed7c151299da7b2171a11db35",
+    "0xf564b6d2a092d26a33fb77161c67b6b09e8f4528",
+    "0x7088e7ad395921c403af490ef282e6f067b827f9",
+    "0x8239fc719f4fb9184eb3d1c50f79a9b52b23ed1b",
+    "0xffb2b004d89983d55dda6beb927b7d43fbfadf7f",
+    "0xcab2fd99e002fb29e4ac6aacda371971de1f6bf8",
+    "0xd9d49546c9353f6ebfd6ee28c6db506ca0645381",
+    "0x112893f553d48a3917475fec16867a063d15e89d",
+    "0xeab5fd5c3c781514c1264730fcfd8420e6df6e8e",
+    "0x51d2bf67faaf714c248e5624e02ac74d75378f47",
+    "0x66366e33b26965700b006f536ee618a6cd1dd158"
+  ]
+}
