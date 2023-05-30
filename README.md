@@ -26,7 +26,7 @@ The blacklist directory contains two lists in JSON format:
 - [Detector API](https://docs.scamsniffer.io/api/detector-api) - Provide malicious website scanning service for web3 platform
 
 ## Update Frequency
-Update daily and with 3 days delay. If you want the real-time result, Please take look at our [Lookup API](https://docs.scamsniffer.io/apis/lookup-api)
+Update daily and with 3 days delay. If you want the real-time result, Please take look at our [Lookup API](https://docs.scamsniffer.io/reference/getsitecheck)
 
 ## Contact Us
 - [Email](mailto:fun@scamsniffer.io) 
