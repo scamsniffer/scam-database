@@ -190,6 +190,11 @@ async function getRecentScamActivity(limit = 100) {
       return;
     }
 
+    const hasRedirect = !_.link.includes(_.host);
+    if (hasRedirect) {
+      return;
+    }
+
     const timeLeft = Date.now() - new Date(_.time).getTime();
     const interval = 86400 * 1000 * 3;
 
