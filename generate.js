@@ -168,7 +168,7 @@ const recallList = [
 
 async function getRecentScamActivity(limit = 100) {
   const req = await fetch(
-    `${API}/scamActivity?sort=-id&limit=${limit}&fields=address,host,action,time`
+    `${API}/scamActivity?sort=-id&limit=${limit}&fields=address,host,action,time,link`
   );
   const list = await req.json();
   let allAddressList = [];
