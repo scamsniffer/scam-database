@@ -1,4 +1,4 @@
-# Scam Sniffer Database
+# Web3 Scam Database
 This repository contains a blacklist of domains and address maintained by [Scam Sniffer](https://scamsniffer.io/?utm_source=database).
 
 ## Blacklist
