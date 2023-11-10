@@ -296,7 +296,7 @@ async function doGenerate(lastId = 1) {
 
   allList.address.forEach((address) => {
     if (cacheData.address.indexOf(address) === -1) {
-      newAddress.push(address);
+      //newAddress.push(address);
     }
   });
 
