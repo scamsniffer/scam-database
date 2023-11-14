@@ -14,7 +14,7 @@ The blacklist directory contains two lists in JSON format:
 - [Detector API](https://docs.scamsniffer.io/reference) - Provide malicious website scanning service for web3 platforms
 
 ## Update Frequency
-Update daily and with 3 days delay. If you want the real-time result, Please take look at our [Lookup API](https://docs.scamsniffer.io/reference/getsitecheck)
+Update daily and with 7 days delay. If you want the real-time result, Please take look at our [Lookup API](https://docs.scamsniffer.io/reference/getsitecheck)
 
 ## Used by
 - [Forta Bot](https://explorer.forta.network/bot/0x8badbf2ad65abc3df5b1d9cc388e419d9255ef999fb69aac6bf395646cf01c14)
