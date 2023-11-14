@@ -196,7 +196,7 @@ async function getRecentScamActivity(limit = 100) {
     }
 
     const timeLeft = Date.now() - new Date(_.time).getTime();
-    const interval = 86400 * 1000 * 3;
+    const interval = 86400 * 1000 * 7;
 
     if (timeLeft < interval) {
       return;
