@@ -47,3 +47,4 @@ config.json
 chainabuse
 run.sh
 scam-run.sh
+generate.js
