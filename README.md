@@ -50,6 +50,7 @@ For any inquiries, please reach out to us at [fun@scamsniffer.io].
 - [Discord](https://discord.com/invite/UfrduBeefK)
 - [GitHub](https://github.com/scamsniffer)
 - [WebSite](https://scamsniffer.io/?utm_source=git-repo)
+- [Chrome Extension](https://chromewebstore.google.com/detail/scam-sniffer/mnkbccinkbalkmmnmbcicdobcmgggmfc)
 ---
 
 Stay secure and protect your crypto assets with ScamSniffer.
