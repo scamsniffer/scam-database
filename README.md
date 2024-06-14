@@ -29,7 +29,7 @@ Our blacklists are trusted and utilized by major industry leaders, including:
 - Forta
 
 
-## Real-Time Data API
+## Real-Time Blocklist API
 
 For organizations in need of real-time updates, we offer a premium API service. This paid service provides immediate access to our latest data, ensuring maximum protection against phishing threats.
 
