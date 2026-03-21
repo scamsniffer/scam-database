@@ -1,0 +1,10 @@
+{
+  "address": "0x5388860f73b3f8467f9f22ee48b084e6a812de8e",
+  "chain": "eth",
+  "date": "2026-03-21",
+  "description": "Honeypot with obfuscated backdoor pattern. Detected by ByteHound automated bytecode analysis.",
+  "evidence_url": "https://github.com/0x1Adi/bytehound-disclosures/blob/main/disclosures/2026-03-21-unknown-honeypot.md",
+  "name": "Unknown Token",
+  "source": "bytehound",
+  "type": "honeypot"
+}
