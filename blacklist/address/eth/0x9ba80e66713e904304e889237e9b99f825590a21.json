@@ -1,0 +1,10 @@
+{
+  "address": "0x9ba80e66713e904304e889237e9b99f825590a21",
+  "chain": "eth",
+  "date": "2026-03-21",
+  "description": "Honeypot with obfuscated backdoor pattern. Detected by ByteHound automated bytecode analysis.",
+  "evidence_url": "https://github.com/0x1Adi/bytehound-disclosures/blob/main/disclosures/2026-03-21-st-honeypot.md",
+  "name": "Sentio (ST)",
+  "source": "bytehound",
+  "type": "honeypot"
+}
