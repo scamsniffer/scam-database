@@ -1,0 +1,10 @@
+{
+  "address": "0xd0f6d710e69026918b884bb475b7fe2fbe7eb102",
+  "chain": "eth",
+  "date": "2026-03-21",
+  "description": "Honeypot with obfuscated backdoor pattern. Detected by ByteHound automated bytecode analysis.",
+  "evidence_url": "https://github.com/0x1Adi/bytehound-disclosures/blob/main/disclosures/2026-03-21-cowards-honeypot.md",
+  "name": "NATO Cowards (Cowards)",
+  "source": "bytehound",
+  "type": "honeypot"
+}
