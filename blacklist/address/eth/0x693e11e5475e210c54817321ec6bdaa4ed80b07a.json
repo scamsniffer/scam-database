@@ -1,0 +1,10 @@
+{
+  "address": "0x693e11e5475e210c54817321ec6bdaa4ed80b07a",
+  "chain": "eth",
+  "date": "2026-03-21",
+  "description": "Honeypot with obfuscated backdoor pattern. Detected by ByteHound automated bytecode analysis.",
+  "evidence_url": "https://github.com/0x1Adi/bytehound-disclosures/blob/main/disclosures/2026-03-21-grokputer-honeypot.md",
+  "name": "grokputer (GROKPUTER)",
+  "source": "bytehound",
+  "type": "honeypot"
+}
