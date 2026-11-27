@@ -1,0 +1,10 @@
+{
+  "address": "0x95d09d6fc0f7cbeb8048873a9f375a25d60b17df",
+  "chain": "eth",
+  "date": "2026-03-21",
+  "description": "Honeypot with obfuscated backdoor pattern. Detected by ByteHound automated bytecode analysis.",
+  "evidence_url": "https://github.com/0x1Adi/bytehound-disclosures/blob/main/disclosures/2026-03-21-gc-honeypot.md",
+  "name": "Grok Computer (GC)",
+  "source": "bytehound",
+  "type": "honeypot"
+}
