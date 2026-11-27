@@ -1,0 +1,10 @@
+{
+  "address": "0x423f8211085db9b3c8f4fda3569af3f52bee93bf",
+  "chain": "eth",
+  "date": "2026-03-21",
+  "description": "Honeypot with obfuscated backdoor pattern. Detected by ByteHound automated bytecode analysis.",
+  "evidence_url": "https://github.com/0x1Adi/bytehound-disclosures/blob/main/disclosures/2026-03-21-mezo-honeypot.md",
+  "name": "Mezo (MEZO)",
+  "source": "bytehound",
+  "type": "honeypot"
+}
