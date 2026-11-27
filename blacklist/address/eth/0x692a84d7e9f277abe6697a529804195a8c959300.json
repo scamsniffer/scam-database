@@ -1,0 +1,10 @@
+{
+  "address": "0x692a84d7e9f277abe6697a529804195a8c959300",
+  "chain": "eth",
+  "date": "2026-03-21",
+  "description": "Honeypot with obfuscated backdoor pattern. Detected by ByteHound automated bytecode analysis.",
+  "evidence_url": "https://github.com/0x1Adi/bytehound-disclosures/blob/main/disclosures/2026-03-21-gold-paper-honeypot.md",
+  "name": "Gold Paper (GOLD PAPER)",
+  "source": "bytehound",
+  "type": "honeypot"
+}
