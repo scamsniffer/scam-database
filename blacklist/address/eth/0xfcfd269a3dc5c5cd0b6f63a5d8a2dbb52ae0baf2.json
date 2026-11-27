@@ -1,0 +1,10 @@
+{
+  "address": "0xfcfd269a3dc5c5cd0b6f63a5d8a2dbb52ae0baf2",
+  "chain": "eth",
+  "date": "2026-03-21",
+  "description": "Honeypot with obfuscated backdoor pattern. Detected by ByteHound automated bytecode analysis.",
+  "evidence_url": "https://github.com/0x1Adi/bytehound-disclosures/blob/main/disclosures/2026-03-21-chibilon-honeypot.md",
+  "name": "Chibi Elon (CHIBILON)",
+  "source": "bytehound",
+  "type": "honeypot"
+}
